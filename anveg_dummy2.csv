@@ -1,0 +1,4120 @@
+plotID,plot,size,structure,species,n,k
+32MR,32MR-10-01,4,TB-semai,Hata,4,0
+32MR,32MR-10-01,4,TB-semai,Parasi,5,0
+32MR,32MR-10-01,4,TB-semai,Papakuan,3,0
+32MR,32MR-10-01,4,TB-semai,Sulangkar,4,0
+32MR,32MR-10-01,4,TB-semai,Laban,5,0
+32MR,32MR-10-01,4,TB-semai,Peuris,7,0
+32MR,32MR-10-01,4,TB-semai,Ceuri,2,0
+32MR,32MR-10-01,25,Pancang,Kanyere,2,0
+32MR,32MR-10-01,25,Pancang,Ki pare,1,0
+32MR,32MR-10-01,25,Pancang,Jejerukan,1,0
+32MR,32MR-10-01,25,Pancang,Talingkup,1,0
+32MR,32MR-10-01,25,Pancang,Tongtolok,1,0
+32MR,32MR-10-01,25,Pancang,Waringin,1,0
+32MR,32MR-10-01,100,Tiang,Ki jahe,1,34
+32MR,32MR-10-01,100,Tiang,Hantap,1,31
+32MR,32MR-10-01,100,Tiang,Ipis Kulit,1,32
+32MR,32MR-10-01,400,Pohon,Pulus,1,109
+32MR,32MR-10-01,400,Pohon,Hampelas,1,80
+32MR,32MR-10-01,400,Pohon,Kenanga ,1,118
+32MR,32MR-10-01,400,Pohon,Ki tiang,1,182
+32MR,32MR-10-01,400,Pohon,Kenal,1,220
+32MR,32MR-10-02,4,TB-semai,Cariang,12,0
+32MR,32MR-10-02,4,TB-semai,Parasi,3,0
+32MR,32MR-10-02,4,TB-semai,Hata,4,0
+32MR,32MR-10-02,4,TB-semai,Tepus,2,0
+32MR,32MR-10-02,4,TB-semai,Ki sampang,1,0
+32MR,32MR-10-02,4,TB-semai,Laban,3,0
+32MR,32MR-10-02,4,TB-semai,Ki caang,1,0
+32MR,32MR-10-02,4,TB-semai,Ki pare,2,0
+32MR,32MR-10-02,25,Pancang,Ki jahe,2,0
+32MR,32MR-10-02,25,Pancang,Ki soro,1,0
+32MR,32MR-10-02,25,Pancang,Pulat,1,0
+32MR,32MR-10-02,25,Pancang,Kanyere,2,0
+32MR,32MR-10-02,25,Pancang,Ki pare,2,0
+32MR,32MR-10-02,25,Pancang,Songgom,2,0
+32MR,32MR-10-02,100,Tiang,Kanyere,1,58
+32MR,32MR-10-02,100,Tiang,Kanyere,1,52
+32MR,32MR-10-02,100,Tiang,Kanyere,1,41
+32MR,32MR-10-02,100,Tiang,Kanyere,1,36
+32MR,32MR-10-02,400,Pohon,Padali,1,160
+32MR,32MR-10-02,400,Pohon,Dahu,1,120
+32MR,32MR-10-02,400,Pohon,Ki sereh,1,92
+32MR,32MR-10-02,400,Pohon,Ki sampang,1,72
+32MR,32MR-10-03,4,TB-semai,Ki jahe,3,0
+32MR,32MR-10-03,4,TB-semai,Ki lilin,4,0
+32MR,32MR-10-03,4,TB-semai,Sulangkar,5,0
+32MR,32MR-10-03,4,TB-semai,Talingkup,1,0
+32MR,32MR-10-03,4,TB-semai,Sayar,2,0
+32MR,32MR-10-03,4,TB-semai,Bayur,1,0
+32MR,32MR-10-03,25,Pancang,Padali,2,0
+32MR,32MR-10-03,25,Pancang,Ki buluh,1,0
+32MR,32MR-10-03,25,Pancang,Ki sampang,1,0
+32MR,32MR-10-03,25,Pancang,Talingkup,1,0
+32MR,32MR-10-03,100,Tiang,Padali,1,33
+32MR,32MR-10-03,100,Tiang,Pulus,1,60
+32MR,32MR-10-03,100,Tiang,Kanyere,1,39
+32MR,32MR-10-03,100,Tiang,Pulus,1,31
+32MR,32MR-10-03,100,Tiang,Ki sampang,1,55
+32MR,32MR-10-03,400,Pohon,Padali,1,160
+32MR,32MR-10-03,400,Pohon,Ki dangdeur,1,92
+32MR,32MR-10-03,400,Pohon,Laban,1,144
+32MR,32MR-10-03,400,Pohon,Kadongdong,1,300
+32MR,32MR-10-03,400,Pohon,Kadongdong,1,120
+32MR,32MR-10-03,400,Pohon,Hampelas,1,110
+32MR,32MR-10-04,4,TB-semai,Cariang,4,0
+32MR,32MR-10-04,4,TB-semai,Papakuan,4,0
+32MR,32MR-10-04,4,TB-semai,Hata,2,0
+32MR,32MR-10-04,4,TB-semai,Ipis Kulit,3,0
+32MR,32MR-10-04,4,TB-semai,Ki sampang,2,0
+32MR,32MR-10-04,4,TB-semai,Peuris,6,0
+32MR,32MR-10-04,4,TB-semai,Heucit,3,0
+32MR,32MR-10-04,25,Pancang,Ipis Kulit,1,0
+32MR,32MR-10-04,25,Pancang,Peuris,3,0
+32MR,32MR-10-04,25,Pancang,Burung dahu,1,0
+32MR,32MR-10-04,25,Pancang,Ki teja,2,0
+32MR,32MR-10-04,100,Tiang,Ki jahe,1,47
+32MR,32MR-10-04,100,Tiang,Kanyere,1,39
+32MR,32MR-10-04,400,Pohon,Putat,1,88
+32MR,32MR-10-04,400,Pohon,Kondang,1,310
+32MR,32MR-10-04,400,Pohon,Ki coang,1,65
+32MR,32MR-10-04,400,Pohon,Tongtolok,1,82
+32MR,32MR-10-04,400,Pohon,Ki jahe,1,70
+32MR,32MR-10-05,4,TB-semai,Papakuan,8,0
+32MR,32MR-10-05,4,TB-semai,Parasi,3,0
+32MR,32MR-10-05,4,TB-semai,Sayar,3,0
+32MR,32MR-10-05,4,TB-semai,Peuris,5,0
+32MR,32MR-10-05,4,TB-semai,Ki jahe,1,0
+32MR,32MR-10-05,4,TB-semai,Sulangkar,2,0
+32MR,32MR-10-05,4,TB-semai,Mangga leuweung,1,0
+32MR,32MR-10-05,25,Pancang,Songgom,2,0
+32MR,32MR-10-05,25,Pancang,Ki teja,1,0
+32MR,32MR-10-05,25,Pancang,Burung dahu,1,0
+32MR,32MR-10-05,25,Pancang,Ki jahe,1,0
+32MR,32MR-10-05,25,Pancang,Ceuri,1,0
+32MR,32MR-10-05,100,Tiang,Laban,1,50
+32MR,32MR-10-05,400,Pohon,Peuris,1,62
+32MR,32MR-10-05,400,Pohon,Kanyere,1,68
+32MR,32MR-10-05,400,Pohon,Peuris,1,74
+32MR,32MR-10-05,400,Pohon,Angrit,1,62
+32MR,32MR-10-05,400,Pohon,Ki hiang,1,160
+32MR,32MR-06-01,4,TB-semai,Lolo,1,0
+32MR,32MR-06-01,4,TB-semai,Hata,4,0
+32MR,32MR-06-01,4,TB-semai,Sayar,2,0
+32MR,32MR-06-01,4,TB-semai,Oar,1,0
+32MR,32MR-06-01,4,TB-semai,Sulangkar,1,0
+32MR,32MR-06-01,4,TB-semai,Sentul,1,0
+32MR,32MR-06-01,4,TB-semai,Buluh,2,0
+32MR,32MR-06-01,4,TB-semai,Burung dahu,1,0
+32MR,32MR-06-01,4,TB-semai,Ki jahe,2,0
+32MR,32MR-06-01,25,Pancang,Songgom,5,0
+32MR,32MR-06-01,25,Pancang,Peuris,1,0
+32MR,32MR-06-01,25,Pancang,Ki puak,1,0
+32MR,32MR-06-01,25,Pancang,Ceuri,1,0
+32MR,32MR-06-01,100,Tiang,Bungur,1,40
+32MR,32MR-06-01,100,Tiang,Heucit,1,32
+32MR,32MR-06-01,100,Tiang,Bungur,1,42
+32MR,32MR-06-01,400,Pohon,Laban,1,66
+32MR,32MR-06-01,400,Pohon,Ki tanjung,1,120
+32MR,32MR-06-01,400,Pohon,Hareumeung,1,96
+32MR,32MR-06-01,400,Pohon,Sempur,1,113
+32MR,32MR-06-01,400,Pohon,Bungur,1,84
+32MR,32MR-06-01,400,Pohon,Sempur,1,113
+32MR,32MR-06-01,400,Pohon,Gadog,1,64
+32MR,32MR-06-02,4,TB-semai,Bingbin,10,0
+32MR,32MR-06-02,4,TB-semai,Rotan,3,0
+32MR,32MR-06-02,4,TB-semai,Lolo,15,0
+32MR,32MR-06-02,4,TB-semai,Hata,3,0
+32MR,32MR-06-02,25,Pancang,Calik angin,2,0
+32MR,32MR-06-02,25,Pancang,Ki sampang,1,0
+32MR,32MR-06-02,25,Pancang,Sulangkar,2,0
+32MR,32MR-06-02,25,Pancang,Peuris,3,0
+32MR,32MR-06-02,25,Pancang,Ki caang,1,0
+32MR,32MR-06-02,25,Pancang,Salam,1,0
+32MR,32MR-06-02,25,Pancang,Heucit,2,0
+32MR,32MR-06-02,25,Pancang,Ki genteul,1,0
+32MR,32MR-06-02,25,Pancang,Songgom,1,0
+32MR,32MR-06-02,100,Tiang,Heucit,1,32
+32MR,32MR-06-02,100,Tiang,Laban,1,40
+32MR,32MR-06-02,100,Tiang,Ki huut,1,42
+32MR,32MR-06-02,400,Pohon,Ki jahe,1,71
+32MR,32MR-06-02,400,Pohon,Putat,1,362
+32MR,32MR-06-02,400,Pohon,Burung dahu,1,70
+32MR,32MR-06-02,400,Pohon,Bungur,1,120
+32MR,32MR-06-02,400,Pohon,Bungur,1,140
+32MR,32MR-06-03,4,TB-semai,Lolo,5,0
+32MR,32MR-06-03,4,TB-semai,Canar,1,0
+32MR,32MR-06-03,4,TB-semai,Hata,3,0
+32MR,32MR-06-03,4,TB-semai,Rotan,1,0
+32MR,32MR-06-03,4,TB-semai,Burung dahu,2,0
+32MR,32MR-06-03,4,TB-semai,Jaura,5,0
+32MR,32MR-06-03,4,TB-semai,Peuris,3,0
+32MR,32MR-06-03,4,TB-semai,Ki lilin,2,0
+32MR,32MR-06-03,25,Pancang,Heucit,4,0
+32MR,32MR-06-03,25,Pancang,Songgom,1,0
+32MR,32MR-06-03,25,Pancang,Buluh,1,0
+32MR,32MR-06-03,25,Pancang,Ki segel,2,0
+32MR,32MR-06-03,100,Tiang,Buluh,1,39
+32MR,32MR-06-03,100,Tiang,Heucit,1,31
+32MR,32MR-06-03,100,Tiang,Heucit,1,43
+32MR,32MR-06-03,100,Tiang,Heucit,1,36
+32MR,32MR-06-03,400,Pohon,Bungur,1,96
+32MR,32MR-06-03,400,Pohon,Bungur,1,78
+32MR,32MR-06-03,400,Pohon,Bungur,1,92
+32MR,32MR-06-03,400,Pohon,Laban,1,88
+32MR,32MR-06-03,400,Pohon,Laban,1,83
+32MR,32MR-06-03,400,Pohon,Laban,1,71
+32MR,32MR-06-04,4,TB-semai,Hata,4,0
+32MR,32MR-06-04,4,TB-semai,Bangban,3,0
+32MR,32MR-06-04,4,TB-semai,Cariang,2,0
+32MR,32MR-06-04,4,TB-semai,Hata,2,0
+32MR,32MR-06-04,4,TB-semai,Lolo,4,0
+32MR,32MR-06-04,4,TB-semai,Jejerukan,5,0
+32MR,32MR-06-04,4,TB-semai,Heucit,1,0
+32MR,32MR-06-04,4,TB-semai,Burung dahu,2,0
+32MR,32MR-06-04,4,TB-semai,Ki jahe,1,0
+32MR,32MR-06-04,25,Pancang,Heucit,5,0
+32MR,32MR-06-04,25,Pancang,Huru,3,0
+32MR,32MR-06-04,25,Pancang,Peuris,2,0
+32MR,32MR-06-04,25,Pancang,Pareket,2,0
+32MR,32MR-06-04,100,Tiang,Laban,1,57
+32MR,32MR-06-04,100,Tiang,Laban,1,56
+32MR,32MR-06-04,100,Tiang,Hareumeung,1,45
+32MR,32MR-06-04,100,Tiang,Heucit,1,43
+32MR,32MR-06-04,400,Pohon,Ki sereh,1,123
+32MR,32MR-06-04,400,Pohon,Sempur,1,250
+32MR,32MR-06-04,400,Pohon,Bungur,1,125
+32MR,32MR-06-04,400,Pohon,Bungur,1,150
+32MR,32MR-06-05,4,TB-semai,Lolo,20,0
+32MR,32MR-06-05,4,TB-semai,Salak,3,0
+32MR,32MR-06-05,4,TB-semai,Cariang,4,0
+32MR,32MR-06-05,4,TB-semai,Oar,1,0
+32MR,32MR-06-05,4,TB-semai,Huru,5,0
+32MR,32MR-06-05,4,TB-semai,Peuris,2,0
+32MR,32MR-06-05,4,TB-semai,Ceuri,1,0
+32MR,32MR-06-05,25,Pancang,Ki segel,6,0
+32MR,32MR-06-05,25,Pancang,Ki calung,1,0
+32MR,32MR-06-05,25,Pancang,Songgom,2,0
+32MR,32MR-06-05,25,Pancang,Burung dahu,1,0
+32MR,32MR-06-05,100,Tiang,Laban,1,50
+32MR,32MR-06-05,100,Tiang,Heucit,1,34
+32MR,32MR-06-05,100,Tiang,Heucit,1,41
+32MR,32MR-06-05,100,Tiang,Heucit,1,40
+32MR,32MR-06-05,100,Tiang,Heucit,1,39
+32MR,32MR-06-05,100,Tiang,Bungur,1,35
+32MR,32MR-06-05,400,Pohon,Kadongdong,1,72
+32MR,32MR-06-05,400,Pohon,Kadongdong,1,99
+32MR,32MR-06-05,400,Pohon,Ki tanjung,1,84
+32MR,32MR-06-05,400,Pohon,Ki sereh,1,256
+32MR,32MR-06-05,400,Pohon,Hanja,1,300
+32MR,32MR-03-01,4,TB-semai,Rotan,15,0
+32MR,32MR-03-01,4,TB-semai,Papakuan,13,0
+32MR,32MR-03-01,4,TB-semai,Bungur,1,0
+32MR,32MR-03-01,4,TB-semai,Manglid,1,0
+32MR,32MR-03-01,4,TB-semai,Ki huut,1,0
+32MR,32MR-03-01,4,TB-semai,Tundun sayong,1,0
+32MR,32MR-03-01,4,TB-semai,Ki mokla,2,0
+32MR,32MR-03-01,4,TB-semai,Malapari,1,0
+32MR,32MR-03-01,25,Pancang,Manglid,1,0
+32MR,32MR-03-01,25,Pancang,Taritih,1,0
+32MR,32MR-03-01,25,Pancang,Ki endog,2,0
+32MR,32MR-03-01,25,Pancang,Ki segel,1,0
+32MR,32MR-03-01,25,Pancang,Rukem,1,0
+32MR,32MR-03-01,100,Tiang,Ki calung,1,32
+32MR,32MR-03-01,100,Tiang,Rengas,1,38
+32MR,32MR-03-01,100,Tiang,Langkap,1,34
+32MR,32MR-03-01,100,Tiang,Langkap,1,45
+32MR,32MR-03-01,400,Pohon,Bengang,1,108
+32MR,32MR-03-01,400,Pohon,Bengang,1,300
+32MR,32MR-03-01,400,Pohon,Ki beureum,1,67
+32MR,32MR-03-01,400,Pohon,Tundun sayong,1,92
+32MR,32MR-03-01,400,Pohon,Ki huut,1,116
+32MR,32MR-03-01,400,Pohon,Purut,1,84
+32MR,32MR-03-01,400,Pohon,Lame,1,201
+32MR,32MR-03-02,4,TB-semai,Rotan,6,0
+32MR,32MR-03-02,4,TB-semai,Ki calung,2,0
+32MR,32MR-03-02,4,TB-semai,Ki huut,4,0
+32MR,32MR-03-02,4,TB-semai,Ki endog,1,0
+32MR,32MR-03-02,4,TB-semai,Ceuri,1,0
+32MR,32MR-03-02,25,Pancang,Ki puak,4,0
+32MR,32MR-03-02,25,Pancang,Taritih,2,0
+32MR,32MR-03-02,25,Pancang,Heucit,3,0
+32MR,32MR-03-02,25,Pancang,Lampeni gunung,2,0
+32MR,32MR-03-02,100,Tiang,Purut,1,40
+32MR,32MR-03-02,100,Tiang,Heucit,1,35
+32MR,32MR-03-02,100,Tiang,Ki sampang,1,40
+32MR,32MR-03-02,400,Pohon,Ipis Kulit,1,44
+32MR,32MR-03-02,400,Pohon,Gadog,1,251
+32MR,32MR-03-02,400,Pohon,Ki calung,1,200
+32MR,32MR-03-02,400,Pohon,Ki kacang,1,298
+32MR,32MR-03-02,400,Pohon,Ki segel,1,63
+32MR,32MR-03-02,400,Pohon,Sigeung,1,255
+32MR,32MR-03-03,4,TB-semai,Kaman,3,0
+32MR,32MR-03-03,4,TB-semai,Bingbin,3,0
+32MR,32MR-03-03,4,TB-semai,Papakuan,5,0
+32MR,32MR-03-03,4,TB-semai,Salam,2,0
+32MR,32MR-03-03,4,TB-semai,Ki mokla,4,0
+32MR,32MR-03-03,4,TB-semai,Ki kacang,2,0
+32MR,32MR-03-03,4,TB-semai,Taritih,1,0
+32MR,32MR-03-03,25,Pancang,Ki kacang,2,0
+32MR,32MR-03-03,25,Pancang,Ki puak,2,0
+32MR,32MR-03-03,25,Pancang,Ki batok,1,0
+32MR,32MR-03-03,100,Tiang,Ipis Kulit,1,48
+32MR,32MR-03-03,100,Tiang,Peuris,1,33
+32MR,32MR-03-03,100,Tiang,Ki kacang,1,48
+32MR,32MR-03-03,100,Tiang,Langkap,1,42
+32MR,32MR-03-03,100,Tiang,Langkap,1,40
+32MR,32MR-03-03,100,Tiang,Langkap,1,43
+32MR,32MR-03-03,400,Pohon,Ki kacang,1,80
+32MR,32MR-03-03,400,Pohon,Ki beusi,1,120
+32MR,32MR-03-03,400,Pohon,Ki kacang,1,303
+32MR,32MR-03-03,400,Pohon,Sigeung,1,315
+32MR,32MR-03-04,4,TB-semai,Lolo,2,0
+32MR,32MR-03-04,4,TB-semai,Rotan,8,0
+32MR,32MR-03-04,4,TB-semai,Ki geulam,4,0
+32MR,32MR-03-04,4,TB-semai,Ki calung,1,0
+32MR,32MR-03-04,4,TB-semai,Lampeni gunung,2,0
+32MR,32MR-03-04,25,Pancang,Ki segel,3,0
+32MR,32MR-03-04,25,Pancang,Salam,1,0
+32MR,32MR-03-04,25,Pancang,Ipis Kulit,1,0
+32MR,32MR-03-04,25,Pancang,Ki segel,40,0
+32MR,32MR-03-04,100,Tiang,Ipis Kulit,1,32
+32MR,32MR-03-04,100,Tiang,Taritih,1,54
+32MR,32MR-03-04,100,Tiang,Taritih,1,47
+32MR,32MR-03-04,100,Tiang,Ki segel,1,102
+32MR,32MR-03-04,100,Tiang,Sigeung,1,399
+32MR,32MR-03-04,100,Tiang,Taritih,1,66
+32MR,32MR-03-04,100,Tiang,Ki batok,1,202
+32MR,32MR-03-04,100,Tiang,Rengas,1,225
+32MR,32MR-03-04,100,Tiang,Sigeung,1,250
+32MR,32MR-03-05,4,TB-semai,Rotan,6,0
+32MR,32MR-03-05,4,TB-semai,Areuy gadel,1,0
+32MR,32MR-03-05,4,TB-semai,Heucit,3,0
+32MR,32MR-03-05,4,TB-semai,Hantap heulang,1,0
+32MR,32MR-03-05,4,TB-semai,Ki tanjung,2,0
+32MR,32MR-03-05,4,TB-semai,Ki geulam,1,0
+32MR,32MR-03-05,25,Pancang,Ki endog,2,0
+32MR,32MR-03-05,25,Pancang,Songgom,2,0
+32MR,32MR-03-05,25,Pancang,Ki huut,1,0
+32MR,32MR-03-05,25,Pancang,Hantap,1,0
+32MR,32MR-03-05,100,Tiang,Ki segel,1,37
+32MR,32MR-03-05,100,Tiang,Ki caang,1,48
+32MR,32MR-03-05,100,Tiang,Salam,1,30
+32MR,32MR-03-05,400,Pohon,Ki batok,1,80
+32MR,32MR-03-05,400,Pohon,Ki segel,1,86
+32MR,32MR-03-05,400,Pohon,Ki calung,1,96
+32MR,32MR-03-05,400,Pohon,Ki kacang,1,105
+32MR,32MR-03-05,400,Pohon,Ki segel,1,74
+32MR,32MR-03-05,400,Pohon,Ki calung,1,82
+32MR,32MR-04-01,4,TB-semai,Lolo,2,0
+32MR,32MR-04-01,4,TB-semai,Bingbin,5,0
+32MR,32MR-04-01,4,TB-semai,Rotan,7,0
+32MR,32MR-04-01,4,TB-semai,Jaura,2,0
+32MR,32MR-04-01,4,TB-semai,Salam,5,0
+32MR,32MR-04-01,25,Pancang,Heucit,3,0
+32MR,32MR-04-01,25,Pancang,Ki batok,2,0
+32MR,32MR-04-01,25,Pancang,Peuris,1,0
+32MR,32MR-04-01,100,Tiang,Manglid,1,40
+32MR,32MR-04-01,100,Tiang,Jaura,1,33
+32MR,32MR-04-01,100,Tiang,Mara,1,42
+32MR,32MR-04-01,100,Tiang,Ki mokla,1,43
+32MR,32MR-04-01,100,Tiang,Ki batok,1,50
+32MR,32MR-04-01,100,Tiang,Jaura,1,38
+32MR,32MR-04-01,400,Pohon,Salam,1,350
+32MR,32MR-04-01,400,Pohon,Ki batok,1,96
+32MR,32MR-04-01,400,Pohon,Ipis Kulit,1,105
+32MR,32MR-04-01,400,Pohon,Purut,1,210
+32MR,32MR-04-02,4,TB-semai,Rotan,7,0
+32MR,32MR-04-02,4,TB-semai,Ki caang,1,0
+32MR,32MR-04-02,4,TB-semai,Ki mokla,1,0
+32MR,32MR-04-02,4,TB-semai,Jaura,2,0
+32MR,32MR-04-02,4,TB-semai,Lame peucang,2,0
+32MR,32MR-04-02,25,Pancang,Ki batok,4,0
+32MR,32MR-04-02,25,Pancang,Ki puak,2,0
+32MR,32MR-04-02,25,Pancang,Heas,1,0
+32MR,32MR-04-02,25,Pancang,Ipis Kulit,2,0
+32MR,32MR-04-02,100,Tiang,Ki huut,1,40
+32MR,32MR-04-02,100,Tiang,Ki mokla,1,40
+32MR,32MR-04-02,100,Tiang,Bungur,1,42
+32MR,32MR-04-02,100,Tiang,Ki calung,1,45
+32MR,32MR-04-02,100,Tiang,Heas,1,34
+32MR,32MR-04-02,100,Tiang,Ipis Kulit,1,40
+32MR,32MR-04-02,100,Tiang,Ki calung,1,35
+32MR,32MR-04-02,400,Pohon,Ki huut,1,152
+32MR,32MR-04-02,400,Pohon,Ki calung,1,120
+32MR,32MR-04-02,400,Pohon,Kepuh,1,400
+32MR,32MR-04-02,400,Pohon,Bungur,1,200
+32MR,32MR-04-03,4,TB-semai,Lolo,3,0
+32MR,32MR-04-03,4,TB-semai,Rotan,6,0
+32MR,32MR-04-03,4,TB-semai,Bengang,1,0
+32MR,32MR-04-03,4,TB-semai,Ipis Kulit,3,0
+32MR,32MR-04-03,4,TB-semai,Burung dahu,2,0
+32MR,32MR-04-03,4,TB-semai,Jaura,2,0
+32MR,32MR-04-03,4,TB-semai,Ki lalayu,1,0
+32MR,32MR-04-03,25,Pancang,Ki batok,1,0
+32MR,32MR-04-03,25,Pancang,Ki caang,1,0
+32MR,32MR-04-03,25,Pancang,Salam,1,0
+32MR,32MR-04-03,25,Pancang,Ki endog,2,0
+32MR,32MR-04-03,25,Pancang,Lampeni gunung,3,0
+32MR,32MR-04-03,100,Tiang,Ki beureum,1,42
+32MR,32MR-04-03,100,Tiang,Ki beureum,1,35
+32MR,32MR-04-03,400,Pohon,Sigeung,1,400
+32MR,32MR-04-03,400,Pohon,Ki batok,1,120
+32MR,32MR-04-03,400,Pohon,Bengang,1,70
+32MR,32MR-04-03,400,Pohon,Ki batok,1,62
+32MR,32MR-04-04,4,TB-semai,Rotan,8,0
+32MR,32MR-04-04,4,TB-semai,Ki segel,3,0
+32MR,32MR-04-04,4,TB-semai,Ipis Kulit,1,0
+32MR,32MR-04-04,4,TB-semai,Jaura,2,0
+32MR,32MR-04-04,25,Pancang,Ki segel,10,0
+32MR,32MR-04-04,25,Pancang,Ki kacang,2,0
+32MR,32MR-04-04,25,Pancang,Bengang,3,0
+32MR,32MR-04-04,100,Tiang,Peuris,1,43
+32MR,32MR-04-04,100,Tiang,Ki mokla,1,45
+32MR,32MR-04-04,400,Pohon,Kepuh,1,210
+32MR,32MR-04-04,400,Pohon,Ki geulam,1,370
+32MR,32MR-04-04,400,Pohon,Ki calung,1,185
+32MR,32MR-04-04,400,Pohon,Ki batok,1,142
+32MR,32MR-04-05,4,TB-semai,Rotan,10,0
+32MR,32MR-04-05,4,TB-semai,Hantap,4,0
+32MR,32MR-04-05,4,TB-semai,Ki geulam,8,0
+32MR,32MR-04-05,4,TB-semai,Jaura,1,0
+32MR,32MR-04-05,25,Pancang,Ki segel,2,0
+32MR,32MR-04-05,25,Pancang,Ki batok,4,0
+32MR,32MR-04-05,25,Pancang,Ki kacang,1,0
+32MR,32MR-04-05,25,Pancang,Songgom,1,0
+32MR,32MR-04-05,100,Tiang,Ki segel,1,35
+32MR,32MR-04-05,100,Tiang,Hareumeung,1,45
+32MR,32MR-04-05,100,Tiang,Heas,1,46
+32MR,32MR-04-05,100,Tiang,Purut,1,35
+32MR,32MR-04-05,400,Pohon,Purut,1,200
+32MR,32MR-04-05,400,Pohon,Salam,1,215
+32MR,32MR-04-05,400,Pohon,Purut,1,105
+32MR,32MR-04-05,400,Pohon,Padali,1,108
+32MR,32MR-01-01,4,TB-semai,Areuy gadel,3,0
+32MR,32MR-01-01,4,TB-semai,Bingbin,4,0
+32MR,32MR-01-01,4,TB-semai,Ki jahe,1,0
+32MR,32MR-01-01,4,TB-semai,Purancak gunung,1,0
+32MR,32MR-01-01,4,TB-semai,Kanyere,1,0
+32MR,32MR-01-01,4,TB-semai,Peuris,2,0
+32MR,32MR-01-01,4,TB-semai,Heucit,1,0
+32MR,32MR-01-01,25,Pancang,Huni,1,0
+32MR,32MR-01-01,25,Pancang,Peuris,2,0
+32MR,32MR-01-01,25,Pancang,Ki puak,3,0
+32MR,32MR-01-01,25,Pancang,Jaura,2,0
+32MR,32MR-01-01,400,Pohon,Purut,1,80
+32MR,32MR-01-01,400,Pohon,Bengang,1,100
+32MR,32MR-01-01,400,Pohon,Salam,1,250
+32MR,32MR-01-02,4,TB-semai,Areuy gadel,2,0
+32MR,32MR-01-02,4,TB-semai,Ki genteul,1,0
+32MR,32MR-01-02,4,TB-semai,Ceuri,1,0
+32MR,32MR-01-02,4,TB-semai,Ki tanjung,1,0
+32MR,32MR-01-02,4,TB-semai,Hantap,1,0
+32MR,32MR-01-02,25,Pancang,Ki mokla,2,0
+32MR,32MR-01-02,25,Pancang,Ki genteul,1,0
+32MR,32MR-01-02,25,Pancang,Burung dahu,1,0
+32MR,32MR-01-02,25,Pancang,Ki huut,1,0
+32MR,32MR-01-02,100,Tiang,Peuris,1,35
+32MR,32MR-01-02,100,Tiang,Heucit,1,42
+32MR,32MR-01-02,100,Tiang,Langkap,1,30
+32MR,32MR-01-02,100,Tiang,Langkap,1,40
+32MR,32MR-01-02,100,Tiang,Langkap,1,42
+32MR,32MR-01-02,100,Tiang,Langkap,1,35
+32MR,32MR-01-02,400,Pohon,Buluh,1,102
+32MR,32MR-01-02,400,Pohon,Purut,1,100
+32MR,32MR-01-02,400,Pohon,Ki batok,1,120
+32MR,32MR-01-03,4,TB-semai,Lolo,4,0
+32MR,32MR-01-03,4,TB-semai,Areuy gadel,5,0
+32MR,32MR-01-03,4,TB-semai,Papakuan,3,0
+32MR,32MR-01-03,4,TB-semai,Ki batok,8,0
+32MR,32MR-01-03,4,TB-semai,Buluh,2,0
+32MR,32MR-01-03,4,TB-semai,Lampeni ,1,0
+32MR,32MR-01-03,25,Pancang,Bengang,2,0
+32MR,32MR-01-03,25,Pancang,Ki sampang,1,0
+32MR,32MR-01-03,25,Pancang,Lampeni gunung,2,0
+32MR,32MR-01-03,25,Pancang,Ki mokla,1,0
+32MR,32MR-01-03,100,Tiang,Calik angin,1,45
+32MR,32MR-01-03,100,Tiang,Ki jahe,1,55
+32MR,32MR-01-03,100,Tiang,Langkap,1,50
+32MR,32MR-01-03,100,Tiang,Langkap,1,40
+32MR,32MR-01-03,400,Pohon,Ki batok,1,120
+32MR,32MR-01-03,400,Pohon,Hantap heulang,1,198
+32MR,32MR-01-03,400,Pohon,Ki ganik,1,300
+32MR,32MR-01-03,400,Pohon,Buluh,1,200
+32MR,32MR-01-03,400,Pohon,Ki calung,1,120
+32MR,32MR-01-04,4,TB-semai,Lolo,10,0
+32MR,32MR-01-04,4,TB-semai,Rotan,1,0
+32MR,32MR-01-04,4,TB-semai,Ki batok,3,0
+32MR,32MR-01-04,4,TB-semai,Jaura,2,0
+32MR,32MR-01-04,25,Pancang,Ki mokla,2,0
+32MR,32MR-01-04,25,Pancang,Songgom,2,0
+32MR,32MR-01-04,25,Pancang,Burung dahu,1,0
+32MR,32MR-01-04,25,Pancang,Ki segel,3,0
+32MR,32MR-01-04,25,Pancang,Bengang,1,0
+32MR,32MR-01-04,100,Tiang,Ki sireum,1,40
+32MR,32MR-01-04,100,Tiang,Ki lilin,1,35
+32MR,32MR-01-04,100,Tiang,Langkap,1,35
+32MR,32MR-01-04,100,Tiang,Langkap,1,38
+32MR,32MR-01-04,100,Tiang,Heucit,1,40
+32MR,32MR-01-04,100,Tiang,Heas,1,61
+32MR,32MR-01-04,400,Pohon,Ki calung,1,260
+32MR,32MR-01-04,400,Pohon,Heucit,1,68
+32MR,32MR-01-04,400,Pohon,Manglid,1,150
+32MR,32MR-01-05,4,TB-semai,Lolo,3,0
+32MR,32MR-01-05,4,TB-semai,Areuy gadel,2,0
+32MR,32MR-01-05,4,TB-semai,Ki genteul,4,0
+32MR,32MR-01-05,4,TB-semai,Ki batok,2,0
+32MR,32MR-01-05,4,TB-semai,Mara,2,0
+32MR,32MR-01-05,25,Pancang,Manglid,1,0
+32MR,32MR-01-05,25,Pancang,Ki batok,1,0
+32MR,32MR-01-05,25,Pancang,Songgom,2,0
+32MR,32MR-01-05,100,Tiang,Ki batok,1,45
+32MR,32MR-01-05,100,Tiang,Langkap,1,35
+32MR,32MR-01-05,100,Tiang,Langkap,1,42
+32MR,32MR-01-05,100,Tiang,Bengang,1,40
+32MR,32MR-01-05,100,Tiang,Ki batok,1,40
+32MR,32MR-01-05,400,Pohon,Ki calung,1,150
+32MR,32MR-01-05,400,Pohon,Ki batok,1,140
+32MR,32MR-01-05,400,Pohon,Kepuh,1,200
+86JJ,86JJ-02-01,4,TB-semai,Lolo,4,0
+86JJ,86JJ-02-01,4,TB-semai,Patat,2,0
+86JJ,86JJ-02-01,4,TB-semai,Sayar,1,0
+86JJ,86JJ-02-01,4,TB-semai,Salam,20,0
+86JJ,86JJ-02-01,4,TB-semai,Ki ganik,2,0
+86JJ,86JJ-02-01,4,TB-semai,Langkap,10,0
+86JJ,86JJ-02-01,25,Pancang,Ki jahe,2,0
+86JJ,86JJ-02-01,25,Pancang,Songgom,3,0
+86JJ,86JJ-02-01,25,Pancang,Lampeni ,6,0
+86JJ,86JJ-02-01,25,Pancang,Ipis Kulit,1,0
+86JJ,86JJ-02-01,100,Tiang,Langkap,1,30
+86JJ,86JJ-02-01,100,Tiang,Langkap,1,35
+86JJ,86JJ-02-01,100,Tiang,Langkap,1,42
+86JJ,86JJ-02-01,100,Tiang,Langkap,1,36
+86JJ,86JJ-02-01,100,Tiang,Langkap,1,43
+86JJ,86JJ-02-01,100,Tiang,Ki ganik,1,40
+86JJ,86JJ-02-01,100,Tiang,Ipis Kulit,1,36
+86JJ,86JJ-02-01,100,Tiang,Ipis Kulit,1,40
+86JJ,86JJ-02-01,400,Pohon,Ki ganik,1,120
+86JJ,86JJ-02-01,400,Pohon,Ipis Kulit,1,96
+86JJ,86JJ-02-01,400,Pohon,Teureup,1,115
+86JJ,86JJ-02-01,400,Pohon,Ki ganik,1,370
+86JJ,86JJ-02-01,400,Pohon,Salam,1,350
+86JJ,86JJ-02-01,400,Pohon,Ki tambaga,1,105
+86JJ,86JJ-02-02,4,TB-semai,Bingbin,2,0
+86JJ,86JJ-02-02,4,TB-semai,Lolo,1,0
+86JJ,86JJ-02-02,4,TB-semai,Putat,1,0
+86JJ,86JJ-02-02,4,TB-semai,Ki genteul,1,0
+86JJ,86JJ-02-02,4,TB-semai,Ki huut,2,0
+86JJ,86JJ-02-02,4,TB-semai,Tundun sayong,1,0
+86JJ,86JJ-02-02,4,TB-semai,Langkap,2,0
+86JJ,86JJ-02-02,25,Pancang,Ki mokla,1,0
+86JJ,86JJ-02-02,25,Pancang,Ipis Kulit,1,0
+86JJ,86JJ-02-02,25,Pancang,Ki jahe,1,0
+86JJ,86JJ-02-02,25,Pancang,Ki lalayu,2,0
+86JJ,86JJ-02-02,25,Pancang,Ki caang,1,0
+86JJ,86JJ-02-02,100,Tiang,Ki calung,1,33
+86JJ,86JJ-02-02,100,Tiang,Langkap,1,35
+86JJ,86JJ-02-02,100,Tiang,Langkap,1,30
+86JJ,86JJ-02-02,100,Tiang,Langkap,1,42
+86JJ,86JJ-02-02,100,Tiang,Langkap,1,43
+86JJ,86JJ-02-02,400,Pohon,Padali,1,150
+86JJ,86JJ-02-02,400,Pohon,Ki tambaga,1,100
+86JJ,86JJ-02-02,400,Pohon,Laban,1,255
+86JJ,86JJ-02-02,400,Pohon,Kadongdong,1,120
+86JJ,86JJ-02-02,400,Pohon,Ki batok,1,120
+86JJ,86JJ-02-03,4,TB-semai,Cariang,2,0
+86JJ,86JJ-02-03,4,TB-semai,Rotan,1,0
+86JJ,86JJ-02-03,4,TB-semai,Peuris,3,0
+86JJ,86JJ-02-03,4,TB-semai,Salam,4,0
+86JJ,86JJ-02-03,4,TB-semai,Ki lilin,1,0
+86JJ,86JJ-02-03,4,TB-semai,Ki huut,2,0
+86JJ,86JJ-02-03,25,Pancang,Songgom,2,0
+86JJ,86JJ-02-03,25,Pancang,Sauheun,1,0
+86JJ,86JJ-02-03,100,Tiang,Langkap,1,36
+86JJ,86JJ-02-03,100,Tiang,Langkap,1,44
+86JJ,86JJ-02-03,100,Tiang,Langkap,1,52
+86JJ,86JJ-02-03,100,Tiang,Langkap,1,48
+86JJ,86JJ-02-03,100,Tiang,Langkap,1,36
+86JJ,86JJ-02-03,100,Tiang,Buluh,1,40
+86JJ,86JJ-02-03,400,Pohon,Leungsir,1,270
+86JJ,86JJ-02-03,400,Pohon,Teureup,1,150
+86JJ,86JJ-02-03,400,Pohon,Ki jahe,1,150
+86JJ,86JJ-02-03,400,Pohon,Ki kacang,1,100
+86JJ,86JJ-02-04,4,TB-semai,Ki genteul,4,0
+86JJ,86JJ-02-04,4,TB-semai,Salam,5,0
+86JJ,86JJ-02-04,4,TB-semai,Sauheun,1,0
+86JJ,86JJ-02-04,4,TB-semai,Langkap,8,0
+86JJ,86JJ-02-04,25,Pancang,Heucit,2,0
+86JJ,86JJ-02-04,25,Pancang,Ki genteul,2,0
+86JJ,86JJ-02-04,25,Pancang,Songgom,1,0
+86JJ,86JJ-02-04,100,Tiang,Langkap,1,30
+86JJ,86JJ-02-04,100,Tiang,Langkap,1,36
+86JJ,86JJ-02-04,100,Tiang,Heucit,1,40
+86JJ,86JJ-02-04,400,Pohon,Ki genteul,1,152
+86JJ,86JJ-02-04,400,Pohon,Gadog,1,150
+86JJ,86JJ-02-04,400,Pohon,Ki ganik,1,230
+86JJ,86JJ-02-04,400,Pohon,Teureup,1,300
+86JJ,86JJ-02-05,4,TB-semai,Cariang,4,0
+86JJ,86JJ-02-05,4,TB-semai,Salam,4,0
+86JJ,86JJ-02-05,4,TB-semai,Tundun sayong,6,0
+86JJ,86JJ-02-05,4,TB-semai,Langkap,8,0
+86JJ,86JJ-02-05,25,Pancang,Buluh,1,0
+86JJ,86JJ-02-05,25,Pancang,Ki segel,1,0
+86JJ,86JJ-02-05,25,Pancang,Langkap,4,0
+86JJ,86JJ-02-05,100,Tiang,Ki segel,1,43
+86JJ,86JJ-02-05,100,Tiang,Langkap,1,32
+86JJ,86JJ-02-05,100,Tiang,Langkap,1,36
+86JJ,86JJ-02-05,100,Tiang,Langkap,1,42
+86JJ,86JJ-02-05,100,Tiang,Langkap,1,51
+86JJ,86JJ-02-05,100,Tiang,Langkap,1,40
+86JJ,86JJ-02-05,100,Tiang,Ki ganik,1,56
+86JJ,86JJ-02-05,400,Pohon,Ki segel,1,73
+86JJ,86JJ-02-05,400,Pohon,Ki ganik,1,96
+86JJ,86JJ-02-05,400,Pohon,Huru,1,300
+86JJ,86JJ-02-05,400,Pohon,Ipis Kulit,1,70
+86JJ,86JJ-02-05,400,Pohon,Ki segel,1,88
+86JJ,86JJ-18-01,4,TB-semai,Hata,6,0
+86JJ,86JJ-18-01,4,TB-semai,Amis mata,8,0
+86JJ,86JJ-18-01,4,TB-semai,Areuy asahan,4,0
+86JJ,86JJ-18-01,4,TB-semai,Tepus,6,0
+86JJ,86JJ-18-01,4,TB-semai,Hareumeung,5,0
+86JJ,86JJ-18-01,4,TB-semai,Ki jahe,1,0
+86JJ,86JJ-18-01,4,TB-semai,Padali,3,0
+86JJ,86JJ-18-01,4,TB-semai,Salam,2,0
+86JJ,86JJ-18-01,4,TB-semai,Peuris,4,0
+86JJ,86JJ-18-01,25,Pancang,Sempur,2,0
+86JJ,86JJ-18-01,25,Pancang,Peuris,4,0
+86JJ,86JJ-18-01,25,Pancang,Sulangkar,3,0
+86JJ,86JJ-18-01,25,Pancang,Haringin,1,0
+86JJ,86JJ-18-01,100,Tiang,Haringin,1,32
+86JJ,86JJ-18-01,100,Tiang,Benger,1,40
+86JJ,86JJ-18-01,100,Tiang,Benger,1,35
+86JJ,86JJ-18-01,100,Tiang,Benger,1,30
+86JJ,86JJ-18-01,100,Tiang,Laban,1,45
+86JJ,86JJ-18-01,100,Tiang,Kanyere,1,30
+86JJ,86JJ-18-01,100,Tiang,Haringin,1,35
+86JJ,86JJ-18-01,400,Pohon,Kanyere,1,100
+86JJ,86JJ-18-01,400,Pohon,Bisoro,1,110
+86JJ,86JJ-18-01,400,Pohon,Bungur,1,90
+86JJ,86JJ-18-01,400,Pohon,Laban,1,110
+86JJ,86JJ-18-02,4,TB-semai,Tepus,8,0
+86JJ,86JJ-18-02,4,TB-semai,Sulangkar,4,0
+86JJ,86JJ-18-02,4,TB-semai,Daruak,3,0
+86JJ,86JJ-18-02,4,TB-semai,Huru,1,0
+86JJ,86JJ-18-02,4,TB-semai,Peuris,5,0
+86JJ,86JJ-18-02,25,Pancang,Kopi,1,0
+86JJ,86JJ-18-02,25,Pancang,Songgom,2,0
+86JJ,86JJ-18-02,25,Pancang,Benger,2,0
+86JJ,86JJ-18-02,25,Pancang,Poreket,3,0
+86JJ,86JJ-18-02,25,Pancang,Huni,1,0
+86JJ,86JJ-18-02,25,Pancang,Carelang,6,0
+86JJ,86JJ-18-02,100,Tiang,Bungur,1,40
+86JJ,86JJ-18-02,100,Tiang,Bisoro,1,40
+86JJ,86JJ-18-02,100,Tiang,Benger,1,110
+86JJ,86JJ-18-02,400,Pohon,Benger,1,120
+86JJ,86JJ-18-02,400,Pohon,Benger,1,135
+86JJ,86JJ-18-02,400,Pohon,Laban,1,100
+86JJ,86JJ-18-03,4,TB-semai,Areuy gadel,10,0
+86JJ,86JJ-18-03,4,TB-semai,Oar,4,0
+86JJ,86JJ-18-03,4,TB-semai,Peuris,3,0
+86JJ,86JJ-18-03,25,Pancang,Benger,4,0
+86JJ,86JJ-18-03,25,Pancang,Sulangkar,2,0
+86JJ,86JJ-18-03,100,Tiang,Benger,1,30
+86JJ,86JJ-18-03,100,Tiang,Benger,1,57
+86JJ,86JJ-18-03,100,Tiang,Benger,1,40
+86JJ,86JJ-18-03,400,Pohon,Kenal,1,120
+86JJ,86JJ-18-03,400,Pohon,Kenal,1,99
+86JJ,86JJ-18-03,400,Pohon,Laban,1,105
+86JJ,86JJ-18-03,400,Pohon,Benger,1,130
+86JJ,86JJ-18-03,400,Pohon,Bisoro,1,86
+86JJ,86JJ-18-04,4,TB-semai,Areuy gadel,15,0
+86JJ,86JJ-18-04,4,TB-semai,Cangkuang,1,0
+86JJ,86JJ-18-04,4,TB-semai,Oar,3,0
+86JJ,86JJ-18-04,4,TB-semai,Sulangkar,3,0
+86JJ,86JJ-18-04,4,TB-semai,Bisoro,1,0
+86JJ,86JJ-18-04,25,Pancang,Daruak,3,0
+86JJ,86JJ-18-04,25,Pancang,Songgom,4,0
+86JJ,86JJ-18-04,25,Pancang,Kanyere,1,0
+86JJ,86JJ-18-04,100,Tiang,Benger,1,35
+86JJ,86JJ-18-04,100,Tiang,Kanyere,1,30
+86JJ,86JJ-18-04,100,Tiang,Daruak,1,35
+86JJ,86JJ-18-04,100,Tiang,Benger,1,33
+86JJ,86JJ-18-04,400,Pohon,Sempur,1,190
+86JJ,86JJ-18-04,400,Pohon,Gempol,1,130
+86JJ,86JJ-18-04,400,Pohon,Gempol,1,150
+86JJ,86JJ-18-04,400,Pohon,Gempol,1,109
+86JJ,86JJ-18-04,400,Pohon,Bungur,1,100
+86JJ,86JJ-18-05,4,TB-semai,Areuy gadel,20,0
+86JJ,86JJ-18-05,4,TB-semai,Hareumeung,2,0
+86JJ,86JJ-18-05,4,TB-semai,Sulangkar,4,0
+86JJ,86JJ-18-05,4,TB-semai,Ki jahe,1,0
+86JJ,86JJ-18-05,4,TB-semai,Lampeni ,2,0
+86JJ,86JJ-18-05,25,Pancang,Sulangkar,3,0
+86JJ,86JJ-18-05,25,Pancang,Sempur,1,0
+86JJ,86JJ-18-05,25,Pancang,Songgom,4,0
+86JJ,86JJ-18-05,100,Tiang,Benger,1,31
+86JJ,86JJ-18-05,100,Tiang,Kanyere,1,40
+86JJ,86JJ-18-05,100,Tiang,Benger,1,43
+86JJ,86JJ-18-05,400,Pohon,Bungur,1,105
+86JJ,86JJ-18-05,400,Pohon,Benger,1,80
+21MY,21MY-19-01,4,TB-semai,Papakuan,7,0
+21MY,21MY-19-01,4,TB-semai,Jampang,36,0
+21MY,21MY-19-01,4,TB-semai,Daruak,1,0
+21MY,21MY-19-01,4,TB-semai,Mara,1,0
+21MY,21MY-19-01,4,TB-semai,Harendong,3,0
+21MY,21MY-19-01,4,TB-semai,Sulangkar,1,0
+21MY,21MY-19-01,25,Pancang,Kanyere,1,0
+21MY,21MY-19-01,25,Pancang,Daruak,3,0
+21MY,21MY-19-01,25,Pancang,Peuris,1,0
+21MY,21MY-19-01,25,Pancang,Gompong,1,0
+21MY,21MY-19-01,100,Tiang,Laban,1,40
+21MY,21MY-19-01,400,Pohon,Lame,1,350
+21MY,21MY-19-01,400,Pohon,Jengkol,1,150
+21MY,21MY-19-01,400,Pohon,Jengkol,1,100
+21MY,21MY-19-02,4,TB-semai,Jampang beureum,25,0
+21MY,21MY-19-02,4,TB-semai,Papakuan,10,0
+21MY,21MY-19-02,4,TB-semai,Daruak,4,0
+21MY,21MY-19-02,4,TB-semai,Sulangkar,1,0
+21MY,21MY-19-02,4,TB-semai,Kondang,1,0
+21MY,21MY-19-02,4,TB-semai,Laban,1,0
+21MY,21MY-19-02,4,TB-semai,Singugu,1,0
+21MY,21MY-19-02,25,Pancang,Tangkil,2,0
+21MY,21MY-19-02,25,Pancang,Cengkeh,4,0
+21MY,21MY-19-02,25,Pancang,Jengkol,3,0
+21MY,21MY-19-02,400,Pohon,Laban,1,150
+21MY,21MY-19-02,400,Pohon,Jengkol,1,96
+21MY,21MY-19-02,400,Pohon,Laban,1,100
+21MY,21MY-19-03,4,TB-semai,Areuy canar,5,0
+21MY,21MY-19-03,4,TB-semai,Papakuan,2,0
+21MY,21MY-19-03,4,TB-semai,Laban,1,0
+21MY,21MY-19-03,4,TB-semai,Daruak,4,0
+21MY,21MY-19-03,25,Pancang,Gompong,1,0
+21MY,21MY-19-03,25,Pancang,Lame,1,0
+21MY,21MY-19-03,25,Pancang,Mara,1,0
+21MY,21MY-19-03,25,Pancang,Jengkol,1,0
+21MY,21MY-19-03,100,Tiang,Jengkol,1,45
+21MY,21MY-19-03,100,Tiang,Cengkeh,1,36
+21MY,21MY-19-03,400,Pohon,Jengkol,1,120
+21MY,21MY-19-03,400,Pohon,Pete,1,110
+21MY,21MY-19-04,4,TB-semai,Parasi,3,0
+21MY,21MY-19-04,4,TB-semai,Kaman,4,0
+21MY,21MY-19-04,4,TB-semai,Harendong,4,0
+21MY,21MY-19-04,4,TB-semai,Singugu,2,0
+21MY,21MY-19-04,25,Pancang,Tangkil,1,0
+21MY,21MY-19-04,25,Pancang,Jengkol,1,0
+21MY,21MY-19-04,25,Pancang,Peuris,1,0
+21MY,21MY-19-04,100,Tiang,Cengkeh,1,40
+21MY,21MY-19-04,100,Tiang,Jengkol,1,36
+21MY,21MY-19-04,100,Tiang,Cengkeh,1,42
+21MY,21MY-19-04,400,Pohon,Ceuri,1,110
+21MY,21MY-19-04,400,Pohon,Lame,1,350
+21MY,21MY-19-04,400,Pohon,Jengkol,1,96
+21MY,21MY-19-04,400,Pohon,Lame,1,120
+21MY,21MY-19-05,4,TB-semai,Papakuan,3,0
+21MY,21MY-19-05,4,TB-semai,Cariang,6,0
+21MY,21MY-19-05,4,TB-semai,Hata,3,0
+21MY,21MY-19-05,4,TB-semai,Areuy canar,4,0
+21MY,21MY-19-05,4,TB-semai,Daruak,3,0
+21MY,21MY-19-05,4,TB-semai,Peuris,1,0
+21MY,21MY-19-05,4,TB-semai,Cente,1,0
+21MY,21MY-19-05,25,Pancang,Daruak,3,0
+21MY,21MY-19-05,25,Pancang,Songgom,2,0
+21MY,21MY-19-05,100,Tiang,Laban,1,35
+21MY,21MY-19-05,100,Tiang,Tangkil,1,40
+21MY,21MY-19-05,100,Tiang,Daruak,1,40
+21MY,21MY-19-05,400,Pohon,Jengkol,1,110
+21MY,21MY-19-05,400,Pohon,Laban,1,250
+21MY,21MY-19-05,400,Pohon,Laban,1,300
+21MY,21MY-19-05,400,Pohon,Lame,1,200
+56BB,56BB-42-01,4,TB-semai,Ki barela,3,0
+56BB,56BB-42-01,4,TB-semai,Mahoni,4,0
+56BB,56BB-42-01,4,TB-semai,Ki puak,2,0
+56BB,56BB-42-01,4,TB-semai,Ki asahan,5,0
+56BB,56BB-42-01,4,TB-semai,Sayar,1,0
+56BB,56BB-42-01,25,Pancang,Songgom,2,0
+56BB,56BB-42-01,25,Pancang,Mahoni,10,0
+56BB,56BB-42-01,25,Pancang,Wareng,1,0
+56BB,56BB-42-01,25,Pancang,Harendong,5,0
+56BB,56BB-42-01,25,Pancang,Ki teja,5,0
+56BB,56BB-42-01,25,Pancang,Katumpang,3,0
+56BB,56BB-42-01,25,Pancang,Songgom,3,0
+56BB,56BB-42-01,25,Pancang,Jejerukan,1,0
+56BB,56BB-42-01,25,Pancang,Jajambuan,17,0
+56BB,56BB-42-01,25,Pancang,Tuak kalapa,6,0
+56BB,56BB-42-01,25,Pancang,Sayar,1,0
+56BB,56BB-42-01,25,Pancang,Huru,1,0
+56BB,56BB-42-01,100,Tiang,Peuris,1,54
+56BB,56BB-42-01,100,Tiang,Laban,1,44
+56BB,56BB-42-01,400,Pohon,Peuris,1,63
+56BB,56BB-42-01,400,Pohon,Mahoni,1,90
+56BB,56BB-42-01,400,Pohon,Laban,1,91
+56BB,56BB-42-01,400,Pohon,Mahoni,1,132
+56BB,56BB-42-01,400,Pohon,Mahoni,1,105
+56BB,56BB-42-01,400,Pohon,Mahoni,1,96
+56BB,56BB-42-01,400,Pohon,Peuris,1,141
+56BB,56BB-42-01,400,Pohon,Mahoni,1,123
+56BB,56BB-42-01,400,Pohon,Mahoni,1,125
+56BB,56BB-42-01,400,Pohon,Mahoni,1,95
+56BB,56BB-42-02,4,TB-semai,Harendong,4,0
+56BB,56BB-42-02,4,TB-semai,Ki barela,2,0
+56BB,56BB-42-02,4,TB-semai,Areuy gadel,4,0
+56BB,56BB-42-02,4,TB-semai,Parasi,7,0
+56BB,56BB-42-02,4,TB-semai,Peuris,20,0
+56BB,56BB-42-02,4,TB-semai,Ki segel,3,0
+56BB,56BB-42-02,4,TB-semai,Harendong,4,0
+56BB,56BB-42-02,4,TB-semai,Areuy gadel,4,0
+56BB,56BB-42-02,25,Pancang,Tuak kalapa,6,0
+56BB,56BB-42-02,25,Pancang,Peuris,3,0
+56BB,56BB-42-02,25,Pancang,Songgom,2,0
+56BB,56BB-42-02,25,Pancang,Ki endog,2,0
+56BB,56BB-42-02,25,Pancang,Salam,3,0
+56BB,56BB-42-02,25,Pancang,Mahoni,7,0
+56BB,56BB-42-02,25,Pancang,Kawao,1,0
+56BB,56BB-42-02,400,Pohon,Dahu,1,82
+56BB,56BB-42-02,400,Pohon,Peuris,1,62
+56BB,56BB-42-02,400,Pohon,Peuris,1,100
+56BB,56BB-42-02,400,Pohon,Mahoni,1,130
+56BB,56BB-42-02,400,Pohon,Mahoni,1,86
+56BB,56BB-42-02,400,Pohon,Taritih,1,103
+56BB,56BB-42-02,400,Pohon,Salam,1,229
+56BB,56BB-42-02,400,Pohon,Salam,1,100
+56BB,56BB-42-02,400,Pohon,Salam,1,111
+56BB,56BB-42-02,400,Pohon,Peuris,1,67
+56BB,56BB-42-02,400,Pohon,Kenal,1,67
+56BB,56BB-42-02,400,Pohon,Mahoni,1,194
+56BB,56BB-42-03,4,TB-semai,Parasi,4,0
+56BB,56BB-42-03,4,TB-semai,Harendong bulu,3,0
+56BB,56BB-42-03,4,TB-semai,Pandan,3,0
+56BB,56BB-42-03,4,TB-semai,Ki asahan,2,0
+56BB,56BB-42-03,4,TB-semai,Hata,4,0
+56BB,56BB-42-03,4,TB-semai,Carulang,1,0
+56BB,56BB-42-03,4,TB-semai,Jingjing kulit,4,0
+56BB,56BB-42-03,4,TB-semai,Papakuan,6,0
+56BB,56BB-42-03,4,TB-semai,Ki laja,1,0
+56BB,56BB-42-03,4,TB-semai,Tuak kalapa,5,0
+56BB,56BB-42-03,4,TB-semai,Tangkil,1,0
+56BB,56BB-42-03,4,TB-semai,Salam,6,0
+56BB,56BB-42-03,4,TB-semai,Jajambuan,4,0
+56BB,56BB-42-03,25,Pancang,Songgom,6,0
+56BB,56BB-42-03,25,Pancang,Sayar,2,0
+56BB,56BB-42-03,25,Pancang,Tuak kalapa,10,0
+56BB,56BB-42-03,25,Pancang,Jengkol,2,0
+56BB,56BB-42-03,25,Pancang,Mara,1,0
+56BB,56BB-42-03,25,Pancang,Ki segel,4,0
+56BB,56BB-42-03,25,Pancang,Reem,1,0
+56BB,56BB-42-03,25,Pancang,Kacapi,7,0
+56BB,56BB-42-03,25,Pancang,Bihbul,3,0
+56BB,56BB-42-03,100,Tiang,Jengkol,1,50
+56BB,56BB-42-03,400,Pohon,Mahoni,1,102
+56BB,56BB-42-03,400,Pohon,Lame,1,77
+56BB,56BB-42-03,400,Pohon,Mahoni,1,152
+56BB,56BB-42-03,400,Pohon,Laban,1,79
+56BB,56BB-42-03,400,Pohon,Mahoni,1,150
+56BB,56BB-42-03,400,Pohon,Mahoni,1,186
+56BB,56BB-42-03,400,Pohon,Mahoni,1,63
+56BB,56BB-42-03,400,Pohon,Ki segel,1,63
+56BB,56BB-42-03,400,Pohon,Peuris,1,73
+56BB,56BB-42-03,400,Pohon,Laban,1,81
+56BB,56BB-42-03,400,Pohon,Peuris,1,66
+56BB,56BB-42-03,400,Pohon,Mahoni,1,114
+56BB,56BB-42-03,400,Pohon,Mahoni,1,153
+56BB,56BB-42-03,400,Pohon,Mahoni,1,153
+56BB,56BB-42-04,4,TB-semai,Jajambuan,10,0
+56BB,56BB-42-04,4,TB-semai,Papakuan,8,0
+56BB,56BB-42-04,4,TB-semai,Sayar,1,0
+56BB,56BB-42-04,4,TB-semai,Ki barela,1,0
+56BB,56BB-42-04,4,TB-semai,Liana,1,0
+56BB,56BB-42-04,4,TB-semai,Ki teja,3,0
+56BB,56BB-42-04,4,TB-semai,Salam,6,0
+56BB,56BB-42-04,4,TB-semai,Parasi,3,0
+56BB,56BB-42-04,25,Pancang,Jajambuan,10,0
+56BB,56BB-42-04,25,Pancang,Kacapi,6,0
+56BB,56BB-42-04,25,Pancang,Huru,1,0
+56BB,56BB-42-04,25,Pancang,Tuak kalapa,1,0
+56BB,56BB-42-04,25,Pancang,Lame,1,0
+56BB,56BB-42-04,25,Pancang,Ki segel,1,0
+56BB,56BB-42-04,100,Tiang,Peuris,1,36
+56BB,56BB-42-04,100,Tiang,Laban,1,40
+56BB,56BB-42-04,100,Tiang,Jengkol,1,52
+56BB,56BB-42-04,100,Tiang,Laban,1,54
+56BB,56BB-42-04,100,Tiang,Peuris,1,52
+56BB,56BB-42-04,100,Tiang,Peuris,1,43
+56BB,56BB-42-04,100,Tiang,Peuris,1,60
+56BB,56BB-42-04,400,Pohon,Poreket,1,66
+56BB,56BB-42-05,4,TB-semai,Harendong,6,0
+56BB,56BB-42-05,4,TB-semai,Tangkur gunung,1,0
+56BB,56BB-42-05,4,TB-semai,Papakuan,3,0
+56BB,56BB-42-05,4,TB-semai,Parasi,2,0
+56BB,56BB-42-05,4,TB-semai,Tuak kalapa,5,0
+56BB,56BB-42-05,25,Pancang,Cangkuang,3,0
+56BB,56BB-42-05,25,Pancang,Sayar,6,0
+56BB,56BB-42-05,25,Pancang,Canar,1,0
+56BB,56BB-42-05,25,Pancang,Huru payung,1,0
+56BB,56BB-42-05,25,Pancang,Ki lalayu,2,0
+56BB,56BB-42-05,25,Pancang,Salam,1,0
+56BB,56BB-42-05,25,Pancang,Ki laja,3,0
+56BB,56BB-42-05,25,Pancang,Tepus,2,0
+56BB,56BB-42-05,25,Pancang,Cangcaratan,2,0
+56BB,56BB-42-05,25,Pancang,Peuris,4,0
+56BB,56BB-42-05,25,Pancang,Kacapi,3,0
+56BB,56BB-42-05,100,Tiang,Ceuri,1,59
+56BB,56BB-42-05,100,Tiang,Laban,1,49
+56BB,56BB-42-05,400,Pohon,Mahoni,1,76
+56BB,56BB-42-05,400,Pohon,Mahoni,1,85
+56BB,56BB-42-05,400,Pohon,Peuris,1,89
+56BB,56BB-42-05,400,Pohon,Jengkol,1,87
+56BB,56BB-42-05,400,Pohon,Laban,1,77
+56BB,56BB-43-01,4,TB-semai,Ceuri,4,0
+56BB,56BB-43-01,4,TB-semai,Kuhkuran,3,0
+56BB,56BB-43-01,4,TB-semai,Harendong,1,0
+56BB,56BB-43-01,4,TB-semai,Hanjuang,3,0
+56BB,56BB-43-01,4,TB-semai,Sulangkar,3,0
+56BB,56BB-43-01,4,TB-semai,Bingbin,1,0
+56BB,56BB-43-01,4,TB-semai,Hata,1,0
+56BB,56BB-43-01,4,TB-semai,Mahoni,6,0
+56BB,56BB-43-01,4,TB-semai,Parasi,2,0
+56BB,56BB-43-01,4,TB-semai,Kasongket,7,0
+56BB,56BB-43-01,4,TB-semai,Heas,5,0
+56BB,56BB-43-01,4,TB-semai,Cariang,3,0
+56BB,56BB-43-01,25,Pancang,Salam,2,0
+56BB,56BB-43-01,25,Pancang,Bingbin,4,0
+56BB,56BB-43-01,25,Pancang,Ki barela,1,0
+56BB,56BB-43-01,25,Pancang,Tuak kalapa,2,0
+56BB,56BB-43-01,25,Pancang,Ki sereh,1,0
+56BB,56BB-43-01,25,Pancang,Huru,2,0
+56BB,56BB-43-01,25,Pancang,Ki segel,6,0
+56BB,56BB-43-01,25,Pancang,Lampeni ,3,0
+56BB,56BB-43-01,25,Pancang,Hanjiat,2,0
+56BB,56BB-43-01,25,Pancang,Cangcaratan,2,0
+56BB,56BB-43-01,100,Tiang,Laban,1,58
+56BB,56BB-43-01,100,Tiang,Peuris,1,43
+56BB,56BB-43-01,100,Tiang,Ki sampang,1,50
+56BB,56BB-43-01,100,Tiang,Laban,1,42
+56BB,56BB-43-01,100,Tiang,Laban,1,56
+56BB,56BB-43-01,400,Pohon,Laban,1,110
+56BB,56BB-43-01,400,Pohon,Peuris,1,86
+56BB,56BB-43-01,400,Pohon,Laban,1,83
+56BB,56BB-43-01,400,Pohon,Cangkudu,1,69
+56BB,56BB-43-01,400,Pohon,Peuris,1,69
+56BB,56BB-43-01,400,Pohon,Laban,1,86
+56BB,56BB-43-02,4,TB-semai,Ki teja,8,0
+56BB,56BB-43-02,4,TB-semai,Kuhkuran,1,0
+56BB,56BB-43-02,4,TB-semai,Bingbin,2,0
+56BB,56BB-43-02,4,TB-semai,Papakuan,1,0
+56BB,56BB-43-02,4,TB-semai,Ki pare,3,0
+56BB,56BB-43-02,4,TB-semai,Ki jahe,1,0
+56BB,56BB-43-02,4,TB-semai,Tangkil,1,0
+56BB,56BB-43-02,4,TB-semai,Ki segel,2,0
+56BB,56BB-43-02,25,Pancang,Bingbin,4,0
+56BB,56BB-43-02,25,Pancang,Jirak,2,0
+56BB,56BB-43-02,25,Pancang,Ki teja,2,0
+56BB,56BB-43-02,25,Pancang,Rotan,1,0
+56BB,56BB-43-02,25,Pancang,Ki endog,3,0
+56BB,56BB-43-02,25,Pancang,Ki barela,1,0
+56BB,56BB-43-02,100,Tiang,Cangkudu,1,49
+56BB,56BB-43-02,100,Tiang,Laban,1,42
+56BB,56BB-43-02,400,Pohon,Laban,1,90
+56BB,56BB-43-02,400,Pohon,Ki sampang,1,64
+56BB,56BB-43-02,400,Pohon,Salam,1,76
+56BB,56BB-43-02,400,Pohon,Laban,1,65
+56BB,56BB-43-02,400,Pohon,Kiara,1,179
+56BB,56BB-43-02,400,Pohon,Mahoni,1,150
+56BB,56BB-43-03,4,TB-semai,Parahulu,1,0
+56BB,56BB-43-03,4,TB-semai,Bingbin,4,0
+56BB,56BB-43-03,4,TB-semai,Heas,3,0
+56BB,56BB-43-03,4,TB-semai,Harashas,2,0
+56BB,56BB-43-03,4,TB-semai,Papakuan,3,0
+56BB,56BB-43-03,4,TB-semai,Tuak kalapa,3,0
+56BB,56BB-43-03,4,TB-semai,Patat,2,0
+56BB,56BB-43-03,25,Pancang,Songgom,2,0
+56BB,56BB-43-03,25,Pancang,Bingbin,3,0
+56BB,56BB-43-03,25,Pancang,Huru,2,0
+56BB,56BB-43-03,25,Pancang,Cangcaratan,4,0
+56BB,56BB-43-03,25,Pancang,Ki teja,1,0
+56BB,56BB-43-03,25,Pancang,Peuris,3,0
+56BB,56BB-43-03,25,Pancang,Burung dahu,1,0
+56BB,56BB-43-03,100,Tiang,Laban,1,39
+56BB,56BB-43-03,400,Pohon,Laban,1,123
+56BB,56BB-43-03,400,Pohon,Ki segel,1,91
+56BB,56BB-43-03,400,Pohon,Laban,1,63
+56BB,56BB-43-03,400,Pohon,Peuris,1,83
+56BB,56BB-43-03,400,Pohon,Laban,1,76
+56BB,56BB-43-03,400,Pohon,Peuris,1,67
+56BB,56BB-43-03,400,Pohon,Mahoni,1,137
+56BB,56BB-43-03,400,Pohon,Laban,1,130
+56BB,56BB-43-03,400,Pohon,Laban,1,78
+56BB,56BB-43-04,4,TB-semai,Jingjing kulit,4,0
+56BB,56BB-43-04,4,TB-semai,Sulangkar,2,0
+56BB,56BB-43-04,4,TB-semai,Ki teja,6,0
+56BB,56BB-43-04,4,TB-semai,Harendong,2,0
+56BB,56BB-43-04,4,TB-semai,Heas,3,0
+56BB,56BB-43-04,4,TB-semai,Bingbin,1,0
+56BB,56BB-43-04,4,TB-semai,Mahoni,5,0
+56BB,56BB-43-04,4,TB-semai,Kawao,5,0
+56BB,56BB-43-04,25,Pancang,Mahoni,2,0
+56BB,56BB-43-04,25,Pancang,Tuak kalapa,1,0
+56BB,56BB-43-04,25,Pancang,Peuris,2,0
+56BB,56BB-43-04,25,Pancang,Canar,1,0
+56BB,56BB-43-04,25,Pancang,Ki endog,3,0
+56BB,56BB-43-04,25,Pancang,Kasongket,1,0
+56BB,56BB-43-04,100,Tiang,Laban,1,37
+56BB,56BB-43-04,100,Tiang,Laban,1,38
+56BB,56BB-43-04,400,Pohon,Mahoni,1,134
+56BB,56BB-43-04,400,Pohon,Laban,1,134
+56BB,56BB-43-04,400,Pohon,Ceuri,1,96
+56BB,56BB-43-04,400,Pohon,Ki sampang,1,94
+56BB,56BB-43-05,4,TB-semai,Bingbin,1,0
+56BB,56BB-43-05,4,TB-semai,Papakuan,3,0
+56BB,56BB-43-05,4,TB-semai,Mahoni,4,0
+56BB,56BB-43-05,4,TB-semai,Mahmal,3,0
+56BB,56BB-43-05,4,TB-semai,Ki teja,6,0
+56BB,56BB-43-05,4,TB-semai,Ceuri,1,0
+56BB,56BB-43-05,4,TB-semai,Ki puak,2,0
+56BB,56BB-43-05,25,Pancang,Peuris,3,0
+56BB,56BB-43-05,25,Pancang,Ki teja,4,0
+56BB,56BB-43-05,25,Pancang,Kawao,2,0
+56BB,56BB-43-05,25,Pancang,Ki tulang,3,0
+56BB,56BB-43-05,400,Pohon,Ceuri,1,139
+56BB,56BB-43-05,400,Pohon,Ki segel,1,190
+56BB,56BB-43-05,400,Pohon,Taritih,1,176
+56BB,56BB-43-05,400,Pohon,Laban,1,114
+56BB,56BB-43-05,400,Pohon,Ki sampang,1,122
+56BB,56BB-38-01,4,TB-semai,Hanam,50,0
+56BB,56BB-38-01,4,TB-semai,Harendong,3,0
+56BB,56BB-38-01,4,TB-semai,Huru,6,0
+56BB,56BB-38-01,4,TB-semai,Ki segel,7,0
+56BB,56BB-38-01,4,TB-semai,Huni,2,0
+56BB,56BB-38-01,4,TB-semai,Ki endog,2,0
+56BB,56BB-38-01,4,TB-semai,Salam,5,0
+56BB,56BB-38-01,4,TB-semai,Tuak kalapa,1,0
+56BB,56BB-38-01,25,Pancang,Ki lalayu,3,0
+56BB,56BB-38-01,25,Pancang,Tuak kalapa,3,0
+56BB,56BB-38-01,25,Pancang,Laban,1,0
+56BB,56BB-38-01,25,Pancang,Ki endog,2,0
+56BB,56BB-38-01,25,Pancang,Tepus,4,0
+56BB,56BB-38-01,25,Pancang,Peuris,3,0
+56BB,56BB-38-01,25,Pancang,Ki segel,2,0
+56BB,56BB-38-01,25,Pancang,Songgom,2,0
+56BB,56BB-38-01,100,Tiang,Peuris,1,31
+56BB,56BB-38-01,100,Tiang,Ki segel,1,31
+56BB,56BB-38-01,100,Tiang,Ki segel,1,44
+56BB,56BB-38-01,400,Pohon,Ki sampang,1,62
+56BB,56BB-38-01,400,Pohon,Ki sampang,1,77
+56BB,56BB-38-01,400,Pohon,Cangcaratan,1,89
+56BB,56BB-38-01,400,Pohon,Ki sampang,1,90
+56BB,56BB-38-01,400,Pohon,Peuris,1,75
+56BB,56BB-38-01,400,Pohon,Laban,1,83
+56BB,56BB-38-01,400,Pohon,Ki teja,1,83
+56BB,56BB-38-01,400,Pohon,Ki sampang,1,128
+56BB,56BB-38-02,4,TB-semai,Tapo,28,0
+56BB,56BB-38-02,4,TB-semai,Ki barela,1,0
+56BB,56BB-38-02,4,TB-semai,Kasongket,3,0
+56BB,56BB-38-02,4,TB-semai,Harendong,2,0
+56BB,56BB-38-02,4,TB-semai,Ki sampang,3,0
+56BB,56BB-38-02,4,TB-semai,Tuak kalapa,6,0
+56BB,56BB-38-02,4,TB-semai,Hata,3,0
+56BB,56BB-38-02,4,TB-semai,Wareng,1,0
+56BB,56BB-38-02,25,Pancang,Ki segel,5,0
+56BB,56BB-38-02,25,Pancang,Cangcaratan,4,0
+56BB,56BB-38-02,25,Pancang,Laban,2,0
+56BB,56BB-38-02,25,Pancang,Salam,6,0
+56BB,56BB-38-02,25,Pancang,Tuak kalapa,9,0
+56BB,56BB-38-02,25,Pancang,Talingkup,1,0
+56BB,56BB-38-02,25,Pancang,Padali,2,0
+56BB,56BB-38-02,25,Pancang,Pongporang,1,0
+56BB,56BB-38-02,25,Pancang,Leles,4,0
+56BB,56BB-38-02,400,Pohon,Mahoni,146,10
+56BB,56BB-38-02,400,Pohon,Peuris,97,17
+56BB,56BB-38-02,400,Pohon,Lame,130,13
+56BB,56BB-38-02,400,Pohon,Peuris,138,17
+56BB,56BB-38-02,400,Pohon,Mahoni,148,16
+56BB,56BB-38-02,400,Pohon,Peuris,91,14
+56BB,56BB-38-03,4,TB-semai,Icot badak,1,0
+56BB,56BB-38-03,4,TB-semai,Harashas,2,0
+56BB,56BB-38-03,4,TB-semai,Ki pare,2,0
+56BB,56BB-38-03,4,TB-semai,Ki serit,3,0
+56BB,56BB-38-03,4,TB-semai,Ki sampang,4,0
+56BB,56BB-38-03,4,TB-semai,Kuhkuran,6,0
+56BB,56BB-38-03,4,TB-semai,Tapo,12,0
+56BB,56BB-38-03,4,TB-semai,Harendong,2,0
+56BB,56BB-38-03,25,Pancang,Ki pare,4,0
+56BB,56BB-38-03,25,Pancang,Mahoni,2,0
+56BB,56BB-38-03,25,Pancang,Songgom,5,0
+56BB,56BB-38-03,25,Pancang,Tuak kalapa,6,0
+56BB,56BB-38-03,25,Pancang,Ki segel,6,0
+56BB,56BB-38-03,25,Pancang,Carulang,2,0
+56BB,56BB-38-03,25,Pancang,Jaha,3,0
+56BB,56BB-38-03,25,Pancang,Hantar,1,0
+56BB,56BB-38-03,100,Tiang,Mahoni,1,58
+56BB,56BB-38-03,100,Tiang,Mahoni,1,50
+56BB,56BB-38-03,100,Tiang,Peuris,1,36
+56BB,56BB-38-03,100,Tiang,Peuris,1,44
+56BB,56BB-38-03,100,Tiang,Mahoni,1,37
+56BB,56BB-38-03,400,Pohon,Mahoni,1,123
+56BB,56BB-38-03,400,Pohon,Ki sampang,1,120
+56BB,56BB-38-03,400,Pohon,Peuris,1,90
+56BB,56BB-38-03,400,Pohon,Peuris,1,62
+56BB,56BB-38-03,400,Pohon,Mahoni,1,120
+56BB,56BB-38-03,400,Pohon,Lame,1,95
+56BB,56BB-38-04,4,TB-semai,Harendong bulu,1,0
+56BB,56BB-38-04,4,TB-semai,Mahoni,16,0
+56BB,56BB-38-04,4,TB-semai,Tuak kalapa,7,0
+56BB,56BB-38-04,4,TB-semai,Jingjing kulit,5,0
+56BB,56BB-38-04,4,TB-semai,Binong,1,0
+56BB,56BB-38-04,4,TB-semai,Ki segel,6,0
+56BB,56BB-38-04,4,TB-semai,Laban,1,0
+56BB,56BB-38-04,4,TB-semai,Ki kunti,2,0
+56BB,56BB-38-04,25,Pancang,Bingbin,3,0
+56BB,56BB-38-04,25,Pancang,Laban,2,0
+56BB,56BB-38-04,25,Pancang,Tuak kalapa,6,0
+56BB,56BB-38-04,25,Pancang,Ki segel,7,0
+56BB,56BB-38-04,25,Pancang,Binong,3,0
+56BB,56BB-38-04,25,Pancang,Ki sampang,4,0
+56BB,56BB-38-04,25,Pancang,Peuris,7,0
+56BB,56BB-38-04,25,Pancang,Canar,4,0
+56BB,56BB-38-04,25,Pancang,Kuhkuran,2,0
+56BB,56BB-38-04,25,Pancang,Heas,9,0
+56BB,56BB-38-04,25,Pancang,Hareumeung,3,0
+56BB,56BB-38-04,100,Tiang,Peuris,1,56
+56BB,56BB-38-04,100,Tiang,Peuris,1,46
+56BB,56BB-38-04,400,Pohon,Laban,1,78
+56BB,56BB-38-04,400,Pohon,Cangcaratan,1,71
+56BB,56BB-38-04,400,Pohon,Peuris,1,65
+56BB,56BB-38-04,400,Pohon,Mahoni,1,87
+56BB,56BB-38-04,400,Pohon,Mahoni,1,194
+56BB,56BB-38-04,400,Pohon,Mahoni,1,111
+56BB,56BB-38-04,400,Pohon,Jengkol,1,75
+56BB,56BB-38-04,400,Pohon,Laban,1,63
+56BB,56BB-38-04,400,Pohon,Huru,1,76
+56BB,56BB-38-05,4,TB-semai,Ki asahan,1,0
+56BB,56BB-38-05,4,TB-semai,Mahoni,20,0
+56BB,56BB-38-05,4,TB-semai,Tuak kalapa,4,0
+56BB,56BB-38-05,4,TB-semai,Ki lalayu,1,0
+56BB,56BB-38-05,4,TB-semai,Harendong bulu,3,0
+56BB,56BB-38-05,4,TB-semai,Peuris,6,0
+56BB,56BB-38-05,4,TB-semai,Ki lalayu,1,0
+56BB,56BB-38-05,4,TB-semai,Rukem,1,0
+56BB,56BB-38-05,4,TB-semai,Hata,3,0
+56BB,56BB-38-05,4,TB-semai,Jingjing kulit,1,0
+56BB,56BB-38-05,25,Pancang,Bingbin,1,0
+56BB,56BB-38-05,25,Pancang,Heas,3,0
+56BB,56BB-38-05,25,Pancang,Tuak kalapa,7,0
+56BB,56BB-38-05,25,Pancang,Songgom,3,0
+56BB,56BB-38-05,25,Pancang,Laban,1,0
+56BB,56BB-38-05,25,Pancang,Ki pare,1,0
+56BB,56BB-38-05,25,Pancang,Kacapi,2,0
+56BB,56BB-38-05,25,Pancang,Hangasa,2,0
+56BB,56BB-38-05,25,Pancang,Sulangkar,2,0
+56BB,56BB-38-05,25,Pancang,Mahoni,4,0
+56BB,56BB-38-05,25,Pancang,Hanjiat,3,0
+56BB,56BB-38-05,25,Pancang,Burung dahu,1,0
+56BB,56BB-38-05,100,Tiang,Peuris,1,41
+56BB,56BB-38-05,100,Tiang,Mahoni,1,50
+56BB,56BB-38-05,400,Pohon,Mahoni,1,111
+56BB,56BB-38-05,400,Pohon,Peuris,1,94
+56BB,56BB-38-05,400,Pohon,Mahoni,1,80
+56BB,56BB-38-05,400,Pohon,Mahoni,1,130
+56BB,56BB-38-05,400,Pohon,Mahoni,1,122
+56BB,56BB-38-05,400,Pohon,Mahoni,1,137
+56BB,56BB-38-05,400,Pohon,Hanjiat,1,172
+56BB,56BB-38-05,400,Pohon,Peuris,1,78
+56BB,56BB-38-05,400,Pohon,Hanjiat,1,128
+56BB,56BB-38-05,400,Pohon,Lame,1,138
+56BB,56BB-38-05,400,Pohon,Peuris,1,79
+56BB,56BB-38-05,400,Pohon,Hanjiat,1,128
+28SW,28SW-40-01,4,TB-semai,Cariang,2,0
+28SW,28SW-40-01,4,TB-semai,Harendong bulu,3,0
+28SW,28SW-40-01,4,TB-semai,Bingbin,5,0
+28SW,28SW-40-01,4,TB-semai,Jirak,7,0
+28SW,28SW-40-01,4,TB-semai,Poreket,1,0
+28SW,28SW-40-01,4,TB-semai,Ki jahe,3,0
+28SW,28SW-40-01,4,TB-semai,Ki teja,4,0
+28SW,28SW-40-01,4,TB-semai,Ki segel,1,0
+28SW,28SW-40-01,4,TB-semai,Tapo,10,0
+28SW,28SW-40-01,4,TB-semai,Ki endog,4,0
+28SW,28SW-40-01,4,TB-semai,Ki barela,1,0
+28SW,28SW-40-01,25,Pancang,Carulang,2,0
+28SW,28SW-40-01,25,Pancang,Jirak,1,0
+28SW,28SW-40-01,25,Pancang,Ki tulang,1,0
+28SW,28SW-40-01,25,Pancang,Ki teja,6,0
+28SW,28SW-40-01,25,Pancang,Kacembang,3,0
+28SW,28SW-40-01,25,Pancang,Ki beureum,1,0
+28SW,28SW-40-01,25,Pancang,Cangcaratan,2,0
+28SW,28SW-40-01,25,Pancang,Teureup,1,0
+28SW,28SW-40-01,25,Pancang,Ceuri,3,0
+28SW,28SW-40-01,25,Pancang,Ki asahan,4,0
+28SW,28SW-40-01,25,Pancang,Padali,1,0
+28SW,28SW-40-01,25,Pancang,Ki sampang,4,0
+28SW,28SW-40-01,25,Pancang,Katulampa,2,0
+28SW,28SW-40-01,100,Tiang,Laban,1,40
+28SW,28SW-40-01,100,Tiang,Ki kacang,1,30
+28SW,28SW-40-01,100,Tiang,Gompong,1,30
+28SW,28SW-40-01,100,Tiang,Jirak,1,39
+28SW,28SW-40-01,100,Tiang,Jirak,1,50
+28SW,28SW-40-01,100,Tiang,Jengkol,1,59
+28SW,28SW-40-01,100,Tiang,Ki mokla,1,50
+28SW,28SW-40-01,100,Tiang,Jirak,1,53
+28SW,28SW-40-01,100,Tiang,Jirak,1,47
+28SW,28SW-40-01,100,Tiang,Cangkudu,1,34
+28SW,28SW-40-01,400,Pohon,Lame,1,88
+28SW,28SW-40-01,400,Pohon,Ki beureum,1,61
+28SW,28SW-40-01,400,Pohon,Ki beureum,1,69
+28SW,28SW-40-01,400,Pohon,Ki teja,1,103
+28SW,28SW-40-01,400,Pohon,Jengkol,1,87
+28SW,28SW-40-01,400,Pohon,Ki mokla,1,61
+28SW,28SW-40-01,400,Pohon,Ki mokla,1,64
+28SW,28SW-40-01,400,Pohon,Lame,1,92
+28SW,28SW-40-01,400,Pohon,Lame,1,86
+28SW,28SW-40-01,400,Pohon,Jengkol,1,64
+28SW,28SW-40-02,4,TB-semai,Bingbin,12,0
+28SW,28SW-40-02,4,TB-semai,Carulang,10,0
+28SW,28SW-40-02,4,TB-semai,Ki barela,4,0
+28SW,28SW-40-02,4,TB-semai,Cangkuang,1,0
+28SW,28SW-40-02,4,TB-semai,Dadap,3,0
+28SW,28SW-40-02,4,TB-semai,Canar,3,0
+28SW,28SW-40-02,4,TB-semai,Ki sampang,4,0
+28SW,28SW-40-02,4,TB-semai,Jampang beureum,1,0
+28SW,28SW-40-02,4,TB-semai,Jirak,6,0
+28SW,28SW-40-02,4,TB-semai,Ki beureum,5,0
+28SW,28SW-40-02,4,TB-semai,Cariang,5,0
+28SW,28SW-40-02,25,Pancang,Buluh,1,0
+28SW,28SW-40-02,25,Pancang,Gompong,1,0
+28SW,28SW-40-02,25,Pancang,Ki beureum,3,0
+28SW,28SW-40-02,25,Pancang,Bingbin,9,0
+28SW,28SW-40-02,25,Pancang,Peuris,5,0
+28SW,28SW-40-02,25,Pancang,Tuak kalapa,6,0
+28SW,28SW-40-02,25,Pancang,Ki pare,2,0
+28SW,28SW-40-02,25,Pancang,Sulangkar,7,0
+28SW,28SW-40-02,25,Pancang,Oar,3,0
+28SW,28SW-40-02,25,Pancang,Carulang,5,0
+28SW,28SW-40-02,25,Pancang,Leles,2,0
+28SW,28SW-40-02,25,Pancang,Jingjing kulit,1,0
+28SW,28SW-40-02,100,Tiang,Jirak,1,36
+28SW,28SW-40-02,100,Tiang,Padali,1,32
+28SW,28SW-40-02,100,Tiang,Padali,1,34
+28SW,28SW-40-02,100,Tiang,Cangkudu,1,36
+28SW,28SW-40-02,100,Tiang,Ki teja,1,32
+28SW,28SW-40-02,100,Tiang,Padali,1,38
+28SW,28SW-40-02,100,Tiang,Cangkudu,1,50
+28SW,28SW-40-02,400,Pohon,Taritih,1,164
+28SW,28SW-40-02,400,Pohon,Ki sampang,1,129
+28SW,28SW-40-02,400,Pohon,Cangkudu,1,71
+28SW,28SW-40-02,400,Pohon,Lame,1,81
+28SW,28SW-40-02,400,Pohon,Ki sampang,1,73
+28SW,28SW-40-02,400,Pohon,Kacapi,1,119
+28SW,28SW-40-02,400,Pohon,Cangcaratan,1,94
+28SW,28SW-40-03,4,TB-semai,Ki barela,2,0
+28SW,28SW-40-03,4,TB-semai,Kawao,3,0
+28SW,28SW-40-03,4,TB-semai,Carulang,5,0
+28SW,28SW-40-03,4,TB-semai,Jingjing kulit,1,0
+28SW,28SW-40-03,4,TB-semai,Bingbin,6,0
+28SW,28SW-40-03,4,TB-semai,Canar,1,0
+28SW,28SW-40-03,25,Pancang,Cangcaratan,6,0
+28SW,28SW-40-03,25,Pancang,Kasongket,3,0
+28SW,28SW-40-03,25,Pancang,Ki asahan,5,0
+28SW,28SW-40-03,25,Pancang,Ki teja,6,0
+28SW,28SW-40-03,25,Pancang,Heucit,1,0
+28SW,28SW-40-03,25,Pancang,Tuak kalapa,4,0
+28SW,28SW-40-03,25,Pancang,Langkap,3,0
+28SW,28SW-40-03,25,Pancang,Ki segel,6,0
+28SW,28SW-40-03,25,Pancang,Leles,6,0
+28SW,28SW-40-03,25,Pancang,Peuris,9,0
+28SW,28SW-40-03,100,Tiang,Taritih,1,48
+28SW,28SW-40-03,100,Tiang,Padali,1,43
+28SW,28SW-40-03,100,Tiang,Heucit,1,32
+28SW,28SW-40-03,100,Tiang,Ki jahe,1,50
+28SW,28SW-40-03,400,Pohon,Ki mokla,1,70
+28SW,28SW-40-03,400,Pohon,Ki mokla,1,112
+28SW,28SW-40-03,400,Pohon,Ki sampang,1,63
+28SW,28SW-40-03,400,Pohon,Cangcaratan,1,84
+28SW,28SW-40-04,4,TB-semai,Bingbin,6,0
+28SW,28SW-40-04,4,TB-semai,Tapo,1,0
+28SW,28SW-40-04,4,TB-semai,Salak,2,0
+28SW,28SW-40-04,4,TB-semai,Ki teja,1,0
+28SW,28SW-40-04,4,TB-semai,Kawao,1,0
+28SW,28SW-40-04,4,TB-semai,Ki asahan,1,0
+28SW,28SW-40-04,4,TB-semai,Peuris,3,0
+28SW,28SW-40-04,25,Pancang,Kawao,3,0
+28SW,28SW-40-04,25,Pancang,Ki endog,2,0
+28SW,28SW-40-04,25,Pancang,Ki asahan,3,0
+28SW,28SW-40-04,25,Pancang,Jirak,6,0
+28SW,28SW-40-04,25,Pancang,Tuak kalapa,5,0
+28SW,28SW-40-04,25,Pancang,Ki tanjung,1,0
+28SW,28SW-40-04,25,Pancang,Sulangkar,5,0
+28SW,28SW-40-04,25,Pancang,Padali,1,0
+28SW,28SW-40-04,25,Pancang,Bingbin,5,0
+28SW,28SW-40-04,100,Tiang,Jeungjing,1,43
+28SW,28SW-40-04,100,Tiang,Ki sampang,1,36
+28SW,28SW-40-04,100,Tiang,Buluh,1,37
+28SW,28SW-40-04,100,Tiang,Jirak,1,33
+28SW,28SW-40-04,100,Tiang,Jirak,1,45
+28SW,28SW-40-04,400,Pohon,Ki sampang,1,83
+28SW,28SW-40-04,400,Pohon,Cangcaratan,1,82
+28SW,28SW-40-04,400,Pohon,Jengkol,1,85
+28SW,28SW-40-04,400,Pohon,Angrit,1,124
+28SW,28SW-40-04,400,Pohon,Jengkol,1,61
+28SW,28SW-40-04,400,Pohon,Angrit,1,86
+28SW,28SW-40-04,400,Pohon,Salam,1,75
+28SW,28SW-40-04,400,Pohon,Jirak,1,87
+28SW,28SW-40-04,400,Pohon,Taritih,1,110
+28SW,28SW-40-04,400,Pohon,Jirak,1,77
+28SW,28SW-40-04,400,Pohon,Salam,1,176
+28SW,28SW-40-05,4,TB-semai,Ki jahe,4,0
+28SW,28SW-40-05,4,TB-semai,Hanam,37,0
+28SW,28SW-40-05,4,TB-semai,Salam,5,0
+28SW,28SW-40-05,4,TB-semai,Ki barela,1,0
+28SW,28SW-40-05,4,TB-semai,Ki teja,3,0
+28SW,28SW-40-05,4,TB-semai,Jirak,6,0
+28SW,28SW-40-05,4,TB-semai,Carulang,1,0
+28SW,28SW-40-05,25,Pancang,Cangcaratan,6,0
+28SW,28SW-40-05,25,Pancang,Bingbin,7,0
+28SW,28SW-40-05,25,Pancang,Ki asahan,5,0
+28SW,28SW-40-05,25,Pancang,Heucit,1,0
+28SW,28SW-40-05,25,Pancang,Ki kacang,1,0
+28SW,28SW-40-05,25,Pancang,Jirak,6,0
+28SW,28SW-40-05,25,Pancang,Lampeni ,2,0
+28SW,28SW-40-05,25,Pancang,Ki segel,1,0
+28SW,28SW-40-05,25,Pancang,Ki teja,3,0
+28SW,28SW-40-05,25,Pancang,Oar,1,0
+28SW,28SW-40-05,25,Pancang,Kacapi,1,0
+28SW,28SW-40-05,100,Tiang,Ki jahe,1,37
+28SW,28SW-40-05,100,Tiang,Jirak,1,38
+28SW,28SW-40-05,100,Tiang,Jirak,1,46
+28SW,28SW-40-05,100,Tiang,Laban,1,38
+28SW,28SW-40-05,100,Tiang,Cangkudu,1,56
+28SW,28SW-40-05,100,Tiang,Ki sampang,1,32
+28SW,28SW-40-05,400,Pohon,Jengkol,1,78
+28SW,28SW-40-05,400,Pohon,Cangkudu,1,72
+28SW,28SW-40-05,400,Pohon,Ki sampang,1,76
+28SW,28SW-40-05,400,Pohon,Parahrah,1,82
+28SW,28SW-40-05,400,Pohon,Ki sampang,1,68
+28SW,28SW-40-05,400,Pohon,Jirak,1,84
+28SW,28SW-40-05,400,Pohon,Taritih,1,150
+28SW,28SW-40-05,400,Pohon,Rengas,1,178
+28SW,28SW-40-05,400,Pohon,Cangcaratan,1,63
+28SW,28SW-39-01,4,TB-semai,Harendong bulu,31,0
+28SW,28SW-39-01,4,TB-semai,Kasongket,4,0
+28SW,28SW-39-01,4,TB-semai,Jirak,11,0
+28SW,28SW-39-01,4,TB-semai,Tuak kalapa,6,0
+28SW,28SW-39-01,4,TB-semai,Ceuri,4,0
+28SW,28SW-39-01,4,TB-semai,Bingbin,5,0
+28SW,28SW-39-01,25,Pancang,Carulang,9,0
+28SW,28SW-39-01,25,Pancang,Ki barela,3,0
+28SW,28SW-39-01,25,Pancang,Kuhkuran,1,0
+28SW,28SW-39-01,25,Pancang,Lame,2,0
+28SW,28SW-39-01,25,Pancang,Ceuri,1,0
+28SW,28SW-39-01,25,Pancang,Bingbin,4,0
+28SW,28SW-39-01,25,Pancang,Heas,3,0
+28SW,28SW-39-01,100,Tiang,Laban,1,60
+28SW,28SW-39-01,100,Tiang,Ki tanjung,1,32
+28SW,28SW-39-01,100,Tiang,Laban,1,53
+28SW,28SW-39-01,100,Tiang,Peuris,1,42
+28SW,28SW-39-01,100,Tiang,Cangcaratan,1,51
+28SW,28SW-39-01,100,Tiang,Laban,1,55
+28SW,28SW-39-01,400,Pohon,Peuris,1,99
+28SW,28SW-39-01,400,Pohon,Ki sampang,1,64
+28SW,28SW-39-01,400,Pohon,Peuris,1,87
+28SW,28SW-39-01,400,Pohon,Peuris,1,67
+28SW,28SW-39-01,400,Pohon,Peuris,1,68
+28SW,28SW-39-01,400,Pohon,Cangkudu,1,83
+28SW,28SW-39-01,400,Pohon,Hanjiat,1,61
+28SW,28SW-39-01,400,Pohon,Peuris,1,88
+28SW,28SW-39-01,400,Pohon,Laban,1,74
+28SW,28SW-39-01,400,Pohon,Laban,1,126
+28SW,28SW-39-02,4,TB-semai,Jengkol,1,0
+28SW,28SW-39-02,4,TB-semai,Papakuan,3,0
+28SW,28SW-39-02,4,TB-semai,Kuhkuran,2,0
+28SW,28SW-39-02,4,TB-semai,Ki teja,4,0
+28SW,28SW-39-02,4,TB-semai,Heas,1,0
+28SW,28SW-39-02,4,TB-semai,Tuak kalapa,1,0
+28SW,28SW-39-02,4,TB-semai,Ki jahe,1,0
+28SW,28SW-39-02,4,TB-semai,Ki beureum,2,0
+28SW,28SW-39-02,25,Pancang,Ki segel,1,0
+28SW,28SW-39-02,25,Pancang,Kalapa,2,0
+28SW,28SW-39-02,25,Pancang,Bingbin,1,0
+28SW,28SW-39-02,25,Pancang,Cangkuang,1,0
+28SW,28SW-39-02,25,Pancang,Buluh,1,0
+28SW,28SW-39-02,25,Pancang,liana,3,0
+28SW,28SW-39-02,25,Pancang,Ki endog,4,0
+28SW,28SW-39-02,25,Pancang,Jirak,1,0
+28SW,28SW-39-02,25,Pancang,Cangcaratan,4,0
+28SW,28SW-39-02,100,Tiang,Ki segel,1,52
+28SW,28SW-39-02,100,Tiang,Peuris,1,60
+28SW,28SW-39-02,100,Tiang,Cangkudu,1,36
+28SW,28SW-39-02,400,Pohon,Ceuri,1,121
+28SW,28SW-39-02,400,Pohon,Peuris,1,63
+28SW,28SW-39-02,400,Pohon,Ki segel,1,69
+28SW,28SW-39-02,400,Pohon,Cangkudu,1,89
+28SW,28SW-39-02,400,Pohon,Laban,1,74
+28SW,28SW-39-02,400,Pohon,Cangkudu,1,78
+28SW,28SW-39-02,400,Pohon,Jengkol,1,71
+28SW,28SW-39-02,400,Pohon,Peuris,1,70
+28SW,28SW-39-02,400,Pohon,Laban,1,95
+28SW,28SW-39-03,4,TB-semai,Ki teja,4,0
+28SW,28SW-39-03,4,TB-semai,Harashas,3,0
+28SW,28SW-39-03,4,TB-semai,Ki endog,6,0
+28SW,28SW-39-03,4,TB-semai,Tuak kalapa,1,0
+28SW,28SW-39-03,4,TB-semai,Ki endog,7,0
+28SW,28SW-39-03,4,TB-semai,Jirak,2,0
+28SW,28SW-39-03,25,Pancang,Bingbin,4,0
+28SW,28SW-39-03,25,Pancang,Harashas,6,0
+28SW,28SW-39-03,25,Pancang,Heucit,4,0
+28SW,28SW-39-03,25,Pancang,Ki endog,2,0
+28SW,28SW-39-03,25,Pancang,Ki segel,1,0
+28SW,28SW-39-03,25,Pancang,Jajambuan,1,0
+28SW,28SW-39-03,25,Pancang,Ki jahe,5,0
+28SW,28SW-39-03,25,Pancang,Katulampa,1,0
+28SW,28SW-39-03,100,Tiang,Ki jahe,1,58
+28SW,28SW-39-03,100,Tiang,Ki jahe,1,30
+28SW,28SW-39-03,100,Tiang,Peuris,1,53
+28SW,28SW-39-03,100,Tiang,Cangkudu,1,49
+28SW,28SW-39-03,100,Tiang,Ki sampang,1,53
+28SW,28SW-39-03,100,Tiang,Peuris,1,50
+28SW,28SW-39-03,400,Pohon,Ceuri,1,97
+28SW,28SW-39-03,400,Pohon,Ki segel,1,67
+28SW,28SW-39-03,400,Pohon,Ceuri,1,90
+28SW,28SW-39-03,400,Pohon,Ki segel,1,68
+28SW,28SW-39-03,400,Pohon,Cangkudu,1,82
+28SW,28SW-39-03,400,Pohon,Peuris,1,72
+28SW,28SW-39-03,400,Pohon,Jengkol,1,62
+28SW,28SW-39-04,4,TB-semai,Bingbin,1,0
+28SW,28SW-39-04,4,TB-semai,Ki teja,4,0
+28SW,28SW-39-04,4,TB-semai,Bangban,3,0
+28SW,28SW-39-04,4,TB-semai,Huni,5,0
+28SW,28SW-39-04,4,TB-semai,Ki gadel,1,0
+28SW,28SW-39-04,4,TB-semai,Carulang,4,0
+28SW,28SW-39-04,4,TB-semai,Garut,3,0
+28SW,28SW-39-04,4,TB-semai,Gadung,1,0
+28SW,28SW-39-04,25,Pancang,Ipis kulit,2,0
+28SW,28SW-39-04,25,Pancang,Ki endog,4,0
+28SW,28SW-39-04,25,Pancang,Ki pare,3,0
+28SW,28SW-39-04,100,Tiang,Ki segel,1,44
+28SW,28SW-39-04,100,Tiang,Cangkudu,1,40
+28SW,28SW-39-04,100,Tiang,Laban,1,57
+28SW,28SW-39-04,400,Pohon,Cangcaratan,1,259
+28SW,28SW-39-04,400,Pohon,Cangkudu,1,65
+28SW,28SW-39-04,400,Pohon,Lame,1,66
+28SW,28SW-39-04,400,Pohon,Peuris,1,77
+28SW,28SW-39-04,400,Pohon,Cangkudu,1,81
+28SW,28SW-39-04,400,Pohon,Rengas,1,75
+28SW,28SW-39-04,400,Pohon,Ki teja,1,97
+28SW,28SW-39-04,400,Pohon,Peuris,1,112
+28SW,28SW-39-05,4,TB-semai,Ki teja,6,0
+28SW,28SW-39-05,4,TB-semai,Ki endog,4,0
+28SW,28SW-39-05,4,TB-semai,Tuak kalapa,3,0
+28SW,28SW-39-05,4,TB-semai,Peuris,7,0
+28SW,28SW-39-05,4,TB-semai,Bingbin,5,0
+28SW,28SW-39-05,4,TB-semai,Ki tulang,2,0
+28SW,28SW-39-05,4,TB-semai,Icot badak,1,0
+28SW,28SW-39-05,4,TB-semai,Kuhkuran,9,0
+28SW,28SW-39-05,4,TB-semai,Canar,1,0
+28SW,28SW-39-05,4,TB-semai,Ki laja,1,0
+28SW,28SW-39-05,4,TB-semai,Putat,4,0
+28SW,28SW-39-05,25,Pancang,Cangkuang,2,0
+28SW,28SW-39-05,25,Pancang,Bingbin,4,0
+28SW,28SW-39-05,25,Pancang,Heas,7,0
+28SW,28SW-39-05,25,Pancang,Ki endog,4,0
+28SW,28SW-39-05,25,Pancang,Ki teja,4,0
+28SW,28SW-39-05,25,Pancang,Ki segel,5,0
+28SW,28SW-39-05,25,Pancang,Cangcaratan,2,0
+28SW,28SW-39-05,25,Pancang,Cangkudu,5,0
+28SW,28SW-39-05,100,Tiang,Cangkudu,1,44
+28SW,28SW-39-05,400,Pohon,Lame,1,180
+28SW,28SW-39-05,400,Pohon,Cangkudu,1,94
+28SW,28SW-39-05,400,Pohon,Laban,1,92
+28SW,28SW-39-05,400,Pohon,Laban,1,86
+28SW,28SW-39-05,400,Pohon,Cangkudu,1,61
+28SW,28SW-39-05,400,Pohon,Cangkudu,1,69
+28SW,28SW-39-05,400,Pohon,Ki teja,1,62
+28SW,28SW-35-01,4,TB-semai,Jampang beureum,1,0
+28SW,28SW-35-01,4,TB-semai,Hata,2,0
+28SW,28SW-35-01,4,TB-semai,Parasi,3,0
+28SW,28SW-35-01,4,TB-semai,Canar,1,0
+28SW,28SW-35-01,4,TB-semai,Amis mata,2,0
+28SW,28SW-35-01,4,TB-semai,Oar,3,0
+28SW,28SW-35-01,4,TB-semai,Harendong,9,0
+28SW,28SW-35-01,4,TB-semai,Carulang,5,0
+28SW,28SW-35-01,4,TB-semai,Hanjuang,2,0
+28SW,28SW-35-01,4,TB-semai,Ki teja,4,0
+28SW,28SW-35-01,4,TB-semai,Peuris,4,0
+28SW,28SW-35-01,4,TB-semai,Ki sampang,2,0
+28SW,28SW-35-01,4,TB-semai,Ki laja,1,0
+28SW,28SW-35-01,4,TB-semai,Bingbin,3,0
+28SW,28SW-35-01,25,Pancang,Hanjuang,3,0
+28SW,28SW-35-01,25,Pancang,Peuris,9,0
+28SW,28SW-35-01,25,Pancang,Lampeni ,6,0
+28SW,28SW-35-01,25,Pancang,Heucit,5,0
+28SW,28SW-35-01,25,Pancang,Salam,3,0
+28SW,28SW-35-01,25,Pancang,Padali,1,0
+28SW,28SW-35-01,25,Pancang,Lame,1,0
+28SW,28SW-35-01,25,Pancang,Bingbin,3,0
+28SW,28SW-35-01,25,Pancang,Bubuay,4,0
+28SW,28SW-35-01,25,Pancang,Cangcaratan,4,0
+28SW,28SW-35-01,100,Tiang,Tuak kalapa,1,35
+28SW,28SW-35-01,100,Tiang,Peuris,1,59
+28SW,28SW-35-01,100,Tiang,Cangcaratan,1,43
+28SW,28SW-35-01,400,Pohon,Padali,1,95
+28SW,28SW-35-01,400,Pohon,Salam,1,67
+28SW,28SW-35-01,400,Pohon,Peuris,1,63
+28SW,28SW-35-01,400,Pohon,Padali,1,125
+28SW,28SW-35-01,400,Pohon,Daruak,1,84
+28SW,28SW-35-01,400,Pohon,Laban,1,75
+28SW,28SW-35-01,400,Pohon,Laban,1,96
+28SW,28SW-35-01,400,Pohon,Cangkudu,1,89
+28SW,28SW-35-01,400,Pohon,Salam,1,98
+28SW,28SW-35-01,400,Pohon,Cangcaratan,1,80
+28SW,28SW-35-01,400,Pohon,Ki sampang,1,99
+28SW,28SW-35-01,400,Pohon,Ki teja,1,71
+28SW,28SW-35-01,400,Pohon,Padali,1,66
+28SW,28SW-35-01,400,Pohon,Salam,1,150
+28SW,28SW-35-01,400,Pohon,Daruak,1,112
+28SW,28SW-35-01,400,Pohon,Laban,1,84
+28SW,28SW-35-02,4,TB-semai,Cangkuang,4,0
+28SW,28SW-35-02,4,TB-semai,Ki barela,3,0
+28SW,28SW-35-02,4,TB-semai,Carulang,5,0
+28SW,28SW-35-02,4,TB-semai,Parasi,1,0
+28SW,28SW-35-02,4,TB-semai,Ki tanjung,1,0
+28SW,28SW-35-02,4,TB-semai,Cangcaratan,7,0
+28SW,28SW-35-02,4,TB-semai,Icat,1,0
+28SW,28SW-35-02,4,TB-semai,Lampeni ,3,0
+28SW,28SW-35-02,4,TB-semai,Peuris,6,0
+28SW,28SW-35-02,4,TB-semai,Hanjuang,5,0
+28SW,28SW-35-02,4,TB-semai,Amis mata,2,0
+28SW,28SW-35-02,4,TB-semai,Bingbin,4,0
+28SW,28SW-35-02,4,TB-semai,Leles,1,0
+28SW,28SW-35-02,4,TB-semai,Bungburutu,1,0
+28SW,28SW-35-02,25,Pancang,Bungburutu,3,0
+28SW,28SW-35-02,25,Pancang,Peuris,7,0
+28SW,28SW-35-02,25,Pancang,Laban,6,0
+28SW,28SW-35-02,25,Pancang,Cangcaratan,9,0
+28SW,28SW-35-02,25,Pancang,Lampeni ,5,0
+28SW,28SW-35-02,25,Pancang,Sempur,4,0
+28SW,28SW-35-02,25,Pancang,Oar,2,0
+28SW,28SW-35-02,25,Pancang,Heucit,10,0
+28SW,28SW-35-02,25,Pancang,Tuak kalapa,11,0
+28SW,28SW-35-02,25,Pancang,Ki endog,5,0
+28SW,28SW-35-02,25,Pancang,Carulang,4,0
+28SW,28SW-35-02,25,Pancang,Bubuay,4,0
+28SW,28SW-35-02,25,Pancang,Ki segel,5,0
+28SW,28SW-35-02,25,Pancang,Bihbul,2,0
+28SW,28SW-35-02,100,Tiang,Heas,1,35
+28SW,28SW-35-02,100,Tiang,Peuris,1,49
+28SW,28SW-35-02,100,Tiang,Heas,1,39
+28SW,28SW-35-02,100,Tiang,Heas,1,31
+28SW,28SW-35-02,100,Tiang,Ki pare,1,45
+28SW,28SW-35-02,100,Tiang,Ki pare,1,34
+28SW,28SW-35-02,400,Pohon,Sempur,1,86
+28SW,28SW-35-02,400,Pohon,Padali,1,114
+28SW,28SW-35-02,400,Pohon,Cangcaratan,1,73
+28SW,28SW-35-02,400,Pohon,Laban,1,69
+28SW,28SW-35-02,400,Pohon,Peuris,1,64
+28SW,28SW-35-02,400,Pohon,Cangkudu,1,63
+28SW,28SW-35-02,400,Pohon,Padali,1,93
+28SW,28SW-35-02,400,Pohon,Peuris,1,61
+28SW,28SW-35-02,400,Pohon,Cangcaratan,1,73
+28SW,28SW-35-02,400,Pohon,Padali,1,97
+28SW,28SW-35-02,400,Pohon,Laban,1,76
+28SW,28SW-35-02,400,Pohon,Padali,1,85
+28SW,28SW-35-02,400,Pohon,Padali,1,69
+28SW,28SW-35-02,400,Pohon,Padali,1,62
+28SW,28SW-35-03,4,TB-semai,Kanyere,3,0
+28SW,28SW-35-03,4,TB-semai,Harendong,11,0
+28SW,28SW-35-03,4,TB-semai,Rotan,4,0
+28SW,28SW-35-03,4,TB-semai,Tuak kalapa,6,0
+28SW,28SW-35-03,4,TB-semai,Hanjuang,6,0
+28SW,28SW-35-03,4,TB-semai,Bingbin,1,0
+28SW,28SW-35-03,4,TB-semai,Ki teja,4,0
+28SW,28SW-35-03,4,TB-semai,Icat,5,0
+28SW,28SW-35-03,4,TB-semai,Peuris,10,0
+28SW,28SW-35-03,4,TB-semai,Jingjing kulit,1,0
+28SW,28SW-35-03,4,TB-semai,Ki sampang,4,0
+28SW,28SW-35-03,4,TB-semai,Harendong,6,0
+28SW,28SW-35-03,25,Pancang,Lame,4,0
+28SW,28SW-35-03,25,Pancang,Kanyere,1,0
+28SW,28SW-35-03,25,Pancang,Kasongket,1,0
+28SW,28SW-35-03,25,Pancang,Ki sampang,7,0
+28SW,28SW-35-03,25,Pancang,Ki endog,3,0
+28SW,28SW-35-03,25,Pancang,Peuris,9,0
+28SW,28SW-35-03,25,Pancang,Leles,1,0
+28SW,28SW-35-03,25,Pancang,Ki huut,6,0
+28SW,28SW-35-03,25,Pancang,Bingbin,5,0
+28SW,28SW-35-03,25,Pancang,Jirak,6,0
+28SW,28SW-35-03,25,Pancang,Bungur,4,0
+28SW,28SW-35-03,25,Pancang,Laban,7,0
+28SW,28SW-35-03,25,Pancang,Kawao,3,0
+28SW,28SW-35-03,100,Tiang,Peuris,1,46
+28SW,28SW-35-03,100,Tiang,Taritih,1,34
+28SW,28SW-35-03,100,Tiang,Ki teja,1,75
+28SW,28SW-35-03,100,Tiang,Lame,1,131
+28SW,28SW-35-03,400,Pohon,Cangcaratan,1,134
+28SW,28SW-35-03,400,Pohon,Padali,1,84
+28SW,28SW-35-03,400,Pohon,Padali,1,74
+28SW,28SW-35-03,400,Pohon,Ki sampang,1,61
+28SW,28SW-35-03,400,Pohon,Salam,1,111
+28SW,28SW-35-03,400,Pohon,Laban,1,70
+28SW,28SW-35-04,4,TB-semai,Bingbin,2,0
+28SW,28SW-35-04,4,TB-semai,Harendong,6,0
+28SW,28SW-35-04,4,TB-semai,Cangkuang,4,0
+28SW,28SW-35-04,4,TB-semai,Parasi,3,0
+28SW,28SW-35-04,4,TB-semai,Ki suit,3,0
+28SW,28SW-35-04,4,TB-semai,Ki tulang,1,0
+28SW,28SW-35-04,4,TB-semai,Hanjuang,2,0
+28SW,28SW-35-04,4,TB-semai,Ki teja,4,0
+28SW,28SW-35-04,4,TB-semai,Ki beureum,1,0
+28SW,28SW-35-04,4,TB-semai,Tuak kalapa,6,0
+28SW,28SW-35-04,25,Pancang,Canar,1,0
+28SW,28SW-35-04,25,Pancang,Jirak,4,0
+28SW,28SW-35-04,25,Pancang,Ki pare,5,0
+28SW,28SW-35-04,25,Pancang,Benying,2,0
+28SW,28SW-35-04,25,Pancang,Ki tanjung,4,0
+28SW,28SW-35-04,25,Pancang,Hanjuang,1,0
+28SW,28SW-35-04,25,Pancang,Peuris,6,0
+28SW,28SW-35-04,25,Pancang,Gompong,1,0
+28SW,28SW-35-04,25,Pancang,Ki kunti,2,0
+28SW,28SW-35-04,100,Tiang,Lame,1,53
+28SW,28SW-35-04,100,Tiang,Cangkudu,1,56
+28SW,28SW-35-04,400,Pohon,Padali,1,73
+28SW,28SW-35-04,400,Pohon,Padali,1,70
+28SW,28SW-35-04,400,Pohon,Hanjiat,1,80
+28SW,28SW-35-04,400,Pohon,Peuris,1,73
+28SW,28SW-35-04,400,Pohon,Lame,1,85
+28SW,28SW-35-04,400,Pohon,Padali,1,83
+28SW,28SW-35-04,400,Pohon,Jirak,1,65
+28SW,28SW-35-04,400,Pohon,Ki sampang,1,112
+28SW,28SW-35-05,4,TB-semai,Cangkuang,1,0
+28SW,28SW-35-05,4,TB-semai,Harendong,2,0
+28SW,28SW-35-05,4,TB-semai,Parasi,3,0
+28SW,28SW-35-05,4,TB-semai,Tuak kalapa,11,0
+28SW,28SW-35-05,4,TB-semai,Jirak,1,0
+28SW,28SW-35-05,4,TB-semai,Rukem,1,0
+28SW,28SW-35-05,4,TB-semai,Ki tulang,1,0
+28SW,28SW-35-05,4,TB-semai,Ki teja,1,0
+28SW,28SW-35-05,4,TB-semai,Rotan,1,0
+28SW,28SW-35-05,4,TB-semai,Hanjuang,2,0
+28SW,28SW-35-05,4,TB-semai,Heas,1,0
+28SW,28SW-35-05,4,TB-semai,Parasi,1,0
+28SW,28SW-35-05,25,Pancang,Lampeni ,7,0
+28SW,28SW-35-05,25,Pancang,Heas,4,0
+28SW,28SW-35-05,25,Pancang,Benying,3,0
+28SW,28SW-35-05,25,Pancang,Ki tulang,3,0
+28SW,28SW-35-05,25,Pancang,Ki teja,2,0
+28SW,28SW-35-05,25,Pancang,Rukem,1,0
+28SW,28SW-35-05,25,Pancang,Rotan,3,0
+28SW,28SW-35-05,25,Pancang,Ki sampang,4,0
+28SW,28SW-35-05,25,Pancang,Ceuri,4,0
+28SW,28SW-35-05,25,Pancang,Hanjuang,1,0
+28SW,28SW-35-05,25,Pancang,Cangkudu,2,0
+28SW,28SW-35-05,25,Pancang,Padali,5,0
+28SW,28SW-35-05,25,Pancang,Ki huut,6,0
+28SW,28SW-35-05,25,Pancang,Jirak,10,0
+28SW,28SW-35-05,25,Pancang,Laban,3,0
+28SW,28SW-35-05,100,Tiang,Peuris,1,47
+28SW,28SW-35-05,100,Tiang,Padali,1,42
+28SW,28SW-35-05,100,Tiang,Padali,1,59
+28SW,28SW-35-05,100,Tiang,Cangcaratan,1,42
+28SW,28SW-35-05,100,Tiang,Padali,1,34
+28SW,28SW-35-05,400,Pohon,Padali,1,127
+28SW,28SW-35-05,400,Pohon,Jirak,1,68
+28SW,28SW-35-05,400,Pohon,Laban,1,73
+28SW,28SW-35-05,400,Pohon,Jirak,1,70
+28SW,28SW-35-05,400,Pohon,Ki teja,1,67
+28SW,28SW-35-05,400,Pohon,Hanjiat,1,67
+28SW,28SW-35-05,400,Pohon,Peuris,1,71
+28SW,28SW-35-05,400,Pohon,Padali,1,78
+28SW,28SW-35-05,400,Pohon,Cangkudu,1,75
+56BB,56BB-34-01,4,TB-semai,Icat,4,0
+56BB,56BB-34-01,4,TB-semai,Hata,3,0
+56BB,56BB-34-01,4,TB-semai,Papakuan,1,0
+56BB,56BB-34-01,4,TB-semai,Harendong bulu,2,0
+56BB,56BB-34-01,4,TB-semai,Ki barela,1,0
+56BB,56BB-34-01,4,TB-semai,Ki barela,6,0
+56BB,56BB-34-01,4,TB-semai,Lada,7,0
+56BB,56BB-34-01,4,TB-semai,Kopi,6,0
+56BB,56BB-34-01,4,TB-semai,Ki lalayu,1,0
+56BB,56BB-34-01,4,TB-semai,Ki jahe,1,0
+56BB,56BB-34-01,4,TB-semai,Ki asahan,4,0
+56BB,56BB-34-01,4,TB-semai,Tangkil,2,0
+56BB,56BB-34-01,4,TB-semai,Kopi,6,0
+56BB,56BB-34-01,4,TB-semai,Jengkol,1,0
+56BB,56BB-34-01,4,TB-semai,Pete,1,0
+56BB,56BB-34-01,4,TB-semai,Lame,1,0
+56BB,56BB-34-01,4,TB-semai,Buah,1,0
+56BB,56BB-34-01,4,TB-semai,Putat,1,0
+56BB,56BB-34-01,100,Tiang,Tangkil,1,36
+56BB,56BB-34-01,100,Tiang,Lame,1,37
+56BB,56BB-34-01,100,Tiang,Tangkil,1,35
+56BB,56BB-34-01,100,Tiang,Tangkil,1,44
+56BB,56BB-34-01,100,Tiang,Tangkil,1,53
+56BB,56BB-34-01,100,Tiang,Pete,1,43
+56BB,56BB-34-01,400,Pohon,Angsana,1,71
+56BB,56BB-34-01,400,Pohon,Loa,1,367
+56BB,56BB-34-01,400,Pohon,Lame,1,114
+56BB,56BB-34-02,4,TB-semai,Lada,1,0
+56BB,56BB-34-02,4,TB-semai,Hata,4,0
+56BB,56BB-34-02,4,TB-semai,Harendong bulu,10,0
+56BB,56BB-34-02,4,TB-semai,Ki barela,2,0
+56BB,56BB-34-02,4,TB-semai,Katumpang,4,0
+56BB,56BB-34-02,4,TB-semai,Kawao,1,0
+56BB,56BB-34-02,4,TB-semai,Kopi,24,0
+56BB,56BB-34-02,4,TB-semai,Mahoni,17,0
+56BB,56BB-34-02,25,Pancang,Kopi,19,0
+56BB,56BB-34-02,25,Pancang,Tangkil,3,0
+56BB,56BB-34-02,25,Pancang,Jengkol,1,0
+56BB,56BB-34-02,25,Pancang,Buah,1,0
+56BB,56BB-34-02,25,Pancang,Cebreng,1,0
+56BB,56BB-34-02,25,Pancang,Sulangkar,1,0
+56BB,56BB-34-02,25,Pancang,Tuak kalapa,2,0
+56BB,56BB-34-02,25,Pancang,Laban,1,0
+56BB,56BB-34-02,100,Tiang,Patat,1,41
+56BB,56BB-34-02,100,Tiang,Tangkil,1,42
+56BB,56BB-34-02,100,Tiang,Mahoni,1,58
+56BB,56BB-34-02,100,Tiang,Mahoni,1,47
+56BB,56BB-34-02,100,Tiang,Mahoni,1,59
+56BB,56BB-34-02,400,Pohon,Pete,1,64
+56BB,56BB-34-02,400,Pohon,Daruak,1,82
+56BB,56BB-34-02,400,Pohon,Mahoni,1,173
+56BB,56BB-34-02,400,Pohon,Mahoni,1,172
+56BB,56BB-34-02,400,Pohon,Kananga,1,112
+56BB,56BB-34-02,400,Pohon,Ki jahe,1,74
+56BB,56BB-34-02,400,Pohon,Daruak,1,83
+56BB,56BB-34-02,400,Pohon,Mahoni,1,90
+56BB,56BB-34-02,400,Pohon,Taritih,1,77
+56BB,56BB-34-02,400,Pohon,Mahoni,1,68
+56BB,56BB-34-02,400,Pohon,Mahoni,1,70
+56BB,56BB-34-03,4,TB-semai,Ki lalayu,1,0
+56BB,56BB-34-03,4,TB-semai,Parasi,2,0
+56BB,56BB-34-03,4,TB-semai,Papakuan,3,0
+56BB,56BB-34-03,4,TB-semai,Wareng,2,0
+56BB,56BB-34-03,4,TB-semai,Hata,1,0
+56BB,56BB-34-03,4,TB-semai,Kopi,9,0
+56BB,56BB-34-03,4,TB-semai,Rampong,2,0
+56BB,56BB-34-03,4,TB-semai,Benying,2,0
+56BB,56BB-34-03,4,TB-semai,Pacing,2,0
+56BB,56BB-34-03,4,TB-semai,Ki kalapa,2,0
+56BB,56BB-34-03,4,TB-semai,Peuris,2,0
+56BB,56BB-34-03,4,TB-semai,Talingkup,1,0
+56BB,56BB-34-03,25,Pancang,Kopi,8,0
+56BB,56BB-34-03,25,Pancang,Tangkil,2,0
+56BB,56BB-34-03,25,Pancang,Pete,1,0
+56BB,56BB-34-03,100,Tiang,Laban,1,44
+56BB,56BB-34-03,100,Tiang,Tangkil,1,50
+56BB,56BB-34-03,100,Tiang,Jengkol,1,45
+56BB,56BB-34-03,100,Tiang,Jengkol,1,57
+56BB,56BB-34-03,100,Tiang,Nangka,1,31
+56BB,56BB-34-03,400,Pohon,Mahoni,1,161
+56BB,56BB-34-03,400,Pohon,Jengkol,1,66
+56BB,56BB-34-03,400,Pohon,Jengkol,1,63
+56BB,56BB-34-03,400,Pohon,Jengkol,1,106
+56BB,56BB-34-03,400,Pohon,Jengkol,1,81
+56BB,56BB-34-04,4,TB-semai,Ki kalapa,1,0
+56BB,56BB-34-04,4,TB-semai,Harendong,9,0
+56BB,56BB-34-04,4,TB-semai,Peuris,1,0
+56BB,56BB-34-04,4,TB-semai,Pungpurutan,1,0
+56BB,56BB-34-04,4,TB-semai,Jampang,10,0
+56BB,56BB-34-04,4,TB-semai,Ki asahan,1,0
+56BB,56BB-34-04,4,TB-semai,Salam,1,0
+56BB,56BB-34-04,4,TB-semai,Ki sampang,2,0
+56BB,56BB-34-04,4,TB-semai,Ki lalayu,1,0
+56BB,56BB-34-04,25,Pancang,Ki lalayu,1,0
+56BB,56BB-34-04,25,Pancang,Pete,1,0
+56BB,56BB-34-04,25,Pancang,Kopi,10,0
+56BB,56BB-34-04,25,Pancang,Kacapi,1,0
+56BB,56BB-34-04,100,Tiang,Jengkol,1,55
+56BB,56BB-34-04,100,Tiang,Nangka,1,31
+56BB,56BB-34-04,400,Pohon,Jengkol,1,66
+56BB,56BB-34-04,400,Pohon,Daruak,1,96
+56BB,56BB-34-04,400,Pohon,Mahoni,1,125
+56BB,56BB-34-04,400,Pohon,Mahoni,1,68
+56BB,56BB-34-04,400,Pohon,Mahoni,1,63
+56BB,56BB-34-04,400,Pohon,Mahoni,1,150
+56BB,56BB-34-04,400,Pohon,Mahoni,1,72
+56BB,56BB-34-04,400,Pohon,Lame,1,65
+56BB,56BB-34-04,400,Pohon,Laban,1,204
+56BB,56BB-34-04,400,Pohon,Mahoni,1,149
+56BB,56BB-34-05,4,TB-semai,Ki lalayu,2,0
+56BB,56BB-34-05,4,TB-semai,Peuris,2,0
+56BB,56BB-34-05,4,TB-semai,Oar,1,0
+56BB,56BB-34-05,4,TB-semai,Kopi,9,0
+56BB,56BB-34-05,4,TB-semai,Mahoni,5,0
+56BB,56BB-34-05,4,TB-semai,Lampeni ,2,0
+56BB,56BB-34-05,4,TB-semai,Jampang,3,0
+56BB,56BB-34-05,4,TB-semai,Ki kalapa,2,0
+56BB,56BB-34-05,4,TB-semai,Ki asahan,1,0
+56BB,56BB-34-05,4,TB-semai,Jengkol,1,0
+56BB,56BB-34-05,4,TB-semai,Lada,2,0
+56BB,56BB-34-05,4,TB-semai,Singugu,1,0
+56BB,56BB-34-05,4,TB-semai,Salam,1,0
+56BB,56BB-34-05,4,TB-semai,Kadeper buah,1,0
+56BB,56BB-34-05,25,Pancang,Kopi,9,0
+56BB,56BB-34-05,25,Pancang,Jengkol,1,0
+56BB,56BB-34-05,25,Pancang,Kacapi,1,0
+56BB,56BB-34-05,25,Pancang,Tangkil,1,0
+56BB,56BB-34-05,100,Tiang,Salam,1,60
+56BB,56BB-34-05,100,Tiang,Jengkol,1,32
+56BB,56BB-34-05,100,Tiang,Jengkol,1,31
+56BB,56BB-34-05,100,Tiang,Jengkol,1,41
+56BB,56BB-34-05,100,Tiang,Jengkol,1,40
+56BB,56BB-34-05,100,Tiang,Jengkol,1,53
+56BB,56BB-34-05,100,Tiang,Jengkol,1,45
+56BB,56BB-34-05,100,Tiang,Salam,1,65
+56BB,56BB-34-05,100,Tiang,Jengkol,1,64
+56BB,56BB-34-05,100,Tiang,Mahoni,1,145
+56BB,56BB-34-05,100,Tiang,Mahoni,1,110
+56BB,56BB-34-05,100,Tiang,Mahoni,1,110
+56BB,56BB-34-05,100,Tiang,Daruak,1,112
+56BB,56BB-34-05,100,Tiang,Salam,1,98
+56BB,56BB-34-05,100,Tiang,Jengkol,1,70
+56BB,56BB-34-05,100,Tiang,Jengkol,1,77
+56BB,56BB-34-05,100,Tiang,Jengkol,1,77
+56BB,56BB-34-05,100,Tiang,Mahoni,1,150
+56BB,56BB-34-05,100,Tiang,Jengkol,1,95
+56BB,56BB-34-05,100,Tiang,Mahoni,1,72
+56BB,56BB-34-05,100,Tiang,Daruak,1,101
+56BB,56BB-34-05,100,Tiang,Daruak,1,104
+56BB,56BB-34-05,100,Tiang,Daruak,1,76
+56BB,56BB-34-05,100,Tiang,Jengkol,1,71
+56BB,56BB-34-05,100,Tiang,Jengkol,1,113
+56BB,56BB-34-05,100,Tiang,Mahoni,1,65
+86JJ,86JJ-12-01,4,TB-semai,Rotan,3,0
+86JJ,86JJ-12-01,4,TB-semai,Cariang,2,0
+86JJ,86JJ-12-01,4,TB-semai,Harendong,10,0
+86JJ,86JJ-12-01,4,TB-semai,Heas,6,0
+86JJ,86JJ-12-01,25,Pancang,Jirak,9,0
+86JJ,86JJ-12-01,25,Pancang,Jirak,4,0
+86JJ,86JJ-12-01,25,Pancang,Peuris,3,0
+86JJ,86JJ-12-01,25,Pancang,Cangcaratan,2,0
+86JJ,86JJ-12-01,100,Tiang,Jirak,1,30
+86JJ,86JJ-12-01,100,Tiang,Jirak,1,40
+86JJ,86JJ-12-01,100,Tiang,Hareumeung,1,50
+86JJ,86JJ-12-01,100,Tiang,Angrit,1,40
+86JJ,86JJ-12-01,100,Tiang,Angrit,1,40
+86JJ,86JJ-12-01,400,Pohon,Sempur,1,70
+86JJ,86JJ-12-01,400,Pohon,Padali,1,150
+86JJ,86JJ-12-01,400,Pohon,Peuris,1,100
+86JJ,86JJ-12-01,400,Pohon,Ki sereh,1,150
+86JJ,86JJ-12-02,4,TB-semai,Kaman,3,0
+86JJ,86JJ-12-02,4,TB-semai,Bingbin,2,0
+86JJ,86JJ-12-02,4,TB-semai,Rotan,3,0
+86JJ,86JJ-12-02,4,TB-semai,Sulangkar,6,0
+86JJ,86JJ-12-02,4,TB-semai,Harendong,10,0
+86JJ,86JJ-12-02,25,Pancang,Ipis kulit,2,0
+86JJ,86JJ-12-02,25,Pancang,Taritih,1,0
+86JJ,86JJ-12-02,25,Pancang,Jirak,6,0
+86JJ,86JJ-12-02,25,Pancang,Padali,1,0
+86JJ,86JJ-12-02,100,Tiang,Peuris,1,35
+86JJ,86JJ-12-02,100,Tiang,Cangcaratan,1,40
+86JJ,86JJ-12-02,100,Tiang,Jirak,1,32
+86JJ,86JJ-12-02,100,Tiang,Jirak,1,35
+86JJ,86JJ-12-02,100,Tiang,Padali,1,30
+86JJ,86JJ-12-02,100,Tiang,Peuris,1,35
+86JJ,86JJ-12-02,400,Pohon,Gempol,1,120
+86JJ,86JJ-12-02,400,Pohon,Heas,1,120
+86JJ,86JJ-12-02,400,Pohon,Ceuri,1,100
+86JJ,86JJ-12-02,400,Pohon,Ki sereh,1,150
+86JJ,86JJ-12-03,4,TB-semai,Bangban,3,0
+86JJ,86JJ-12-03,4,TB-semai,Bingbin,4,0
+86JJ,86JJ-12-03,4,TB-semai,Rotan,5,0
+86JJ,86JJ-12-03,4,TB-semai,Harendong,6,0
+86JJ,86JJ-12-03,4,TB-semai,Lampeni gunung,5,0
+86JJ,86JJ-12-03,4,TB-semai,Sulangkar,6,0
+86JJ,86JJ-12-03,25,Pancang,Peuris,6,0
+86JJ,86JJ-12-03,25,Pancang,Tundun sayong,4,0
+86JJ,86JJ-12-03,25,Pancang,Ceuri,5,0
+86JJ,86JJ-12-03,25,Pancang,Ki sereh,1,0
+86JJ,86JJ-12-03,100,Tiang,Jirak,1,40
+86JJ,86JJ-12-03,100,Tiang,Ki sereh,1,35
+86JJ,86JJ-12-03,100,Tiang,Huru,1,40
+86JJ,86JJ-12-03,100,Tiang,Ceuri,1,35
+86JJ,86JJ-12-03,400,Pohon,Padali,1,100
+86JJ,86JJ-12-03,400,Pohon,Ceuri,1,110
+86JJ,86JJ-12-03,400,Pohon,Ki sereh,1,150
+86JJ,86JJ-12-03,400,Pohon,Cangcaratan,1,150
+86JJ,86JJ-12-03,400,Pohon,Bengang,1,120
+86JJ,86JJ-12-04,4,TB-semai,Cariang,5,0
+86JJ,86JJ-12-04,4,TB-semai,Bingbin,1,0
+86JJ,86JJ-12-04,4,TB-semai,Harashas,6,0
+86JJ,86JJ-12-04,4,TB-semai,Jirak,6,0
+86JJ,86JJ-12-04,4,TB-semai,Padali,2,0
+86JJ,86JJ-12-04,4,TB-semai,Ki sereh,1,0
+86JJ,86JJ-12-04,25,Pancang,Heucit,3,0
+86JJ,86JJ-12-04,25,Pancang,Jirak,5,0
+86JJ,86JJ-12-04,25,Pancang,Lampeni gunung,2,0
+86JJ,86JJ-12-04,25,Pancang,Huru,2,0
+86JJ,86JJ-12-04,25,Pancang,Padali,1,0
+86JJ,86JJ-12-04,100,Tiang,Huru,1,30
+86JJ,86JJ-12-04,100,Tiang,Jirak,1,35
+86JJ,86JJ-12-04,100,Tiang,Ki sereh,1,30
+86JJ,86JJ-12-04,100,Tiang,Padali,1,35
+86JJ,86JJ-12-04,100,Tiang,Huru,1,35
+86JJ,86JJ-12-04,400,Pohon,Ki ganik,1,170
+86JJ,86JJ-12-04,400,Pohon,Sentul,1,200
+86JJ,86JJ-12-04,400,Pohon,Huru,1,120
+86JJ,86JJ-12-04,400,Pohon,Heas,1,130
+86JJ,86JJ-12-05,4,TB-semai,Bingbin,5,0
+86JJ,86JJ-12-05,4,TB-semai,Haraghag,10,0
+86JJ,86JJ-12-05,4,TB-semai,Peuris,4,0
+86JJ,86JJ-12-05,25,Pancang,Ki huut,2,0
+86JJ,86JJ-12-05,25,Pancang,Peuris,5,0
+86JJ,86JJ-12-05,25,Pancang,Taritih,1,0
+86JJ,86JJ-12-05,25,Pancang,Bengang,1,0
+86JJ,86JJ-12-05,100,Tiang,Heas,1,30
+86JJ,86JJ-12-05,100,Tiang,Ki huut,1,35
+86JJ,86JJ-12-05,100,Tiang,Ceuri,1,40
+86JJ,86JJ-12-05,100,Tiang,Bengang,1,35
+86JJ,86JJ-12-05,400,Pohon,Laban,1,130
+86JJ,86JJ-12-05,400,Pohon,Laban,1,120
+86JJ,86JJ-12-05,400,Pohon,Bengang,1,120
+86JJ,86JJ-12-05,400,Pohon,Cangcaratan,1,120
+86JJ,86JJ-12-05,400,Pohon,Padali,1,100
+21MY,21MY-11-01,4,TB-semai,Rotan,10,0
+21MY,21MY-11-01,4,TB-semai,Kaman,7,0
+21MY,21MY-11-01,4,TB-semai,Ki geulam,4,0
+21MY,21MY-11-01,4,TB-semai,Heas,6,0
+21MY,21MY-11-01,25,Pancang,Ki puak,1,0
+21MY,21MY-11-01,25,Pancang,Heucit,4,0
+21MY,21MY-11-01,25,Pancang,Peuris,2,0
+21MY,21MY-11-01,100,Tiang,Ki huut,1,35
+21MY,21MY-11-01,100,Tiang,Ipis kulit,1,30
+21MY,21MY-11-01,100,Tiang,Heucit,1,40
+21MY,21MY-11-01,100,Tiang,Ki calung,1,30
+21MY,21MY-11-01,400,Pohon,Ki jahe,1,100
+21MY,21MY-11-01,400,Pohon,Cangcaratan,1,120
+21MY,21MY-11-01,400,Pohon,Angrit,1,150
+21MY,21MY-11-01,400,Pohon,Ki ganik,1,100
+21MY,21MY-11-02,4,TB-semai,Kaman,10,0
+21MY,21MY-11-02,4,TB-semai,Bengang,1,0
+21MY,21MY-11-02,4,TB-semai,Geulam,2,0
+21MY,21MY-11-02,4,TB-semai,Cangcaratan,3,0
+21MY,21MY-11-02,25,Pancang,Heucit,4,0
+21MY,21MY-11-02,25,Pancang,Ki huut,2,0
+21MY,21MY-11-02,25,Pancang,Huru,3,0
+21MY,21MY-11-02,25,Pancang,Cangcaratan,1,0
+21MY,21MY-11-02,100,Tiang,Huru,1,30
+21MY,21MY-11-02,100,Tiang,Geulam,1,35
+21MY,21MY-11-02,100,Tiang,Angrit,1,30
+21MY,21MY-11-02,100,Tiang,Ki huut,1,35
+21MY,21MY-11-02,400,Pohon,Bengang,1,100
+21MY,21MY-11-02,400,Pohon,Bengang,1,150
+21MY,21MY-11-02,400,Pohon,Purut,1,150
+21MY,21MY-11-02,400,Pohon,Sigeung,1,200
+21MY,21MY-11-02,400,Pohon,Ki kacang,1,150
+21MY,21MY-11-03,4,TB-semai,Rotan,7,0
+21MY,21MY-11-03,4,TB-semai,Kaman,8,0
+21MY,21MY-11-03,4,TB-semai,Ki calung,4,0
+21MY,21MY-11-03,4,TB-semai,Heas,2,0
+21MY,21MY-11-03,25,Pancang,Ki huut,3,0
+21MY,21MY-11-03,25,Pancang,Ki segel,5,0
+21MY,21MY-11-03,25,Pancang,Heas,2,0
+21MY,21MY-11-03,100,Tiang,Ki kacang,1,31
+21MY,21MY-11-03,100,Tiang,Bengang,1,35
+21MY,21MY-11-03,100,Tiang,Ki calung,1,30
+21MY,21MY-11-03,100,Tiang,Leungsir,1,40
+21MY,21MY-11-03,400,Pohon,Geulam,1,120
+21MY,21MY-11-03,400,Pohon,Manglid,1,150
+21MY,21MY-11-03,400,Pohon,Sigeung,1,200
+21MY,21MY-11-03,400,Pohon,Ki ganik,1,200
+21MY,21MY-11-04,4,TB-semai,Rotan,8,0
+21MY,21MY-11-04,4,TB-semai,Kaman,5,0
+21MY,21MY-11-04,4,TB-semai,Tepus,2,0
+21MY,21MY-11-04,4,TB-semai,Geulam,4,0
+21MY,21MY-11-04,4,TB-semai,Ki huut,5,0
+21MY,21MY-11-04,4,TB-semai,Ki calung,1,0
+21MY,21MY-11-04,25,Pancang,Ki huut,2,0
+21MY,21MY-11-04,25,Pancang,Putat,1,0
+21MY,21MY-11-04,25,Pancang,Bengang,2,0
+21MY,21MY-11-04,25,Pancang,Ki segel,1,0
+21MY,21MY-11-04,100,Tiang,Ki huut,1,30
+21MY,21MY-11-04,100,Tiang,Bengang,1,35
+21MY,21MY-11-04,100,Tiang,Heucit,1,30
+21MY,21MY-11-04,100,Tiang,Ki kacang,1,35
+21MY,21MY-11-04,100,Tiang,Bengang,1,200
+21MY,21MY-11-04,100,Tiang,Teureup,1,220
+21MY,21MY-11-04,100,Tiang,Geulam,1,200
+21MY,21MY-11-04,100,Tiang,Cangcaratan,1,150
+21MY,21MY-11-05,4,TB-semai,Rotan,10,0
+21MY,21MY-11-05,4,TB-semai,Bingbin,3,0
+21MY,21MY-11-05,4,TB-semai,Ki huut,4,0
+21MY,21MY-11-05,4,TB-semai,Tundun sayong,2,0
+21MY,21MY-11-05,25,Pancang,Jirak,3,0
+21MY,21MY-11-05,25,Pancang,Ki huut,4,0
+21MY,21MY-11-05,25,Pancang,Ki puak,2,0
+21MY,21MY-11-05,100,Tiang,Heucit,1,35
+21MY,21MY-11-05,100,Tiang,Daruak,1,30
+21MY,21MY-11-05,100,Tiang,Peuris,1,40
+21MY,21MY-11-05,400,Pohon,Laban,1,35
+21MY,21MY-11-05,400,Pohon,Sentul,1,150
+21MY,21MY-11-05,400,Pohon,Bengang,1,250
+21MY,21MY-11-05,400,Pohon,Ki segel,1,150
+21MY,21MY-11-05,400,Pohon,Cangcaratan,1,120
+86JJ,86JJ-07-01,4,TB-semai,Bangban,4,0
+86JJ,86JJ-07-01,4,TB-semai,Rotan,6,0
+86JJ,86JJ-07-01,4,TB-semai,Ki batok,1,0
+86JJ,86JJ-07-01,4,TB-semai,Ki jahe,1,0
+86JJ,86JJ-07-01,25,Pancang,Ki segel,4,0
+86JJ,86JJ-07-01,25,Pancang,Ki batok,3,0
+86JJ,86JJ-07-01,25,Pancang,Rutum,3,0
+86JJ,86JJ-07-01,25,Pancang,Purancak gunung,1,0
+86JJ,86JJ-07-01,100,Tiang,Purancak gunung,1,35
+86JJ,86JJ-07-01,100,Tiang,Peuris,1,40
+86JJ,86JJ-07-01,100,Tiang,Ki batok,1,50
+86JJ,86JJ-07-01,100,Tiang,Heucit,1,47
+86JJ,86JJ-07-01,400,Pohon,Hanjiat,1,100
+86JJ,86JJ-07-01,400,Pohon,Ki batok,1,150
+86JJ,86JJ-07-01,400,Pohon,Ki batok,1,100
+86JJ,86JJ-07-01,400,Pohon,Ki batok,1,125
+86JJ,86JJ-07-02,4,TB-semai,Bingbin,3,0
+86JJ,86JJ-07-02,4,TB-semai,Rotan,8,0
+86JJ,86JJ-07-02,4,TB-semai,Tepus,4,0
+86JJ,86JJ-07-02,4,TB-semai,Ki batok,3,0
+86JJ,86JJ-07-02,4,TB-semai,Buluh,2,0
+86JJ,86JJ-07-02,25,Pancang,Ki huut,2,0
+86JJ,86JJ-07-02,25,Pancang,Heucit,1,0
+86JJ,86JJ-07-02,25,Pancang,Ki batok,3,0
+86JJ,86JJ-07-02,25,Pancang,Ki kacang,1,0
+86JJ,86JJ-07-02,100,Tiang,Ki jahe,1,30
+86JJ,86JJ-07-02,100,Tiang,Ki batok,1,35
+86JJ,86JJ-07-02,100,Tiang,Ki segel,1,30
+86JJ,86JJ-07-02,400,Pohon,Jirak,1,100
+86JJ,86JJ-07-02,400,Pohon,Tundun sayong,1,110
+86JJ,86JJ-07-02,400,Pohon,Ipis kulit,1,100
+86JJ,86JJ-07-02,400,Pohon,Cangcaratan,1,140
+86JJ,86JJ-07-03,4,TB-semai,Kaman,8,0
+86JJ,86JJ-07-03,4,TB-semai,Bingbin,6,0
+86JJ,86JJ-07-03,4,TB-semai,Rotan,3,0
+86JJ,86JJ-07-03,4,TB-semai,Heucit,1,0
+86JJ,86JJ-07-03,4,TB-semai,Rutum,2,0
+86JJ,86JJ-07-03,4,TB-semai,Peuris,3,0
+86JJ,86JJ-07-03,25,Pancang,Ki teja,2,0
+86JJ,86JJ-07-03,25,Pancang,Ki batok,1,0
+86JJ,86JJ-07-03,100,Tiang,Ki ganik,1,45
+86JJ,86JJ-07-03,100,Tiang,Cangcaratan,1,35
+86JJ,86JJ-07-03,100,Tiang,Ki huut,1,47
+86JJ,86JJ-07-03,100,Tiang,Ki batok,1,51
+86JJ,86JJ-07-03,400,Pohon,Ki batok,1,90
+86JJ,86JJ-07-03,400,Pohon,Purancak gunung,1,110
+86JJ,86JJ-07-03,400,Pohon,Salam,1,150
+86JJ,86JJ-07-04,4,TB-semai,Kaman,6,0
+86JJ,86JJ-07-04,4,TB-semai,Bingbin,8,0
+86JJ,86JJ-07-04,4,TB-semai,Rotan,3,0
+86JJ,86JJ-07-04,4,TB-semai,Lampeni ,3,0
+86JJ,86JJ-07-04,4,TB-semai,Ki huut,2,0
+86JJ,86JJ-07-04,4,TB-semai,Heas,4,0
+86JJ,86JJ-07-04,25,Pancang,Ki segel,3,0
+86JJ,86JJ-07-04,25,Pancang,Peuris,2,0
+86JJ,86JJ-07-04,25,Pancang,Ki buluh,1,0
+86JJ,86JJ-07-04,100,Tiang,Peuris,1,30
+86JJ,86JJ-07-04,100,Tiang,Peuris,1,35
+86JJ,86JJ-07-04,100,Tiang,Heucit,1,45
+86JJ,86JJ-07-04,400,Pohon,Angrit,1,130
+86JJ,86JJ-07-04,400,Pohon,Ceuri,1,80
+86JJ,86JJ-07-04,400,Pohon,Ki huut,1,100
+86JJ,86JJ-07-04,400,Pohon,Purut,1,120
+86JJ,86JJ-07-05,4,TB-semai,Kaman,13,0
+86JJ,86JJ-07-05,4,TB-semai,Tepus,2,0
+86JJ,86JJ-07-05,25,Pancang,Ki batok,10,0
+86JJ,86JJ-07-05,25,Pancang,Rotan,2,0
+86JJ,86JJ-07-05,100,Tiang,Manglid,1,59
+86JJ,86JJ-07-05,100,Tiang,Ki batok,1,30
+86JJ,86JJ-07-05,100,Tiang,Cangcaratan,1,37
+86JJ,86JJ-07-05,100,Tiang,Geulam,1,45
+86JJ,86JJ-07-05,400,Pohon,Bengang,1,39
+86JJ,86JJ-07-05,400,Pohon,Purut,1,150
+86JJ,86JJ-07-05,400,Pohon,Sigeung,1,250
+86JJ,86JJ-07-05,400,Pohon,Bengang,1,150
+21MY,21MY-08-01,4,TB-semai,Rotan,6,0
+21MY,21MY-08-01,4,TB-semai,Anggrek tanah,2,0
+21MY,21MY-08-01,4,TB-semai,Geulam,10,0
+21MY,21MY-08-01,4,TB-semai,Bengang,1,0
+21MY,21MY-08-01,4,TB-semai,Buluh,2,0
+21MY,21MY-08-01,25,Pancang,Ki huut,4,0
+21MY,21MY-08-01,25,Pancang,Cangcaratan,2,0
+21MY,21MY-08-01,100,Tiang,Peuris,1,31
+21MY,21MY-08-01,100,Tiang,Leungsir,1,42
+21MY,21MY-08-01,100,Tiang,Bengang,1,35
+21MY,21MY-08-01,100,Tiang,Tundun sayong,1,35
+21MY,21MY-08-01,100,Tiang,Dahu,1,40
+21MY,21MY-08-01,400,Pohon,Sigeung,1,150
+21MY,21MY-08-01,400,Pohon,Ki batok,1,100
+21MY,21MY-08-01,400,Pohon,Ki calung,1,130
+21MY,21MY-08-01,400,Pohon,Ceuri,1,100
+21MY,21MY-08-02,4,TB-semai,Rotan,7,0
+21MY,21MY-08-02,4,TB-semai,Tepus,6,0
+21MY,21MY-08-02,4,TB-semai,Bingbin,1,0
+21MY,21MY-08-02,4,TB-semai,Reungdeu Badak,3,0
+21MY,21MY-08-02,4,TB-semai,Lolo,4,0
+21MY,21MY-08-02,4,TB-semai,Geulam,5,0
+21MY,21MY-08-02,4,TB-semai,Ki tanjung,2,0
+21MY,21MY-08-02,4,TB-semai,Lame,1,0
+21MY,21MY-08-02,4,TB-semai,Puspa,3,0
+21MY,21MY-08-02,25,Pancang,Taritih,2,0
+21MY,21MY-08-02,25,Pancang,Ki huut,1,0
+21MY,21MY-08-02,25,Pancang,Bengang,1,0
+21MY,21MY-08-02,25,Pancang,Ki segel,3,0
+21MY,21MY-08-02,100,Tiang,Ki batok,1,30
+21MY,21MY-08-02,100,Tiang,Purut,1,35
+21MY,21MY-08-02,100,Tiang,Bengang,1,40
+21MY,21MY-08-02,100,Tiang,Ki huut,1,35
+21MY,21MY-08-02,100,Tiang,Cangcaratan,1,30
+21MY,21MY-08-02,400,Pohon,Saryawan,1,150
+21MY,21MY-08-02,400,Pohon,Leungsir,1,200
+21MY,21MY-08-02,400,Pohon,Huru,1,150
+21MY,21MY-08-02,400,Pohon,Manglid,1,200
+21MY,21MY-08-02,400,Pohon,Ki kacang,1,150
+21MY,21MY-08-03,4,TB-semai,Salam,4,0
+21MY,21MY-08-03,4,TB-semai,Heas,2,0
+21MY,21MY-08-03,4,TB-semai,Ipis kulit,2,0
+21MY,21MY-08-03,25,Pancang,Jaura,3,0
+21MY,21MY-08-03,25,Pancang,Bengang,3,0
+21MY,21MY-08-03,25,Pancang,Huru,4,0
+21MY,21MY-08-03,100,Tiang,Ki huut,1,30
+21MY,21MY-08-03,100,Tiang,Bengang,1,35
+21MY,21MY-08-03,100,Tiang,Ki batok,1,40
+21MY,21MY-08-03,100,Tiang,Ki calung,1,35
+21MY,21MY-08-03,400,Pohon,Geulam,1,300
+21MY,21MY-08-03,400,Pohon,Geulam,1,150
+21MY,21MY-08-03,400,Pohon,Manglid,1,120
+21MY,21MY-08-03,400,Pohon,Huru kemplong,1,110
+21MY,21MY-08-03,400,Pohon,Purancak gunung,1,300
+21MY,21MY-08-04,4,TB-semai,Rotan,8,0
+21MY,21MY-08-04,4,TB-semai,Bingbin,2,0
+21MY,21MY-08-04,4,TB-semai,Heas,6,0
+21MY,21MY-08-04,4,TB-semai,Purancak gunung,4,0
+21MY,21MY-08-04,4,TB-semai,Padali,1,0
+21MY,21MY-08-04,4,TB-semai,Bengang,2,0
+21MY,21MY-08-04,25,Pancang,Ipis kulit,5,0
+21MY,21MY-08-04,25,Pancang,Buluh,1,0
+21MY,21MY-08-04,25,Pancang,Jaura,2,0
+21MY,21MY-08-04,25,Pancang,Ki huut,1,0
+21MY,21MY-08-04,100,Tiang,Ki huut,1,50
+21MY,21MY-08-04,100,Tiang,Kokoleceran ,1,30
+21MY,21MY-08-04,100,Tiang,Ki huut,1,40
+21MY,21MY-08-04,100,Tiang,Huru kemplong,1,40
+21MY,21MY-08-04,100,Tiang,Jirak,1,35
+21MY,21MY-08-04,400,Pohon,Purancak gunung,1,120
+21MY,21MY-08-04,400,Pohon,Sigeung,1,300
+21MY,21MY-08-04,400,Pohon,Ceuri,1,150
+21MY,21MY-08-04,400,Pohon,Geulam,1,200
+21MY,21MY-08-04,400,Pohon,Cangcaratan,1,200
+21MY,21MY-08-05,4,TB-semai,Rotan,7,0
+21MY,21MY-08-05,4,TB-semai,Kaman,11,0
+21MY,21MY-08-05,4,TB-semai,Geulam,20,0
+21MY,21MY-08-05,4,TB-semai,Ki calung,2,0
+21MY,21MY-08-05,25,Pancang,Purancak gunung,1,0
+21MY,21MY-08-05,25,Pancang,Ki puak,1,0
+21MY,21MY-08-05,25,Pancang,Heucit,1,0
+21MY,21MY-08-05,25,Pancang,Huru,2,0
+21MY,21MY-08-05,25,Pancang,Jaura,1,0
+21MY,21MY-08-05,100,Tiang,Geulam,1,30
+21MY,21MY-08-05,100,Tiang,Ki batok,1,50
+21MY,21MY-08-05,100,Tiang,Purancak gunung,1,30
+21MY,21MY-08-05,100,Tiang,Huru,1,40
+21MY,21MY-08-05,400,Pohon,Purut,1,200
+21MY,21MY-08-05,400,Pohon,Manglid,1,300
+21MY,21MY-08-05,400,Pohon,Purut,1,300
+21MY,21MY-08-05,400,Pohon,Purancak gunung,1,130
+86JJ,86JJ-05-01,4,TB-semai,Kaman,10,0
+86JJ,86JJ-05-01,4,TB-semai,Rotan,5,0
+86JJ,86JJ-05-01,4,TB-semai,Heas,4,0
+86JJ,86JJ-05-01,25,Pancang,Ki huut,1,0
+86JJ,86JJ-05-01,25,Pancang,Heas,2,0
+86JJ,86JJ-05-01,25,Pancang,Purancak gunung,1,0
+86JJ,86JJ-05-01,25,Pancang,Ki calung,1,0
+86JJ,86JJ-05-01,25,Pancang,Huru,1,0
+86JJ,86JJ-05-01,100,Tiang,Sentul,1,30
+86JJ,86JJ-05-01,100,Tiang,Ki huut,1,40
+86JJ,86JJ-05-01,100,Tiang,Cangcaratan,1,35
+86JJ,86JJ-05-01,100,Tiang,Ki ganik,1,40
+86JJ,86JJ-05-01,400,Pohon,Huru,1,140
+86JJ,86JJ-05-01,400,Pohon,Manglid,1,120
+86JJ,86JJ-05-01,400,Pohon,Ki calung,1,150
+86JJ,86JJ-05-01,400,Pohon,Ki calung,1,230
+86JJ,86JJ-05-02,4,TB-semai,Heas,5,0
+86JJ,86JJ-05-02,4,TB-semai,Ki calung,1,0
+86JJ,86JJ-05-02,4,TB-semai,Kaman,15,0
+86JJ,86JJ-05-02,4,TB-semai,Papakuan,1,0
+86JJ,86JJ-05-02,25,Pancang,Mara,2,0
+86JJ,86JJ-05-02,25,Pancang,Bengang,1,0
+86JJ,86JJ-05-02,25,Pancang,Jaura,1,0
+86JJ,86JJ-05-02,25,Pancang,Peuris,1,0
+86JJ,86JJ-05-02,100,Tiang,Mara,1,42
+86JJ,86JJ-05-02,100,Tiang,Jaura,1,50
+86JJ,86JJ-05-02,100,Tiang,Bengang,1,42
+86JJ,86JJ-05-02,100,Tiang,Peuris,1,40
+86JJ,86JJ-05-02,400,Pohon,Huru,1,250
+86JJ,86JJ-05-02,400,Pohon,Ki batok,1,200
+86JJ,86JJ-05-02,400,Pohon,Geulam,1,150
+86JJ,86JJ-05-02,400,Pohon,Ki ganik,1,300
+86JJ,86JJ-05-02,400,Pohon,Sigeung,1,200
+86JJ,86JJ-05-03,4,TB-semai,Ki geulam,3,0
+86JJ,86JJ-05-03,4,TB-semai,Ki jahe,1,0
+86JJ,86JJ-05-03,4,TB-semai,Ki calung,2,0
+86JJ,86JJ-05-03,4,TB-semai,Bingbin,6,0
+86JJ,86JJ-05-03,4,TB-semai,Kaman,10,0
+86JJ,86JJ-05-03,25,Pancang,Buluh,2,0
+86JJ,86JJ-05-03,25,Pancang,Ki langir,1,0
+86JJ,86JJ-05-03,25,Pancang,Jaura,2,0
+86JJ,86JJ-05-03,25,Pancang,Ki puak,1,0
+86JJ,86JJ-05-03,100,Tiang,Ki huut,1,38
+86JJ,86JJ-05-03,100,Tiang,Ki beureum,1,32
+86JJ,86JJ-05-03,100,Tiang,Ki calung,1,40
+86JJ,86JJ-05-03,100,Tiang,Purut,1,36
+86JJ,86JJ-05-03,400,Pohon,Ki batok,1,170
+86JJ,86JJ-05-03,400,Pohon,Purut,1,250
+86JJ,86JJ-05-03,400,Pohon,Purancak gunung,1,300
+86JJ,86JJ-05-03,400,Pohon,Huru kemplong,1,200
+86JJ,86JJ-05-04,4,TB-semai,Ki huut,4,0
+86JJ,86JJ-05-04,4,TB-semai,Heas,2,0
+86JJ,86JJ-05-04,4,TB-semai,Peuris,1,0
+86JJ,86JJ-05-04,4,TB-semai,Lolo,3,0
+86JJ,86JJ-05-04,4,TB-semai,Rotan,4,0
+86JJ,86JJ-05-04,4,TB-semai,Kaman,5,0
+86JJ,86JJ-05-04,4,TB-semai,Jaura,1,0
+86JJ,86JJ-05-04,25,Pancang,Bengang,1,0
+86JJ,86JJ-05-04,25,Pancang,Ipis kulit,2,0
+86JJ,86JJ-05-04,25,Pancang,Lampeni gunung,3,0
+86JJ,86JJ-05-04,100,Tiang,Ki batok,1,30
+86JJ,86JJ-05-04,100,Tiang,Cangcaratan,1,32
+86JJ,86JJ-05-04,100,Tiang,Lampeni gunung,1,35
+86JJ,86JJ-05-04,100,Tiang,Bengang,1,47
+86JJ,86JJ-05-04,400,Pohon,Ki batok,1,250
+86JJ,86JJ-05-04,400,Pohon,Salam,1,300
+86JJ,86JJ-05-04,400,Pohon,Cangcaratan,1,150
+86JJ,86JJ-05-04,400,Pohon,Teureup,1,300
+86JJ,86JJ-05-05,4,TB-semai,Geulam,4,0
+86JJ,86JJ-05-05,4,TB-semai,Bengang,1,0
+86JJ,86JJ-05-05,4,TB-semai,Rotan,5,0
+86JJ,86JJ-05-05,4,TB-semai,Kaman,5,0
+86JJ,86JJ-05-05,25,Pancang,Ki beureum,3,0
+86JJ,86JJ-05-05,25,Pancang,Ki huut,1,0
+86JJ,86JJ-05-05,25,Pancang,Jaura,2,0
+86JJ,86JJ-05-05,25,Pancang,Ceuri,1,0
+86JJ,86JJ-05-05,100,Tiang,Ceuri,1,42
+86JJ,86JJ-05-05,100,Tiang,Geulam,1,45
+86JJ,86JJ-05-05,100,Tiang,Ki beureum,1,45
+86JJ,86JJ-05-05,400,Pohon,Sigeung,1,400
+86JJ,86JJ-05-05,400,Pohon,Ki batok,1,250
+86JJ,86JJ-05-05,400,Pohon,Salam,1,150
+86JJ,86JJ-05-05,400,Pohon,Sigeung,1,300
+21MY,21MY-09-01,4,TB-semai,Tundun sayong,4,0
+21MY,21MY-09-01,4,TB-semai,Jaura,2,0
+21MY,21MY-09-01,4,TB-semai,Heas,2,0
+21MY,21MY-09-01,4,TB-semai,Lame,3,0
+21MY,21MY-09-01,4,TB-semai,Rotan,10,0
+21MY,21MY-09-01,4,TB-semai,Kaman,2,0
+21MY,21MY-09-01,4,TB-semai,Bingbin,2,0
+21MY,21MY-09-01,4,TB-semai,Tepus,1,0
+21MY,21MY-09-01,25,Pancang,Ki beureum,3,0
+21MY,21MY-09-01,25,Pancang,Huru,1,0
+21MY,21MY-09-01,25,Pancang,Jaura,2,0
+21MY,21MY-09-01,25,Pancang,Tundun sayong,1,0
+21MY,21MY-09-01,100,Tiang,Ipis kulit,1,30
+21MY,21MY-09-01,100,Tiang,Tundun sayong,1,35
+21MY,21MY-09-01,100,Tiang,Ki batok,1,40
+21MY,21MY-09-01,100,Tiang,Jaura,1,30
+21MY,21MY-09-01,100,Tiang,Salam,1,30
+21MY,21MY-09-01,100,Tiang,Ki batok,1,30
+21MY,21MY-09-01,100,Tiang,Jaura,1,35
+21MY,21MY-09-01,400,Pohon,Ki batok,1,250
+21MY,21MY-09-01,400,Pohon,Huru kemplong,1,200
+21MY,21MY-09-01,400,Pohon,Purut,1,250
+21MY,21MY-09-01,400,Pohon,Geulam,1,300
+21MY,21MY-09-02,4,TB-semai,Jaura,5,0
+21MY,21MY-09-02,4,TB-semai,Peuris,2,0
+21MY,21MY-09-02,4,TB-semai,Ki huut,3,0
+21MY,21MY-09-02,4,TB-semai,Tepus,4,0
+21MY,21MY-09-02,4,TB-semai,Bingbin,2,0
+21MY,21MY-09-02,4,TB-semai,Kaman,15,0
+21MY,21MY-09-02,4,TB-semai,Sayar,1,0
+21MY,21MY-09-02,25,Pancang,Ki huut,2,0
+21MY,21MY-09-02,25,Pancang,Jaura,3,0
+21MY,21MY-09-02,25,Pancang,Ki beureum,1,0
+21MY,21MY-09-02,100,Tiang,Ki sereh,1,30
+21MY,21MY-09-02,100,Tiang,Salam,1,30
+21MY,21MY-09-02,100,Tiang,Ki batok,1,35
+21MY,21MY-09-02,100,Tiang,Tundun sayong,1,40
+21MY,21MY-09-02,100,Tiang,Jaura,1,32
+21MY,21MY-09-02,400,Pohon,Jaura,1,80
+21MY,21MY-09-02,400,Pohon,Cangcaratan,1,130
+21MY,21MY-09-02,400,Pohon,Geulam,1,300
+21MY,21MY-09-02,400,Pohon,Ki ganik,1,120
+21MY,21MY-09-03,4,TB-semai,Ki batok,4,0
+21MY,21MY-09-03,4,TB-semai,Ki calung,2,0
+21MY,21MY-09-03,4,TB-semai,Rotan,15,0
+21MY,21MY-09-03,4,TB-semai,Kaman,20,0
+21MY,21MY-09-03,25,Pancang,Ipis kulit,3,0
+21MY,21MY-09-03,25,Pancang,Ki segel,1,0
+21MY,21MY-09-03,25,Pancang,Jaura,2,0
+21MY,21MY-09-03,25,Pancang,Bengang,1,0
+21MY,21MY-09-03,100,Tiang,Huru,1,40
+21MY,21MY-09-03,100,Tiang,Ki ganik,1,45
+21MY,21MY-09-03,100,Tiang,Ipis kulit,1,30
+21MY,21MY-09-03,100,Tiang,Cangcaratan,1,40
+21MY,21MY-09-03,400,Pohon,Ki batok,1,100
+21MY,21MY-09-03,400,Pohon,Ki ganik,1,200
+21MY,21MY-09-03,400,Pohon,Jirak,1,100
+21MY,21MY-09-03,400,Pohon,Ki ganik,1,120
+21MY,21MY-09-03,400,Pohon,Ki sereh,1,200
+21MY,21MY-09-04,4,TB-semai,Ki batok,3,0
+21MY,21MY-09-04,4,TB-semai,Jaura,2,0
+21MY,21MY-09-04,4,TB-semai,Geulam,4,0
+21MY,21MY-09-04,4,TB-semai,Ki huut,1,0
+21MY,21MY-09-04,4,TB-semai,Rotan,7,0
+21MY,21MY-09-04,4,TB-semai,Haraghag,2,0
+21MY,21MY-09-04,4,TB-semai,Kaman,4,0
+21MY,21MY-09-04,25,Pancang,Jaura,2,0
+21MY,21MY-09-04,25,Pancang,Tundun sayong,4,0
+21MY,21MY-09-04,25,Pancang,Huru kemplong,3,0
+21MY,21MY-09-04,25,Pancang,Peuris,2,0
+21MY,21MY-09-04,100,Tiang,Kondang,1,35
+21MY,21MY-09-04,100,Tiang,Peuris,1,40
+21MY,21MY-09-04,100,Tiang,Jirak,1,35
+21MY,21MY-09-04,100,Tiang,Ceuri,1,30
+21MY,21MY-09-04,400,Pohon,Salam,1,100
+21MY,21MY-09-04,400,Pohon,Huru kemplong,1,120
+21MY,21MY-09-04,400,Pohon,Jirak,1,120
+21MY,21MY-09-04,400,Pohon,Ki segel,1,90
+21MY,21MY-09-04,400,Pohon,Ki segel,1,150
+21MY,21MY-09-05,4,TB-semai,Lame peucang,1,0
+21MY,21MY-09-05,4,TB-semai,Ipis kulit,2,0
+21MY,21MY-09-05,4,TB-semai,Salam,4,0
+21MY,21MY-09-05,4,TB-semai,Rotan,8,0
+21MY,21MY-09-05,4,TB-semai,Kaman,3,0
+21MY,21MY-09-05,4,TB-semai,Bingbin,5,0
+21MY,21MY-09-05,25,Pancang,Huru kemplong,2,0
+21MY,21MY-09-05,25,Pancang,Heucit,1,0
+21MY,21MY-09-05,25,Pancang,Ki beureum,2,0
+21MY,21MY-09-05,25,Pancang,Jirak,4,0
+21MY,21MY-09-05,100,Tiang,Jirak,1,31
+21MY,21MY-09-05,100,Tiang,Padali,1,42
+21MY,21MY-09-05,100,Tiang,Cangcaratan,1,30
+21MY,21MY-09-05,100,Tiang,Peuris,1,35
+21MY,21MY-09-05,400,Pohon,Huru,1,150
+21MY,21MY-09-05,400,Pohon,Padali,1,100
+21MY,21MY-09-05,400,Pohon,Jirak,1,110
+21MY,21MY-09-05,400,Pohon,Ki sereh,1,150
+21MY,21MY-15-01,4,TB-semai,Ki sampang,4,0
+21MY,21MY-15-01,4,TB-semai,Gompong,1,0
+21MY,21MY-15-01,4,TB-semai,Ki jahe,2,0
+21MY,21MY-15-01,4,TB-semai,Laban,3,0
+21MY,21MY-15-01,4,TB-semai,Bingbin,2,0
+21MY,21MY-15-01,4,TB-semai,Parasi,2,0
+21MY,21MY-15-01,4,TB-semai,Kapol,6,0
+21MY,21MY-15-01,25,Pancang,Ki sampang,1,0
+21MY,21MY-15-01,25,Pancang,Cengkeh,1,0
+21MY,21MY-15-01,25,Pancang,Ki langir,1,0
+21MY,21MY-15-01,25,Pancang,Laban,2,0
+21MY,21MY-15-01,25,Pancang,Ki huut,1,0
+21MY,21MY-15-01,25,Pancang,Mara,1,0
+21MY,21MY-15-01,100,Tiang,Cengkeh,1,30
+21MY,21MY-15-01,100,Tiang,Cengkeh,1,30
+21MY,21MY-15-01,100,Tiang,Laban,1,35
+21MY,21MY-15-01,100,Tiang,Pete,1,40
+21MY,21MY-15-01,400,Pohon,Ki sampang,1,250
+21MY,21MY-15-01,400,Pohon,Pete,1,100
+21MY,21MY-15-01,400,Pohon,Pete,1,120
+21MY,21MY-15-01,400,Pohon,Laban,1,200
+21MY,21MY-15-01,400,Pohon,Kananga,1,100
+21MY,21MY-15-02,4,TB-semai,Salam,3,0
+21MY,21MY-15-02,4,TB-semai,Cangcaratan,2,0
+21MY,21MY-15-02,4,TB-semai,Jengkol,1,0
+21MY,21MY-15-02,4,TB-semai,Laban,1,0
+21MY,21MY-15-02,4,TB-semai,Daruak,2,0
+21MY,21MY-15-02,4,TB-semai,Cengkeh,1,0
+21MY,21MY-15-02,4,TB-semai,Kecapi,1,0
+21MY,21MY-15-02,4,TB-semai,Areuy kuhkuran,1,0
+21MY,21MY-15-02,4,TB-semai,Peuris,2,0
+21MY,21MY-15-02,25,Pancang,Reungdeu ,15,0
+21MY,21MY-15-02,25,Pancang,Tepus,8,0
+21MY,21MY-15-02,25,Pancang,Laja goah,4,0
+21MY,21MY-15-02,100,Tiang,Cengkeh,1,40
+21MY,21MY-15-02,100,Tiang,Ceuri,1,35
+21MY,21MY-15-02,100,Tiang,Cengkeh,1,30
+21MY,21MY-15-02,100,Tiang,Ki segel,1,35
+21MY,21MY-15-02,400,Pohon,Ki sampang,1,130
+21MY,21MY-15-02,400,Pohon,Ki sampang,1,100
+21MY,21MY-15-02,400,Pohon,Lame,1,250
+21MY,21MY-15-02,400,Pohon,Kondang,1,110
+21MY,21MY-15-02,400,Pohon,Laban,1,200
+21MY,21MY-15-02,400,Pohon,Teureup,1,200
+21MY,21MY-15-03,4,TB-semai,Heucit,2,0
+21MY,21MY-15-03,4,TB-semai,Sulangkar,2,0
+21MY,21MY-15-03,4,TB-semai,Ceuri,1,0
+21MY,21MY-15-03,4,TB-semai,Gopang,2,0
+21MY,21MY-15-03,4,TB-semai,Teureup,1,0
+21MY,21MY-15-03,4,TB-semai,Reungdeu ,6,0
+21MY,21MY-15-03,4,TB-semai,Tepus,4,0
+21MY,21MY-15-03,4,TB-semai,Kapudang,3,0
+21MY,21MY-15-03,25,Pancang,Bungur,1,0
+21MY,21MY-15-03,25,Pancang,Sulangkar,2,0
+21MY,21MY-15-03,25,Pancang,Songgom,3,0
+21MY,21MY-15-03,25,Pancang,Laban,1,0
+21MY,21MY-15-03,100,Tiang,Cangcaratan,1,30
+21MY,21MY-15-03,100,Tiang,Ki sereh,1,35
+21MY,21MY-15-03,100,Tiang,Laban,1,40
+21MY,21MY-15-03,100,Tiang,Ki sampang,1,36
+21MY,21MY-15-03,400,Pohon,Ki sampang,1,100
+21MY,21MY-15-03,400,Pohon,Ki sampang,1,80
+21MY,21MY-15-03,400,Pohon,Laban,1,150
+21MY,21MY-15-03,400,Pohon,Kondang,1,150
+21MY,21MY-15-03,400,Pohon,Laban,1,200
+21MY,21MY-15-04,4,TB-semai,Ceuri,4,0
+21MY,21MY-15-04,4,TB-semai,Ki sampang,2,0
+21MY,21MY-15-04,4,TB-semai,Gompong,1,0
+21MY,21MY-15-04,4,TB-semai,Laban,2,0
+21MY,21MY-15-04,4,TB-semai,Sereh hutan,2,0
+21MY,21MY-15-04,4,TB-semai,Parasi,1,0
+21MY,21MY-15-04,4,TB-semai,Rotan,3,0
+21MY,21MY-15-04,4,TB-semai,Canar,2,0
+21MY,21MY-15-04,25,Pancang,Ki pare,1,0
+21MY,21MY-15-04,25,Pancang,Kokopian,1,0
+21MY,21MY-15-04,25,Pancang,Laban,1,0
+21MY,21MY-15-04,25,Pancang,Kanyere,1,0
+21MY,21MY-15-04,25,Pancang,Gompong,1,0
+21MY,21MY-15-04,100,Tiang,Laban,1,30
+21MY,21MY-15-04,100,Tiang,Kondang,1,35
+21MY,21MY-15-04,100,Tiang,Ceuri,1,30
+21MY,21MY-15-04,100,Tiang,Laban,1,35
+21MY,21MY-15-04,400,Pohon,Ki sampang,1,150
+21MY,21MY-15-04,400,Pohon,Ki sampang,1,100
+21MY,21MY-15-04,400,Pohon,Laban,1,100
+21MY,21MY-15-04,400,Pohon,Cangcaratan,1,90
+21MY,21MY-15-05,4,TB-semai,Ki segel,1,0
+21MY,21MY-15-05,4,TB-semai,Sulangkar,2,0
+21MY,21MY-15-05,4,TB-semai,Peuris,1,0
+21MY,21MY-15-05,4,TB-semai,Bingbin,2,0
+21MY,21MY-15-05,4,TB-semai,Bangban,4,0
+21MY,21MY-15-05,4,TB-semai,Kuku heulang,2,0
+21MY,21MY-15-05,4,TB-semai,areuy asahan,4,0
+21MY,21MY-15-05,25,Pancang,Bungur,2,0
+21MY,21MY-15-05,25,Pancang,Jengkol,1,0
+21MY,21MY-15-05,25,Pancang,Jaura,1,0
+21MY,21MY-15-05,25,Pancang,Huru,1,0
+21MY,21MY-15-05,100,Tiang,Ki sampang,1,33
+21MY,21MY-15-05,100,Tiang,Ki sampang,1,35
+21MY,21MY-15-05,100,Tiang,Jirak,1,45
+21MY,21MY-15-05,100,Tiang,Jirak,1,35
+21MY,21MY-15-05,400,Pohon,Laban,1,150
+21MY,21MY-15-05,400,Pohon,Ki sampang,1,150
+21MY,21MY-15-05,400,Pohon,Ki sampang,1,200
+21MY,21MY-15-05,400,Pohon,Ki sampang,1,300
+21MY,21MY-15-05,400,Pohon,Laban,1,250
+21MY,21MY-17-01,4,TB-semai,Songgom,2,0
+21MY,21MY-17-01,4,TB-semai,Ki endog,1,0
+21MY,21MY-17-01,4,TB-semai,Jampang beureum,10,0
+21MY,21MY-17-01,4,TB-semai,Laja goah,4,0
+21MY,21MY-17-01,4,TB-semai,Sintrong,5,0
+21MY,21MY-17-01,25,Pancang,Cengkeh,2,0
+21MY,21MY-17-01,25,Pancang,Gompong,1,0
+21MY,21MY-17-01,25,Pancang,Songgom,2,0
+21MY,21MY-17-01,100,Tiang,Pete,1,30
+21MY,21MY-17-01,100,Tiang,Jengkol,1,40
+21MY,21MY-17-01,100,Tiang,Laban,1,35
+21MY,21MY-17-01,100,Tiang,Laban,1,30
+21MY,21MY-17-01,400,Pohon,Laban,1,80
+21MY,21MY-17-01,400,Pohon,Ceuri,1,100
+21MY,21MY-17-01,400,Pohon,Jengkol,1,110
+21MY,21MY-17-01,400,Pohon,Cangcaratan,1,150
+21MY,21MY-17-01,400,Pohon,Cangcaratan,1,150
+21MY,21MY-17-02,4,TB-semai,Gompong,2,0
+21MY,21MY-17-02,4,TB-semai,Daruak,4,0
+21MY,21MY-17-02,4,TB-semai,Kokopian,1,0
+21MY,21MY-17-02,4,TB-semai,Bangban,4,0
+21MY,21MY-17-02,4,TB-semai,Papakuan,10,0
+21MY,21MY-17-02,25,Pancang,Gompong,3,0
+21MY,21MY-17-02,25,Pancang,Heucit,1,0
+21MY,21MY-17-02,25,Pancang,Jengkol,2,0
+21MY,21MY-17-02,100,Tiang,Heucit,1,30
+21MY,21MY-17-02,100,Tiang,Heucit,1,42
+21MY,21MY-17-02,100,Tiang,Peuris,1,38
+21MY,21MY-17-02,100,Tiang,Jengkol,1,48
+21MY,21MY-17-02,100,Tiang,Cengkeh,1,36
+21MY,21MY-17-02,100,Tiang,Cengkeh,1,40
+21MY,21MY-17-02,400,Pohon,Cangcaratan,1,200
+21MY,21MY-17-02,400,Pohon,Huru,1,250
+21MY,21MY-17-02,400,Pohon,Lame,1,300
+21MY,21MY-17-02,400,Pohon,Lame,1,250
+21MY,21MY-17-03,4,TB-semai,Gompong,1,0
+21MY,21MY-17-03,4,TB-semai,Jaura,1,0
+21MY,21MY-17-03,4,TB-semai,Ki jahe,2,0
+21MY,21MY-17-03,4,TB-semai,Ceuri,1,0
+21MY,21MY-17-03,4,TB-semai,Rotan,1,0
+21MY,21MY-17-03,4,TB-semai,Papakuan,15,0
+21MY,21MY-17-03,25,Pancang,Gompong,3,0
+21MY,21MY-17-03,25,Pancang,Heucit,1,0
+21MY,21MY-17-03,25,Pancang,Cengkeh,2,0
+21MY,21MY-17-03,25,Pancang,Laban,1,0
+21MY,21MY-17-03,100,Tiang,Laban,1,34
+21MY,21MY-17-03,100,Tiang,Hareumeung,1,35
+21MY,21MY-17-03,100,Tiang,Hareumeung,1,30
+21MY,21MY-17-03,100,Tiang,Teureup,1,42
+21MY,21MY-17-03,100,Tiang,Ki segel,1,30
+21MY,21MY-17-03,400,Pohon,Teureup,1,150
+21MY,21MY-17-03,400,Pohon,Ki hiang,1,250
+21MY,21MY-17-03,400,Pohon,Padali,1,250
+21MY,21MY-17-04,4,TB-semai,Sulangkar,3,0
+21MY,21MY-17-04,4,TB-semai,Gompong,1,0
+21MY,21MY-17-04,4,TB-semai,Jirak,1,0
+21MY,21MY-17-04,4,TB-semai,Pacing,5,0
+21MY,21MY-17-04,4,TB-semai,Bingbin,3,0
+21MY,21MY-17-04,4,TB-semai,Bangban,4,0
+21MY,21MY-17-04,25,Pancang,Ki sampang,2,0
+21MY,21MY-17-04,25,Pancang,Gompong,4,0
+21MY,21MY-17-04,25,Pancang,Beungeur,1,0
+21MY,21MY-17-04,25,Pancang,Cengkeh,1,0
+21MY,21MY-17-04,100,Tiang,Peuris,1,35
+21MY,21MY-17-04,100,Tiang,Jengkol,1,20
+21MY,21MY-17-04,400,Pohon,Lame,1,200
+21MY,21MY-17-04,400,Pohon,Padali,1,100
+21MY,21MY-17-04,400,Pohon,Cangcaratan,1,120
+21MY,21MY-17-05,4,TB-semai,Sulangkar,3,0
+21MY,21MY-17-05,4,TB-semai,Padali,1,0
+21MY,21MY-17-05,4,TB-semai,Jampang beureum,4,0
+21MY,21MY-17-05,4,TB-semai,Kapituher,5,0
+21MY,21MY-17-05,25,Pancang,Tangkil,2,0
+21MY,21MY-17-05,25,Pancang,Jengkol,2,0
+21MY,21MY-17-05,25,Pancang,Cengkeh,2,0
+21MY,21MY-17-05,25,Pancang,Gompong,1,0
+21MY,21MY-17-05,25,Pancang,Cangcaratan,1,0
+21MY,21MY-17-05,100,Tiang,Cangcaratan,1,30
+21MY,21MY-17-05,100,Tiang,Huru,1,35
+21MY,21MY-17-05,100,Tiang,Ceuri,1,30
+21MY,21MY-17-05,100,Tiang,Laban,1,35
+21MY,21MY-17-05,100,Tiang,Peuris,1,40
+21MY,21MY-17-05,400,Pohon,Lame,1,300
+21MY,21MY-17-05,400,Pohon,Huru,1,110
+21MY,21MY-17-05,400,Pohon,Laban,1,150
+21MY,21MY-17-05,400,Pohon,Laban,1,110
+28SW,28SW-16-01,4,TB-semai,Sulangkar,1,0
+28SW,28SW-16-01,4,TB-semai,Gompong,1,0
+28SW,28SW-16-01,4,TB-semai,Jengkol,2,0
+28SW,28SW-16-01,4,TB-semai,Peuris,3,0
+28SW,28SW-16-01,4,TB-semai,Kaman,2,0
+28SW,28SW-16-01,4,TB-semai,Rotan,2,0
+28SW,28SW-16-01,4,TB-semai,Parasi,1,0
+28SW,28SW-16-01,25,Pancang,Lame,1,0
+28SW,28SW-16-01,25,Pancang,Jengkol,2,0
+28SW,28SW-16-01,25,Pancang,Areuy kuhkuran,1,0
+28SW,28SW-16-01,25,Pancang,Cengkeh,1,0
+28SW,28SW-16-01,100,Tiang,Lame,1,30
+28SW,28SW-16-01,100,Tiang,Beungeur,1,35
+28SW,28SW-16-01,100,Tiang,Laban,1,40
+28SW,28SW-16-01,100,Tiang,Jengkol,1,35
+28SW,28SW-16-01,100,Tiang,Jengkol,1,40
+28SW,28SW-16-01,100,Tiang,Lame,1,45
+28SW,28SW-16-01,400,Pohon,Lame,1,300
+28SW,28SW-16-01,400,Pohon,Lame,1,250
+28SW,28SW-16-01,400,Pohon,Teureup,1,80
+28SW,28SW-16-01,400,Pohon,Padali,1,150
+28SW,28SW-16-02,4,TB-semai,Kondang,1,0
+28SW,28SW-16-02,4,TB-semai,Mara,1,0
+28SW,28SW-16-02,4,TB-semai,Daruak,2,0
+28SW,28SW-16-02,4,TB-semai,Sulangkar,3,0
+28SW,28SW-16-02,4,TB-semai,Parasi,1,0
+28SW,28SW-16-02,4,TB-semai,Laja goah,5,0
+28SW,28SW-16-02,4,TB-semai,Sintrong,5,0
+28SW,28SW-16-02,25,Pancang,Jengkol,2,0
+28SW,28SW-16-02,25,Pancang,Cengkeh,3,0
+28SW,28SW-16-02,25,Pancang,Lame,1,0
+28SW,28SW-16-02,100,Tiang,Jengkol,1,35
+28SW,28SW-16-02,100,Tiang,Ceuri,1,30
+28SW,28SW-16-02,100,Tiang,Lame,1,40
+28SW,28SW-16-02,100,Tiang,Daruak,1,35
+28SW,28SW-16-02,100,Tiang,Laban,1,30
+28SW,28SW-16-02,400,Pohon,Lame,1,300
+28SW,28SW-16-02,400,Pohon,Ki beureum,1,250
+28SW,28SW-16-02,400,Pohon,Tangkil,1,100
+28SW,28SW-16-02,400,Pohon,Laban,1,200
+28SW,28SW-16-03,4,TB-semai,Kondang,1,0
+28SW,28SW-16-03,4,TB-semai,Songgom,2,0
+28SW,28SW-16-03,4,TB-semai,Ki jahe,1,0
+28SW,28SW-16-03,4,TB-semai,Papakuan,2,0
+28SW,28SW-16-03,4,TB-semai,Jampang beureum,10,0
+28SW,28SW-16-03,25,Pancang,Cengkeh,5,0
+28SW,28SW-16-03,25,Pancang,Ki jahe,5,0
+28SW,28SW-16-03,100,Tiang,Cengkeh,1,30
+28SW,28SW-16-03,100,Tiang,Cengkeh,1,35
+28SW,28SW-16-03,100,Tiang,Cengkeh,1,40
+28SW,28SW-16-03,100,Tiang,Cengkeh,1,45
+28SW,28SW-16-03,100,Tiang,Cengkeh,1,50
+28SW,28SW-16-03,400,Pohon,Laban,1,150
+28SW,28SW-16-03,400,Pohon,Teureup,1,200
+28SW,28SW-16-03,400,Pohon,Cangcaratan,1,150
+28SW,28SW-16-04,4,TB-semai,Ki calung,1,0
+28SW,28SW-16-04,4,TB-semai,Sulangkar,1,0
+28SW,28SW-16-04,4,TB-semai,Dahu,1,0
+28SW,28SW-16-04,4,TB-semai,salak,2,0
+28SW,28SW-16-04,25,Pancang,Lampeni gunung,1,0
+28SW,28SW-16-04,25,Pancang,Ki huut,1,0
+28SW,28SW-16-04,25,Pancang,Ki kacang,1,0
+28SW,28SW-16-04,400,Pohon,Padali,1,220
+28SW,28SW-16-04,400,Pohon,Peundeuy,1,200
+28SW,28SW-16-05,4,TB-semai,Sulangkar,4,0
+28SW,28SW-16-05,4,TB-semai,Areuy asahan,4,0
+28SW,28SW-16-05,4,TB-semai,Bangban,6,0
+28SW,28SW-16-05,25,Pancang,Jengkol,4,0
+28SW,28SW-16-05,25,Pancang,Ki endog,2,0
+28SW,28SW-16-05,100,Tiang,Laban,1,40
+28SW,28SW-16-05,100,Tiang,Jengkol,1,35
+28SW,28SW-16-05,100,Tiang,Jengkol,1,40
+28SW,28SW-16-05,400,Pohon,Lame,1,300
+28SW,28SW-16-05,400,Pohon,Jeungjing,1,150
+28SW,28SW-16-05,400,Pohon,Lame,1,200
+28SW,28SW-16-05,400,Pohon,Padali,1,220
+28SW,28SW-14-01,4,TB-semai,Sulangkar,2,0
+28SW,28SW-14-01,4,TB-semai,Kondang,1,0
+28SW,28SW-14-01,4,TB-semai,Kanyere,3,0
+28SW,28SW-14-01,4,TB-semai,Ilat badak,10,0
+28SW,28SW-14-01,4,TB-semai,Pacing,3,0
+28SW,28SW-14-01,4,TB-semai,Tangkil,3,0
+28SW,28SW-14-01,4,TB-semai,Jengkol,1,0
+28SW,28SW-14-01,4,TB-semai,Ki sereh,1,0
+28SW,28SW-14-01,4,TB-semai,Cengkeh,1,0
+28SW,28SW-14-01,4,TB-semai,Jambe,1,0
+28SW,28SW-14-01,4,TB-semai,Jambe,1,0
+28SW,28SW-14-01,4,TB-semai,Tangkil,1,0
+28SW,28SW-14-01,4,TB-semai,Jengkol,1,0
+28SW,28SW-14-01,4,TB-semai,Kadu,1,0
+28SW,28SW-14-01,4,TB-semai,Kacapi,1,0
+28SW,28SW-14-01,4,TB-semai,Kacapi,1,0
+28SW,28SW-14-02,4,TB-semai,Ki segel,3,0
+28SW,28SW-14-02,4,TB-semai,Papakuan,8,0
+28SW,28SW-14-02,4,TB-semai,Tepus,3,0
+28SW,28SW-14-02,25,Pancang,Tangkil,2,0
+28SW,28SW-14-02,25,Pancang,Jengkol,1,0
+28SW,28SW-14-02,25,Pancang,Laban,1,0
+28SW,28SW-14-02,100,Tiang,Kacapi,1,35
+28SW,28SW-14-02,100,Tiang,Jengkol,1,30
+28SW,28SW-14-02,100,Tiang,Jengkol,1,50
+28SW,28SW-14-02,100,Tiang,Laban,1,35
+28SW,28SW-14-02,400,Pohon,Tundun sayong,1,100
+28SW,28SW-14-02,400,Pohon,Cengkeh,1,80
+28SW,28SW-14-02,400,Pohon,Bungur,1,100
+28SW,28SW-14-03,4,TB-semai,Kacapi,4,0
+28SW,28SW-14-03,4,TB-semai,Sulangkar,3,0
+28SW,28SW-14-03,4,TB-semai,Padali,1,0
+28SW,28SW-14-03,4,TB-semai,Papakuan,3,0
+28SW,28SW-14-03,4,TB-semai,Harendong,1,0
+28SW,28SW-14-03,4,TB-semai,Parasi,1,0
+28SW,28SW-14-03,4,TB-semai,Ki barela,2,0
+28SW,28SW-14-03,4,TB-semai,Kapol,8,0
+28SW,28SW-14-03,25,Pancang,Cengkeh,1,0
+28SW,28SW-14-03,25,Pancang,Jengkol,1,0
+28SW,28SW-14-03,25,Pancang,Lame,1,0
+28SW,28SW-14-03,25,Pancang,Kacapi,2,0
+28SW,28SW-14-03,100,Tiang,Bungur,1,30
+28SW,28SW-14-03,100,Tiang,Tangkil,1,35
+28SW,28SW-14-03,100,Tiang,Cengkeh,1,35
+28SW,28SW-14-03,400,Pohon,Kadu,1,150
+28SW,28SW-14-03,400,Pohon,Lame,1,300
+28SW,28SW-14-04,4,TB-semai,Kanyere,1,0
+28SW,28SW-14-04,4,TB-semai,Kopi,6,0
+28SW,28SW-14-04,4,TB-semai,Ceuri,1,0
+28SW,28SW-14-04,4,TB-semai,Reungdeu ,20,0
+28SW,28SW-14-04,25,Pancang,Kopi,4,0
+28SW,28SW-14-04,25,Pancang,Jengkol,1,0
+28SW,28SW-14-04,25,Pancang,Jeruk,1,0
+28SW,28SW-14-04,100,Tiang,Laban,1,35
+28SW,28SW-14-04,100,Tiang,Tangkil,1,30
+28SW,28SW-14-04,100,Tiang,Kokosan,1,40
+28SW,28SW-14-04,400,Pohon,Laban,1,200
+28SW,28SW-14-04,400,Pohon,Teureup,1,250
+28SW,28SW-14-05,4,TB-semai,Harendong,5,0
+28SW,28SW-14-05,4,TB-semai,Kapol,20,0
+28SW,28SW-14-05,4,TB-semai,Patat,5,0
+28SW,28SW-14-05,4,TB-semai,Kopi,3,0
+28SW,28SW-14-05,4,TB-semai,Peuris,4,0
+28SW,28SW-14-05,4,TB-semai,Sulangkar,1,0
+28SW,28SW-14-05,25,Pancang,Kopi,2,0
+28SW,28SW-14-05,25,Pancang,Laban,1,0
+28SW,28SW-14-05,25,Pancang,Laban,1,0
+28SW,28SW-14-05,25,Pancang,Cengkeh,2,0
+28SW,28SW-14-05,100,Tiang,Jengkol,1,35
+28SW,28SW-14-05,100,Tiang,Jengkol,1,30
+28SW,28SW-14-05,100,Tiang,Kepuh,1,30
+28SW,28SW-14-05,100,Tiang,Lame,1,33
+28SW,28SW-14-05,100,Tiang,Lame,1,40
+28SW,28SW-14-05,400,Pohon,Lame,1,300
+28SW,28SW-14-05,400,Pohon,Ki hiang,1,100
+28SW,28SW-14-05,400,Pohon,Salam,1,400
+21MY,21MY-37-01,4,TB-semai,Hanam,5,0
+21MY,21MY-37-01,4,TB-semai,Papakuan,6,0
+21MY,21MY-37-01,4,TB-semai,Bingbin,3,0
+21MY,21MY-37-01,4,TB-semai,Rotan,5,0
+21MY,21MY-37-01,4,TB-semai,Kasongket,3,0
+21MY,21MY-37-01,4,TB-semai,Cariang,3,0
+21MY,21MY-37-01,4,TB-semai,Hata,1,0
+21MY,21MY-37-01,4,TB-semai,Kaman,2,0
+21MY,21MY-37-01,4,TB-semai,Jirak,3,0
+21MY,21MY-37-01,25,Pancang,Salak,1,0
+21MY,21MY-37-01,25,Pancang,Lampeni ,2,0
+21MY,21MY-37-01,25,Pancang,Rotan,6,0
+21MY,21MY-37-01,25,Pancang,Kaman,4,0
+21MY,21MY-37-01,25,Pancang,Jirak,3,0
+21MY,21MY-37-01,25,Pancang,Areuy bungburutu,1,0
+21MY,21MY-37-01,25,Pancang,Katulampa,2,0
+21MY,21MY-37-01,25,Pancang,Kanyere,3,0
+21MY,21MY-37-01,25,Pancang,Saryawan,1,0
+21MY,21MY-37-01,25,Pancang,Gompong,2,0
+21MY,21MY-37-01,25,Pancang,Huni,2,0
+21MY,21MY-37-01,100,Tiang,Ki huut,1,50
+21MY,21MY-37-01,100,Tiang,Hareumeung,1,33
+21MY,21MY-37-01,100,Tiang,Hareumeung,1,56
+21MY,21MY-37-01,100,Tiang,Ki kunti,1,57
+21MY,21MY-37-01,400,Pohon,Heas,1,72
+21MY,21MY-37-01,400,Pohon,Taritih,1,65
+21MY,21MY-37-01,400,Pohon,Ki teja,1,136
+21MY,21MY-37-01,400,Pohon,Lame,1,76
+21MY,21MY-37-01,400,Pohon,Lame,1,79
+21MY,21MY-37-01,400,Pohon,Ki sampang,1,84
+21MY,21MY-37-01,400,Pohon,Ki kunti,1,81
+21MY,21MY-37-01,400,Pohon,Padali,1,98
+21MY,21MY-37-01,400,Pohon,Hanjiat,1,86
+21MY,21MY-37-02,4,TB-semai,Lame,3,0
+21MY,21MY-37-02,4,TB-semai,Ki teja,2,0
+21MY,21MY-37-02,4,TB-semai,Jirak,4,0
+21MY,21MY-37-02,4,TB-semai,Bingbin,3,0
+21MY,21MY-37-02,4,TB-semai,Pacing,3,0
+21MY,21MY-37-02,25,Pancang,Sauheun,2,0
+21MY,21MY-37-02,25,Pancang,Bingbin,6,0
+21MY,21MY-37-02,25,Pancang,Buluh,3,0
+21MY,21MY-37-02,25,Pancang,Tepus,11,0
+21MY,21MY-37-02,25,Pancang,Ki beureum,2,0
+21MY,21MY-37-02,25,Pancang,Ceuri,3,0
+21MY,21MY-37-02,100,Tiang,Cangkudu,1,59
+21MY,21MY-37-02,100,Tiang,Ki teja,1,56
+21MY,21MY-37-02,100,Tiang,Ki beureum,1,39
+21MY,21MY-37-02,100,Tiang,Ki sereh,1,60
+21MY,21MY-37-02,100,Tiang,Cangcaratan,1,49
+21MY,21MY-37-02,400,Pohon,Ki caang,1,91
+21MY,21MY-37-02,400,Pohon,Ki sampang,1,81
+21MY,21MY-37-02,400,Pohon,Ki sampang,1,65
+21MY,21MY-37-02,400,Pohon,Ki beureum,1,110
+21MY,21MY-37-02,400,Pohon,Padali,1,69
+21MY,21MY-37-02,400,Pohon,Ki huut,1,90
+21MY,21MY-37-02,400,Pohon,Jirak,1,81
+21MY,21MY-37-02,400,Pohon,Kimenyan,1,86
+21MY,21MY-37-03,4,TB-semai,Sulangkar,3,0
+21MY,21MY-37-03,4,TB-semai,Papakuan,6,0
+21MY,21MY-37-03,4,TB-semai,Jirak,4,0
+21MY,21MY-37-03,4,TB-semai,Cariang,6,0
+21MY,21MY-37-03,25,Pancang,Tepus,15,0
+21MY,21MY-37-03,25,Pancang,Rotan,4,0
+21MY,21MY-37-03,25,Pancang,Langkap,19,0
+21MY,21MY-37-03,25,Pancang,Buluh,3,0
+21MY,21MY-37-03,25,Pancang,Bingbin,6,0
+21MY,21MY-37-03,25,Pancang,Ki nangsi,2,0
+21MY,21MY-37-03,25,Pancang,Papakuan,5,0
+21MY,21MY-37-03,100,Tiang,Burung dahu,1,51
+21MY,21MY-37-03,100,Tiang,Dahu,1,46
+21MY,21MY-37-03,100,Tiang,Sigeung,1,60
+21MY,21MY-37-03,100,Tiang,Cangcaratan,1,56
+21MY,21MY-37-03,100,Tiang,Ki calung,1,51
+21MY,21MY-37-03,100,Tiang,Jirak,1,53
+21MY,21MY-37-03,100,Tiang,Sempur,1,57
+21MY,21MY-37-03,100,Tiang,Tongtolok,1,45
+21MY,21MY-37-03,400,Pohon,Jirak,1,76
+21MY,21MY-37-03,400,Pohon,Ki sampang,1,96
+21MY,21MY-37-03,400,Pohon,Teureup,1,73
+21MY,21MY-37-03,400,Pohon,Hanjiat,1,86
+21MY,21MY-37-03,400,Pohon,Putat,1,95
+21MY,21MY-37-04,4,TB-semai,Langkap,1,0
+21MY,21MY-37-04,4,TB-semai,Bingbin,1,0
+21MY,21MY-37-04,4,TB-semai,Hanam,1,0
+21MY,21MY-37-04,4,TB-semai,Singa depa,1,0
+21MY,21MY-37-04,4,TB-semai,Ki endog,1,0
+21MY,21MY-37-04,4,TB-semai,Cariang,1,0
+21MY,21MY-37-04,4,TB-semai,Hantap,1,0
+21MY,21MY-37-04,25,Pancang,Langkap,10,0
+21MY,21MY-37-04,25,Pancang,Rotan,5,0
+21MY,21MY-37-04,25,Pancang,Peuris,3,0
+21MY,21MY-37-04,25,Pancang,Teureup,2,0
+21MY,21MY-37-04,100,Tiang,Cangcaratan,1,36
+21MY,21MY-37-04,100,Tiang,Ki pare,1,57
+21MY,21MY-37-04,100,Tiang,laban,1,67
+21MY,21MY-37-04,100,Tiang,Ki teja,1,60
+21MY,21MY-37-04,400,Pohon,Ceuri,1,102
+21MY,21MY-37-04,400,Pohon,Ceuri,1,76
+21MY,21MY-37-04,400,Pohon,Bayur,1,83
+21MY,21MY-37-04,400,Pohon,jirak,1,99
+21MY,21MY-37-04,400,Pohon,Ki huut,1,116
+21MY,21MY-37-04,400,Pohon,puspa,1,71
+21MY,21MY-37-05,4,TB-semai,Harendong,6,0
+21MY,21MY-37-05,4,TB-semai,Bingbin,4,0
+21MY,21MY-37-05,4,TB-semai,Tepus,2,0
+21MY,21MY-37-05,4,TB-semai,Tangkur gunung,2,0
+21MY,21MY-37-05,4,TB-semai,Cariang,3,0
+21MY,21MY-37-05,25,Pancang,Benying,2,0
+21MY,21MY-37-05,25,Pancang,Papakuan,6,0
+21MY,21MY-37-05,25,Pancang,Tepus,10,0
+21MY,21MY-37-05,25,Pancang,Pacing,3,0
+21MY,21MY-37-05,25,Pancang,Purut,1,0
+21MY,21MY-37-05,25,Pancang,Putat,3,0
+21MY,21MY-37-05,25,Pancang,Kacembang,2,0
+21MY,21MY-37-05,25,Pancang,Katulampa,2,0
+21MY,21MY-37-05,100,Tiang,Ki calung,1,50
+21MY,21MY-37-05,100,Tiang,Ki calung,1,55
+21MY,21MY-37-05,100,Tiang,Katulampa,1,41
+21MY,21MY-37-05,100,Tiang,Cangkudu,1,45
+21MY,21MY-37-05,100,Tiang,Jirak,1,32
+21MY,21MY-37-05,400,Pohon,Padali,1,79
+21MY,21MY-37-05,400,Pohon,Ki kacang,1,77
+21MY,21MY-37-05,400,Pohon,Ki kacang,1,87
+21MY,21MY-37-05,400,Pohon,Burahol,1,76
+21MY,21MY-37-05,400,Pohon,Puspa,1,63
+21MY,21MY-37-05,400,Pohon,Ki segel,1,92
+28SW,28SW-30-01,4,TB-semai,Parasi,5,0
+28SW,28SW-30-01,4,TB-semai,Cariang,9,0
+28SW,28SW-30-01,4,TB-semai,Corokot,6,0
+28SW,28SW-30-01,4,TB-semai,Ki barela,3,0
+28SW,28SW-30-01,4,TB-semai,Rotan,7,0
+28SW,28SW-30-01,4,TB-semai,Kaman,5,0
+28SW,28SW-30-01,4,TB-semai,Papakuan,5,0
+28SW,28SW-30-01,25,Pancang,Ki endog,6,0
+28SW,28SW-30-01,25,Pancang,Ki beureum,16,0
+28SW,28SW-30-01,25,Pancang,Cangkuang,2,0
+28SW,28SW-30-01,25,Pancang,Bengang,4,0
+28SW,28SW-30-01,25,Pancang,Bingbin,10,0
+28SW,28SW-30-01,25,Pancang,Ki kacang,4,0
+28SW,28SW-30-01,25,Pancang,Ki huut,3,0
+28SW,28SW-30-01,25,Pancang,Burahol,1,0
+28SW,28SW-30-01,100,Tiang,Bengang,1,42
+28SW,28SW-30-01,100,Tiang,Bengang,1,56
+28SW,28SW-30-01,400,Pohon,Ki sampang,1,38
+28SW,28SW-30-01,400,Pohon,Heas,1,86
+28SW,28SW-30-01,400,Pohon,Ki mokla,1,110
+28SW,28SW-30-01,400,Pohon,heucit,1,67
+28SW,28SW-30-01,400,Pohon,Heas,1,110
+28SW,28SW-30-01,400,Pohon,Padali,1,178
+28SW,28SW-30-01,400,Pohon,Mara,1,82
+28SW,28SW-30-01,400,Pohon,Ki sampang,1,107
+28SW,28SW-30-01,400,Pohon,Lame,1,102
+28SW,28SW-30-02,4,TB-semai,Rotan,5,0
+28SW,28SW-30-02,4,TB-semai,Hanjuang,3,0
+28SW,28SW-30-02,4,TB-semai,Harashas,3,0
+28SW,28SW-30-02,4,TB-semai,Kaman,4,0
+28SW,28SW-30-02,4,TB-semai,Bangban,2,0
+28SW,28SW-30-02,25,Pancang,Huru medang,7,0
+28SW,28SW-30-02,25,Pancang,Buluh,9,0
+28SW,28SW-30-02,25,Pancang,Bengang,6,0
+28SW,28SW-30-02,25,Pancang,Bingbin,2,0
+28SW,28SW-30-02,25,Pancang,Ipis kulit,5,0
+28SW,28SW-30-02,25,Pancang,Ceuri,4,0
+28SW,28SW-30-02,25,Pancang,Ki beureum,7,0
+28SW,28SW-30-02,25,Pancang,salak,1,0
+28SW,28SW-30-02,25,Pancang,Kopo,3,0
+28SW,28SW-30-02,25,Pancang,Leungsir,2,0
+28SW,28SW-30-02,25,Pancang,Mangga,1,0
+28SW,28SW-30-02,25,Pancang,Tuak kalapa,2,0
+28SW,28SW-30-02,25,Pancang,Hantap,3,0
+28SW,28SW-30-02,100,Tiang,Ki beureum,1,54
+28SW,28SW-30-02,100,Tiang,Ki beureum,1,49
+28SW,28SW-30-02,100,Tiang,Heas,1,37
+28SW,28SW-30-02,100,Tiang,Bengang,1,39
+28SW,28SW-30-02,100,Tiang,Ki kunti,1,35
+28SW,28SW-30-02,400,Pohon,Kuhkuran,1,116
+28SW,28SW-30-02,400,Pohon,Ki kacang,1,80
+28SW,28SW-30-02,400,Pohon,Kuhkuran,1,108
+28SW,28SW-30-02,400,Pohon,Ki sampang,1,109
+28SW,28SW-30-02,400,Pohon,Kuhkuran,1,88
+28SW,28SW-30-02,400,Pohon,Heas,1,78
+28SW,28SW-30-03,4,TB-semai,Rotan,6,0
+28SW,28SW-30-03,4,TB-semai,Cariang,3,0
+28SW,28SW-30-03,4,TB-semai,Gadel,2,0
+28SW,28SW-30-03,4,TB-semai,Kaman,9,0
+28SW,28SW-30-03,4,TB-semai,Papakuan,5,0
+28SW,28SW-30-03,4,TB-semai,Harashas,4,0
+28SW,28SW-30-03,4,TB-semai,Ki huut,4,0
+28SW,28SW-30-03,25,Pancang,Kalabahe,3,0
+28SW,28SW-30-03,25,Pancang,Bengang,7,0
+28SW,28SW-30-03,25,Pancang,Bingbin,6,0
+28SW,28SW-30-03,25,Pancang,Ki tulang,4,0
+28SW,28SW-30-03,25,Pancang,Ki beureum,2,0
+28SW,28SW-30-03,25,Pancang,Lampeni ,3,0
+28SW,28SW-30-03,25,Pancang,Huni,5,0
+28SW,28SW-30-03,25,Pancang,jirak,4,0
+28SW,28SW-30-03,25,Pancang,Rotan,12,0
+28SW,28SW-30-03,25,Pancang,Ceuri,4,0
+28SW,28SW-30-03,25,Pancang,Heas,1,0
+28SW,28SW-30-03,25,Pancang,Katulampa,4,0
+28SW,28SW-30-03,25,Pancang,Ki segel,7,0
+28SW,28SW-30-03,100,Tiang,Bengang,1,40
+28SW,28SW-30-03,100,Tiang,Ki calung,1,57
+28SW,28SW-30-03,100,Tiang,Ganitri,1,37
+28SW,28SW-30-03,400,Pohon,Padali,1,83
+28SW,28SW-30-03,400,Pohon,Ki segel,1,111
+28SW,28SW-30-03,400,Pohon,Ki merak,1,67
+28SW,28SW-30-03,400,Pohon,heucit,1,69
+28SW,28SW-30-03,400,Pohon,Huru medang,1,89
+28SW,28SW-30-03,400,Pohon,Ki segel,1,128
+28SW,28SW-30-04,4,TB-semai,Parasi,2,0
+28SW,28SW-30-04,4,TB-semai,Ki barela,3,0
+28SW,28SW-30-04,4,TB-semai,Papakuan,2,0
+28SW,28SW-30-04,4,TB-semai,Rotan,5,0
+28SW,28SW-30-04,4,TB-semai,Hantap,3,0
+28SW,28SW-30-04,25,Pancang,Kaman,6,0
+28SW,28SW-30-04,25,Pancang,Ki calung,3,0
+28SW,28SW-30-04,25,Pancang,Hantap heulang,2,0
+28SW,28SW-30-04,25,Pancang,Ki beureum,5,0
+28SW,28SW-30-04,25,Pancang,Bengang,6,0
+28SW,28SW-30-04,25,Pancang,Canar,3,0
+28SW,28SW-30-04,25,Pancang,Cangkore,4,0
+28SW,28SW-30-04,25,Pancang,Buluh,7,0
+28SW,28SW-30-04,100,Tiang,heucit,1,39
+28SW,28SW-30-04,100,Tiang,Huru,1,44
+28SW,28SW-30-04,100,Tiang,Bengang,1,38
+28SW,28SW-30-04,100,Tiang,Dahu,1,52
+28SW,28SW-30-04,100,Tiang,Ki tambaga,1,58
+28SW,28SW-30-04,400,Pohon,Dahu,1,66
+28SW,28SW-30-04,400,Pohon,heucit,1,69
+28SW,28SW-30-04,400,Pohon,Ki tambaga,1,180
+28SW,28SW-30-04,400,Pohon,Ganitri,1,103
+28SW,28SW-30-04,400,Pohon,Huru,1,110
+28SW,28SW-30-04,400,Pohon,Ki kacang,1,91
+28SW,28SW-30-04,400,Pohon,Leungsir,1,77
+28SW,28SW-30-04,400,Pohon,Taritih,1,80
+28SW,28SW-30-05,4,TB-semai,Canar,4,0
+28SW,28SW-30-05,4,TB-semai,Rotan,10,0
+28SW,28SW-30-05,4,TB-semai,Bingbin,5,0
+28SW,28SW-30-05,4,TB-semai,Papakuan,6,0
+28SW,28SW-30-05,4,TB-semai,Patat,3,0
+28SW,28SW-30-05,25,Pancang,Bingbin,1,0
+28SW,28SW-30-05,25,Pancang,Ki beureum,3,0
+28SW,28SW-30-05,25,Pancang,Buluh,1,0
+28SW,28SW-30-05,100,Tiang,Ki calung,1,38
+28SW,28SW-30-05,100,Tiang,Angrit,1,51
+28SW,28SW-30-05,100,Tiang,Hanjiat,1,51
+28SW,28SW-30-05,100,Tiang,Ki mokla,1,59
+28SW,28SW-30-05,100,Tiang,jirak,1,57
+28SW,28SW-30-05,400,Pohon,Heas,1,64
+28SW,28SW-30-05,400,Pohon,Heas,1,65
+28SW,28SW-30-05,400,Pohon,Huru medang,1,105
+28SW,28SW-30-05,400,Pohon,Bengang,1,65
+28SW,28SW-30-05,400,Pohon,Ki sampang,1,72
+28SW,28SW-30-05,400,Pohon,Teureup,1,156
+28SW,28SW-30-05,400,Pohon,Bihbul,1,109
+28SW,28SW-30-05,400,Pohon,Pangsor,1,70
+28SW,28SW-30-05,400,Pohon,Huru payung,1,83
+28SW,28SW-30-05,400,Pohon,Hanjiat,1,97
+28SW,28SW-30-05,400,Pohon,Puspa,1,154
+28SW,28SW-41-01,4,TB-semai,Harendong,6,0
+28SW,28SW-41-01,4,TB-semai,Sayar,9,0
+28SW,28SW-41-01,4,TB-semai,Rotan,4,0
+28SW,28SW-41-01,4,TB-semai,Patat,3,0
+28SW,28SW-41-01,4,TB-semai,Papakuan,3,0
+28SW,28SW-41-01,4,TB-semai,Bingbin,4,0
+28SW,28SW-41-01,25,Pancang,Sayar,3,0
+28SW,28SW-41-01,25,Pancang,Sulangkar,4,0
+28SW,28SW-41-01,25,Pancang,Papakuan,1,0
+28SW,28SW-41-01,25,Pancang,Ki segel,10,0
+28SW,28SW-41-01,25,Pancang,Mehmal,2,0
+28SW,28SW-41-01,25,Pancang,Benying,1,0
+28SW,28SW-41-01,25,Pancang,Ki tulang,4,0
+28SW,28SW-41-01,25,Pancang,Huru medang,3,0
+28SW,28SW-41-01,100,Tiang,Huru medang,1,48
+28SW,28SW-41-01,100,Tiang,Huru payung,1,32
+28SW,28SW-41-01,100,Tiang,Ki calung,1,48
+28SW,28SW-41-01,100,Tiang,Ki calung,1,36
+28SW,28SW-41-01,100,Tiang,Ki calung,1,57
+28SW,28SW-41-01,100,Tiang,Ki kangkareng,1,56
+28SW,28SW-41-01,400,Pohon,Dahu,1,131
+28SW,28SW-41-01,400,Pohon,Ki kangkareng,1,77
+28SW,28SW-41-01,400,Pohon,Padali,1,145
+28SW,28SW-41-01,400,Pohon,Puspa,1,99
+28SW,28SW-41-01,400,Pohon,Ki kacang,1,92
+28SW,28SW-41-01,400,Pohon,Ki dangdeur,1,90
+28SW,28SW-41-01,400,Pohon,Ki kacang,1,110
+28SW,28SW-41-01,400,Pohon,Carelang,1,113
+28SW,28SW-41-02,4,TB-semai,Salam,4,0
+28SW,28SW-41-02,4,TB-semai,Harendong,6,0
+28SW,28SW-41-02,4,TB-semai,Bingbin,7,0
+28SW,28SW-41-02,4,TB-semai,Rotan,8,0
+28SW,28SW-41-02,4,TB-semai,Singa depa,13,0
+28SW,28SW-41-02,4,TB-semai,Cariang,3,0
+28SW,28SW-41-02,25,Pancang,Ki huut,3,0
+28SW,28SW-41-02,25,Pancang,Mehmal,4,0
+28SW,28SW-41-02,25,Pancang,Bingbin,5,0
+28SW,28SW-41-02,25,Pancang,Sulangkar,3,0
+28SW,28SW-41-02,25,Pancang,Rotan,9,0
+28SW,28SW-41-02,25,Pancang,Padali,1,0
+28SW,28SW-41-02,25,Pancang,heucit,3,0
+28SW,28SW-41-02,100,Tiang,heucit,1,46
+28SW,28SW-41-02,100,Tiang,Katulampa,1,57
+28SW,28SW-41-02,100,Tiang,Purut,1,53
+28SW,28SW-41-02,100,Tiang,Heas,1,56
+28SW,28SW-41-02,400,Pohon,Hanjiat,1,72
+28SW,28SW-41-02,400,Pohon,Ki beureum,1,93
+28SW,28SW-41-02,400,Pohon,Angrit,1,151
+28SW,28SW-41-02,400,Pohon,Huru nangka,1,145
+28SW,28SW-41-02,400,Pohon,Ki pare,1,169
+28SW,28SW-41-02,400,Pohon,Ki kacang,1,77
+28SW,28SW-41-02,400,Pohon,Padali,1,165
+28SW,28SW-41-02,400,Pohon,Hanjiat,1,96
+28SW,28SW-41-02,400,Pohon,Pinango,1,99
+28SW,28SW-41-02,400,Pohon,Kondang,1,85
+28SW,28SW-41-03,4,TB-semai,Papakuan,5,0
+28SW,28SW-41-03,4,TB-semai,Rotan,24,0
+28SW,28SW-41-03,4,TB-semai,Cariang,1,0
+28SW,28SW-41-03,4,TB-semai,Harendong,3,0
+28SW,28SW-41-03,4,TB-semai,Patat,4,0
+28SW,28SW-41-03,25,Pancang,Kasongket,5,0
+28SW,28SW-41-03,25,Pancang,Ki beureum,3,0
+28SW,28SW-41-03,25,Pancang,Bangban,7,0
+28SW,28SW-41-03,25,Pancang,Rotan,6,0
+28SW,28SW-41-03,25,Pancang,Sayar,3,0
+28SW,28SW-41-03,25,Pancang,Mehmal,4,0
+28SW,28SW-41-03,100,Tiang,Ki kacang,1,43
+28SW,28SW-41-03,100,Tiang,Ki segel,1,60
+28SW,28SW-41-03,100,Tiang,Cangkudu,1,34
+28SW,28SW-41-03,100,Tiang,Leungsir,1,54
+28SW,28SW-41-03,400,Pohon,Ki sampang,1,77
+28SW,28SW-41-03,400,Pohon,Ki kacang,1,96
+28SW,28SW-41-03,400,Pohon,Ki segel,1,66
+28SW,28SW-41-03,400,Pohon,Binong,1,91
+28SW,28SW-41-03,400,Pohon,Gadog,1,86
+28SW,28SW-41-03,400,Pohon,Taritih,1,81
+28SW,28SW-41-03,400,Pohon,Puspa,1,95
+28SW,28SW-41-04,4,TB-semai,Pisang kole,3,0
+28SW,28SW-41-04,4,TB-semai,Bingbin,6,0
+28SW,28SW-41-04,4,TB-semai,Harendong,5,0
+28SW,28SW-41-04,4,TB-semai,Sayar,7,0
+28SW,28SW-41-04,4,TB-semai,Canar,2,0
+28SW,28SW-41-04,25,Pancang,Sulangkar,4,0
+28SW,28SW-41-04,25,Pancang,Katulampa,3,0
+28SW,28SW-41-04,25,Pancang,Babanyaran,4,0
+28SW,28SW-41-04,25,Pancang,Bingbin,6,0
+28SW,28SW-41-04,25,Pancang,Papakuan,4,0
+28SW,28SW-41-04,25,Pancang,Pisang kole,1,0
+28SW,28SW-41-04,25,Pancang,Tepus,6,0
+28SW,28SW-41-04,25,Pancang,Sayar,3,0
+28SW,28SW-41-04,25,Pancang,Salam,4,0
+28SW,28SW-41-04,25,Pancang,Benying,2,0
+28SW,28SW-41-04,100,Tiang,heucit,1,37
+28SW,28SW-41-04,100,Tiang,Ki teja,1,45
+28SW,28SW-41-04,100,Tiang,Ki kacang,1,54
+28SW,28SW-41-04,100,Tiang,Ki soge,1,51
+28SW,28SW-41-04,400,Pohon,Mara,1,65
+28SW,28SW-41-04,400,Pohon,Ki kacang,1,86
+28SW,28SW-41-04,400,Pohon,Hanjiat,1,94
+28SW,28SW-41-04,400,Pohon,Ceuri,1,72
+28SW,28SW-41-04,400,Pohon,jirak,1,93
+28SW,28SW-41-05,4,TB-semai,Cariang,2,0
+28SW,28SW-41-05,4,TB-semai,Papakuan,6,0
+28SW,28SW-41-05,4,TB-semai,Sayar,5,0
+28SW,28SW-41-05,4,TB-semai,Bingbin,3,0
+28SW,28SW-41-05,4,TB-semai,Harendong,3,0
+28SW,28SW-41-05,25,Pancang,Kanyere,4,0
+28SW,28SW-41-05,25,Pancang,Tepus,16,0
+28SW,28SW-41-05,25,Pancang,Patat,3,0
+28SW,28SW-41-05,25,Pancang,Sulangkar,4,0
+28SW,28SW-41-05,25,Pancang,Kalabahe,1,0
+28SW,28SW-41-05,25,Pancang,Rotan,6,0
+28SW,28SW-41-05,25,Pancang,Hantap,3,0
+28SW,28SW-41-05,25,Pancang,Benying,2,0
+28SW,28SW-41-05,25,Pancang,Mara,1,0
+28SW,28SW-41-05,100,Tiang,Ki kacang,1,34
+28SW,28SW-41-05,100,Tiang,Ki kacang,1,48
+28SW,28SW-41-05,100,Tiang,Padali,1,57
+28SW,28SW-41-05,100,Tiang,Buluh,1,52
+28SW,28SW-41-05,400,Pohon,Ki kacang,1,71
+28SW,28SW-41-05,400,Pohon,Huru kemplong,1,92
+28SW,28SW-41-05,400,Pohon,Ki harupat,1,83
+15ZA,15ZA-33-01,4,TB-semai,Kaman,16,0
+15ZA,15ZA-33-01,4,TB-semai,Rotan,1,0
+15ZA,15ZA-33-01,4,TB-semai,Bingbin,3,0
+15ZA,15ZA-33-01,4,TB-semai,Ki barela,2,0
+15ZA,15ZA-33-01,4,TB-semai,Ki endog,4,0
+15ZA,15ZA-33-01,4,TB-semai,Mehmal,5,0
+15ZA,15ZA-33-01,4,TB-semai,Hampelas,1,0
+15ZA,15ZA-33-01,25,Pancang,Ki endog,5,0
+15ZA,15ZA-33-01,25,Pancang,Huru payung,1,0
+15ZA,15ZA-33-01,25,Pancang,Kaman,11,0
+15ZA,15ZA-33-01,25,Pancang,Angrit,2,0
+15ZA,15ZA-33-01,25,Pancang,Huru nangka,3,0
+15ZA,15ZA-33-01,25,Pancang,Ceuri,1,0
+15ZA,15ZA-33-01,25,Pancang,Ki batok,3,0
+15ZA,15ZA-33-01,25,Pancang,Padali,4,0
+15ZA,15ZA-33-01,100,Tiang,Purut,1,44
+15ZA,15ZA-33-01,100,Tiang,Lampeni ,1,51
+15ZA,15ZA-33-01,100,Tiang,Purut,1,64
+15ZA,15ZA-33-01,400,Pohon,Hanjiat,1,139
+15ZA,15ZA-33-01,400,Pohon,Angrit,1,64
+15ZA,15ZA-33-01,400,Pohon,Hanjiat,1,73
+15ZA,15ZA-33-01,400,Pohon,Pinango,1,103
+15ZA,15ZA-33-01,400,Pohon,Pinango,1,72
+15ZA,15ZA-33-01,400,Pohon,Hanjiat,1,94
+15ZA,15ZA-33-01,400,Pohon,Taritih,1,83
+15ZA,15ZA-33-01,400,Pohon,Salam,1,95
+15ZA,15ZA-33-01,400,Pohon,Huru payung,1,150
+15ZA,15ZA-33-01,400,Pohon,Ceuri,1,73
+15ZA,15ZA-33-01,400,Pohon,Ki huut,1,130
+15ZA,15ZA-33-02,4,TB-semai,Hata,6,0
+15ZA,15ZA-33-02,4,TB-semai,Rotan,10,0
+15ZA,15ZA-33-02,4,TB-semai,Kaman,1,0
+15ZA,15ZA-33-02,4,TB-semai,Tapo,2,0
+15ZA,15ZA-33-02,25,Pancang,Ipis kulit,4,0
+15ZA,15ZA-33-02,25,Pancang,Lampeni ,5,0
+15ZA,15ZA-33-02,25,Pancang,Ki huut,3,0
+15ZA,15ZA-33-02,25,Pancang,Ki mokla,2,0
+15ZA,15ZA-33-02,25,Pancang,Cangcaratan,3,0
+15ZA,15ZA-33-02,100,Tiang,Ki calung,1,32
+15ZA,15ZA-33-02,100,Tiang,Huru payung,1,58
+15ZA,15ZA-33-02,100,Tiang,Hanjiat,1,39
+15ZA,15ZA-33-02,100,Tiang,Huru payung,1,59
+15ZA,15ZA-33-02,400,Pohon,Hanjiat,1,61
+15ZA,15ZA-33-02,400,Pohon,Hanjiat,1,64
+15ZA,15ZA-33-02,400,Pohon,Huru payung,1,75
+15ZA,15ZA-33-02,400,Pohon,Hanjiat,1,117
+15ZA,15ZA-33-02,400,Pohon,Katulampa,1,63
+15ZA,15ZA-33-02,400,Pohon,Purut,1,128
+15ZA,15ZA-33-02,400,Pohon,Pinango,1,144
+15ZA,15ZA-33-02,400,Pohon,Purut,1,120
+15ZA,15ZA-33-02,400,Pohon,Angrit,1,127
+15ZA,15ZA-33-02,400,Pohon,Ki huut,1,113
+15ZA,15ZA-33-02,400,Pohon,Taritih,1,96
+15ZA,15ZA-33-03,4,TB-semai,Rotan,6,0
+15ZA,15ZA-33-03,4,TB-semai,Kaman,9,0
+15ZA,15ZA-33-03,4,TB-semai,Parasi,3,0
+15ZA,15ZA-33-03,25,Pancang,Hantap,2,0
+15ZA,15ZA-33-03,25,Pancang,Lampeni ,4,0
+15ZA,15ZA-33-03,25,Pancang,Ki huut,3,0
+15ZA,15ZA-33-03,25,Pancang,Ki mokla,2,0
+15ZA,15ZA-33-03,25,Pancang,Cangcaratan,2,0
+15ZA,15ZA-33-03,25,Pancang,Rengas,3,0
+15ZA,15ZA-33-03,25,Pancang,Ki dangdeur,1,0
+15ZA,15ZA-33-03,25,Pancang,Buluh,5,0
+15ZA,15ZA-33-03,25,Pancang,Ki segel,3,0
+15ZA,15ZA-33-03,100,Tiang,Taritih,1,53
+15ZA,15ZA-33-03,100,Tiang,Angrit,1,61
+15ZA,15ZA-33-03,100,Tiang,Bengang,1,65
+15ZA,15ZA-33-03,100,Tiang,Purut,1,57
+15ZA,15ZA-33-03,100,Tiang,Saryawan,1,73
+15ZA,15ZA-33-03,100,Tiang,Heas,1,53
+15ZA,15ZA-33-03,400,Pohon,Hantap,1,97
+15ZA,15ZA-33-03,400,Pohon,Hanjiat,1,110
+15ZA,15ZA-33-03,400,Pohon,Ki huut,1,88
+15ZA,15ZA-33-03,400,Pohon,Ceuri,1,124
+15ZA,15ZA-33-03,400,Pohon,Purut,1,132
+15ZA,15ZA-33-03,400,Pohon,Pinango,1,150
+15ZA,15ZA-33-03,400,Pohon,Purut,1,117
+15ZA,15ZA-33-03,400,Pohon,Hanjiat,1,111
+15ZA,15ZA-33-03,400,Pohon,Ceuri,1,115
+15ZA,15ZA-33-03,400,Pohon,Pinango,1,120
+15ZA,15ZA-33-03,400,Pohon,Huru nangka,1,97
+15ZA,15ZA-33-04,4,TB-semai,Canar,3,0
+15ZA,15ZA-33-04,4,TB-semai,Hata,4,0
+15ZA,15ZA-33-04,4,TB-semai,Kasongket,2,0
+15ZA,15ZA-33-04,4,TB-semai,Lampeni ,6,0
+15ZA,15ZA-33-04,4,TB-semai,Hanjuang,1,0
+15ZA,15ZA-33-04,4,TB-semai,Ki laja,4,0
+15ZA,15ZA-33-04,25,Pancang,Cangkuang,3,0
+15ZA,15ZA-33-04,25,Pancang,Kaman,16,0
+15ZA,15ZA-33-04,25,Pancang,Saung ringgeng,4,0
+15ZA,15ZA-33-04,25,Pancang,Heucit,1,0
+15ZA,15ZA-33-04,25,Pancang,Jaha,2,0
+15ZA,15ZA-33-04,25,Pancang,Purut,2,0
+15ZA,15ZA-33-04,25,Pancang,Ceuri,3,0
+15ZA,15ZA-33-04,100,Tiang,Buluh,1,55
+15ZA,15ZA-33-04,100,Tiang,Saryawan,1,40
+15ZA,15ZA-33-04,100,Tiang,Ki tulang,1,31
+15ZA,15ZA-33-04,100,Tiang,Katulampa,1,35
+15ZA,15ZA-33-04,100,Tiang,Ki tambaga,1,43
+15ZA,15ZA-33-04,100,Tiang,Ki huut,1,65
+15ZA,15ZA-33-04,400,Pohon,Purut,1,166
+15ZA,15ZA-33-04,400,Pohon,Angrit,1,118
+15ZA,15ZA-33-04,400,Pohon,Ki huut,1,84
+15ZA,15ZA-33-04,400,Pohon,Ki tambaga,1,43
+15ZA,15ZA-33-04,400,Pohon,Ki calung,1,96
+15ZA,15ZA-33-04,400,Pohon,Ki huut,1,72
+15ZA,15ZA-33-04,400,Pohon,Purut,1,112
+15ZA,15ZA-33-04,400,Pohon,Pinango,1,117
+15ZA,15ZA-33-04,400,Pohon,Pinango,1,95
+15ZA,15ZA-33-04,400,Pohon,Hanjiat,1,125
+15ZA,15ZA-33-05,4,TB-semai,Kaman,16,0
+15ZA,15ZA-33-05,4,TB-semai,Rotan,5,0
+15ZA,15ZA-33-05,4,TB-semai,Kasongket,4,0
+15ZA,15ZA-33-05,25,Pancang,Kaman,7,0
+15ZA,15ZA-33-05,25,Pancang,Saung ringgeng,5,0
+15ZA,15ZA-33-05,25,Pancang,Ceuri,6,0
+15ZA,15ZA-33-05,25,Pancang,Benying,3,0
+15ZA,15ZA-33-05,25,Pancang,Huru payung,2,0
+15ZA,15ZA-33-05,25,Pancang,Kasongket,3,0
+15ZA,15ZA-33-05,25,Pancang,Bingbin,3,0
+15ZA,15ZA-33-05,25,Pancang,Kakaduan,2,0
+15ZA,15ZA-33-05,25,Pancang,Huru medang,3,0
+15ZA,15ZA-33-05,100,Tiang,Cangcaratan,1,48
+15ZA,15ZA-33-05,100,Tiang,Pinango,1,36
+15ZA,15ZA-33-05,100,Tiang,Purut,1,47
+15ZA,15ZA-33-05,100,Tiang,Cangcaratan,1,37
+15ZA,15ZA-33-05,100,Tiang,Ki calung,1,57
+15ZA,15ZA-33-05,100,Tiang,Ki huut,1,48
+15ZA,15ZA-33-05,100,Tiang,Ki huut,1,36
+15ZA,15ZA-33-05,100,Tiang,Hanjiat,1,47
+15ZA,15ZA-33-05,100,Tiang,Ki huut,1,37
+15ZA,15ZA-33-05,400,Pohon,Ceuri,1,95
+15ZA,15ZA-33-05,400,Pohon,Ki calung,1,164
+15ZA,15ZA-33-05,400,Pohon,Hanjiat,1,90
+15ZA,15ZA-33-05,400,Pohon,Purut,1,103
+15ZA,15ZA-33-05,400,Pohon,Purut,1,96
+15ZA,15ZA-33-05,400,Pohon,Hanjiat,1,85
+15ZA,15ZA-33-05,400,Pohon,Hanjiat,1,77
+15ZA,15ZA-33-05,400,Pohon,Ki huut,1,96
+97RF,97RF-21-01,4,TB-semai,Harendong bulu,6,0
+97RF,97RF-21-01,4,TB-semai,Cariang,1,0
+97RF,97RF-21-01,4,TB-semai,Rotan,3,0
+97RF,97RF-21-01,4,TB-semai,Ilat,4,0
+97RF,97RF-21-01,4,TB-semai,Hata,3,0
+97RF,97RF-21-01,4,TB-semai,Kasongket,2,0
+97RF,97RF-21-01,4,TB-semai,Carulang,6,0
+97RF,97RF-21-01,4,TB-semai,Patat,2,0
+97RF,97RF-21-01,4,TB-semai,Gadel,5,0
+97RF,97RF-21-01,25,Pancang,Poreket,1,0
+97RF,97RF-21-01,25,Pancang,Hampelas,3,0
+97RF,97RF-21-01,25,Pancang,Sauheun,2,0
+97RF,97RF-21-01,25,Pancang,Sulangkar,2,0
+97RF,97RF-21-01,25,Pancang,Tepus,16,0
+97RF,97RF-21-01,25,Pancang,Cangkuang,1,0
+97RF,97RF-21-01,25,Pancang,Ki pare,1,0
+97RF,97RF-21-01,25,Pancang,Kasongket,2,0
+97RF,97RF-21-01,25,Pancang,Benying,4,0
+97RF,97RF-21-01,25,Pancang,Rotan,3,0
+97RF,97RF-21-01,25,Pancang,Lampeni ,2,0
+97RF,97RF-21-01,25,Pancang,Jirak,3,0
+97RF,97RF-21-01,100,Tiang,Harupat,1,41
+97RF,97RF-21-01,100,Tiang,Angrit,1,64
+97RF,97RF-21-01,100,Tiang,Ki sampang,1,61
+97RF,97RF-21-01,100,Tiang,Ki kacang,1,61
+97RF,97RF-21-01,100,Tiang,Ki segel,1,40
+97RF,97RF-21-01,100,Tiang,Ki harupat,1,44
+97RF,97RF-21-01,400,Pohon,Ki pare,1,78
+97RF,97RF-21-01,400,Pohon,Ki sampang,1,70
+97RF,97RF-21-02,4,TB-semai,Laban,5,0
+97RF,97RF-21-02,4,TB-semai,Canar,2,0
+97RF,97RF-21-02,4,TB-semai,Gadel,1,0
+97RF,97RF-21-02,4,TB-semai,Ki barela,1,0
+97RF,97RF-21-02,25,Pancang,Bingbin,2,0
+97RF,97RF-21-02,25,Pancang,Laban,2,0
+97RF,97RF-21-02,25,Pancang,Papakuan,1,0
+97RF,97RF-21-02,25,Pancang,Ki sampang,1,0
+97RF,97RF-21-02,25,Pancang,Jirak,3,0
+97RF,97RF-21-02,25,Pancang,Ceuri,2,0
+97RF,97RF-21-02,25,Pancang,Katulampa,1,0
+97RF,97RF-21-02,25,Pancang,Hanjuang,3,0
+97RF,97RF-21-02,25,Pancang,Ki lilin,2,0
+97RF,97RF-21-02,25,Pancang,Ki segel,4,0
+97RF,97RF-21-02,25,Pancang,Cangcaratan,2,0
+97RF,97RF-21-02,25,Pancang,Purut,2,0
+97RF,97RF-21-02,100,Tiang,Ki segel,1,40
+97RF,97RF-21-02,100,Tiang,Ki harupat,1,44
+97RF,97RF-21-02,100,Tiang,Ki pare,1,40
+97RF,97RF-21-02,100,Tiang,Ceuri,1,39
+97RF,97RF-21-02,100,Tiang,Ki kacang,1,44
+97RF,97RF-21-02,100,Tiang,Ceuri,1,47
+97RF,97RF-21-02,100,Tiang,Jirak,1,35
+97RF,97RF-21-02,400,Pohon,Laban,1,113
+97RF,97RF-21-02,400,Pohon,Katulampa,1,134
+97RF,97RF-21-03,4,TB-semai,Paragi,5,0
+97RF,97RF-21-03,4,TB-semai,Harendong,6,0
+97RF,97RF-21-03,4,TB-semai,Bingbin,4,0
+97RF,97RF-21-03,4,TB-semai,Sulangkar,3,0
+97RF,97RF-21-03,4,TB-semai,Haraghag,5,0
+97RF,97RF-21-03,25,Pancang,Huni,2,0
+97RF,97RF-21-03,25,Pancang,Bingbin,6,0
+97RF,97RF-21-03,25,Pancang,jirak,3,0
+97RF,97RF-21-03,25,Pancang,Ki kacang,1,0
+97RF,97RF-21-03,25,Pancang,Ki segel,4,0
+97RF,97RF-21-03,25,Pancang,Angrit,3,0
+97RF,97RF-21-03,25,Pancang,Katulampa,2,0
+97RF,97RF-21-03,25,Pancang,Rotan,8,0
+97RF,97RF-21-03,100,Tiang,Ki huut,1,55
+97RF,97RF-21-03,100,Tiang,Peuris,1,57
+97RF,97RF-21-03,100,Tiang,Katulampa,1,63
+97RF,97RF-21-03,100,Tiang,Ki kacang,1,68
+97RF,97RF-21-03,100,Tiang,Angrit,1,65
+97RF,97RF-21-03,100,Tiang,Angrit,1,57
+97RF,97RF-21-03,100,Tiang,Angrit,1,34
+97RF,97RF-21-03,100,Tiang,Angrit,1,31
+97RF,97RF-21-03,100,Tiang,Ki pare,1,63
+97RF,97RF-21-03,100,Tiang,Ki pare,1,47
+97RF,97RF-21-03,400,Pohon,Lame,1,83
+97RF,97RF-21-03,400,Pohon,Jirak,1,76
+97RF,97RF-21-03,400,Pohon,Jirak,1,74
+97RF,97RF-21-03,400,Pohon,Angrit,1,79
+97RF,97RF-21-03,400,Pohon,Ki pare,1,105
+97RF,97RF-21-03,400,Pohon,Ceuri,1,98
+97RF,97RF-21-04,4,TB-semai,Harendong,4,0
+97RF,97RF-21-04,4,TB-semai,Amis mata,6,0
+97RF,97RF-21-04,4,TB-semai,Rotan,3,0
+97RF,97RF-21-04,4,TB-semai,Cariang,1,0
+97RF,97RF-21-04,4,TB-semai,Bingbin,5,0
+97RF,97RF-21-04,4,TB-semai,Haraghag,3,0
+97RF,97RF-21-04,25,Pancang,Papakuan,4,0
+97RF,97RF-21-04,25,Pancang,Rotan,3,0
+97RF,97RF-21-04,25,Pancang,Ki huut,3,0
+97RF,97RF-21-04,25,Pancang,Sulangkar,2,0
+97RF,97RF-21-04,25,Pancang,Burung dahu,1,0
+97RF,97RF-21-04,25,Pancang,Kanyere,3,0
+97RF,97RF-21-04,25,Pancang,Jirak,4,0
+97RF,97RF-21-04,25,Pancang,Katulampa,4,0
+97RF,97RF-21-04,25,Pancang,Mara,2,0
+97RF,97RF-21-04,25,Pancang,Lampeni ,3,0
+97RF,97RF-21-04,100,Tiang,Dahu,1,33
+97RF,97RF-21-04,100,Tiang,Cangcaratan,1,48
+97RF,97RF-21-04,100,Tiang,Mara,1,46
+97RF,97RF-21-04,100,Tiang,Hareumeung,1,43
+97RF,97RF-21-04,100,Tiang,Ki pare,1,44
+97RF,97RF-21-04,100,Tiang,Angrit,1,37
+97RF,97RF-21-04,100,Tiang,Ki pare,1,64
+97RF,97RF-21-04,100,Tiang,Ki beureum,1,68
+97RF,97RF-21-04,400,Pohon,Katulampa,1,93
+97RF,97RF-21-04,400,Pohon,Cangcaratan,1,100
+97RF,97RF-21-04,400,Pohon,Salam,1,451
+97RF,97RF-21-04,400,Pohon,Dahu,1,73
+97RF,97RF-21-04,400,Pohon,Ki pare,1,70
+97RF,97RF-21-05,4,TB-semai,Papakuan,4,0
+97RF,97RF-21-05,4,TB-semai,Mara,3,0
+97RF,97RF-21-05,4,TB-semai,Bingbin,6,0
+97RF,97RF-21-05,4,TB-semai,Bangban,5,0
+97RF,97RF-21-05,4,TB-semai,Kalabahe,1,0
+97RF,97RF-21-05,4,TB-semai,Cariang,6,0
+97RF,97RF-21-05,25,Pancang,Saryawan,1,0
+97RF,97RF-21-05,25,Pancang,Bingbin,2,0
+97RF,97RF-21-05,25,Pancang,Huru kemplong,6,0
+97RF,97RF-21-05,25,Pancang,Tepus,1,0
+97RF,97RF-21-05,25,Pancang,Huni,17,0
+97RF,97RF-21-05,25,Pancang,Ki tulang,3,0
+97RF,97RF-21-05,25,Pancang,Mara,2,0
+97RF,97RF-21-05,25,Pancang,Jirak,2,0
+97RF,97RF-21-05,25,Pancang,Lampeni ,4,0
+97RF,97RF-21-05,25,Pancang,Ki sampang,1,0
+97RF,97RF-21-05,25,Pancang,Bangban,7,0
+97RF,97RF-21-05,100,Tiang,Cangcaratan,1,42
+97RF,97RF-21-05,100,Tiang,Ki beureum,1,32
+97RF,97RF-21-05,100,Tiang,Ki pare,1,51
+97RF,97RF-21-05,100,Tiang,Ki beureum,1,39
+97RF,97RF-21-05,100,Tiang,Ki huut,1,50
+97RF,97RF-21-05,100,Tiang,Kanyere,1,63
+97RF,97RF-21-05,100,Tiang,Ki pare,1,61
+97RF,97RF-21-05,100,Tiang,Jirak,1,63
+97RF,97RF-21-05,400,Pohon,Ki pare,1,123
+97RF,97RF-21-05,400,Pohon,Ki pare,1,151
+97RF,97RF-21-05,400,Pohon,Cangcaratan,1,113
+97RF,97RF-21-05,400,Pohon,Ki soge,1,88
+97RF,97RF-24-01,4,TB-semai,Cariang,5,0
+97RF,97RF-24-01,4,TB-semai,Parasi,6,0
+97RF,97RF-24-01,4,TB-semai,Kacembang,1,0
+97RF,97RF-24-01,4,TB-semai,Patat,3,0
+97RF,97RF-24-01,4,TB-semai,Rotan,4,0
+97RF,97RF-24-01,4,TB-semai,Ki barela,4,0
+97RF,97RF-24-01,4,TB-semai,Papakuan,3,0
+97RF,97RF-24-01,4,TB-semai,Ki asahan,2,0
+97RF,97RF-24-01,4,TB-semai,Harendong,5,0
+97RF,97RF-24-01,4,TB-semai,Tepus,3,0
+97RF,97RF-24-01,4,TB-semai,Mara,1,0
+97RF,97RF-24-01,4,TB-semai,Salak,2,0
+97RF,97RF-24-01,4,TB-semai,Bangban,6,0
+97RF,97RF-24-01,4,TB-semai,Kalabahe,1,0
+97RF,97RF-24-01,25,Pancang,Katulampa,3,0
+97RF,97RF-24-01,25,Pancang,Ki lilin,4,0
+97RF,97RF-24-01,25,Pancang,Ki beureum,5,0
+97RF,97RF-24-01,25,Pancang,Tuak kalapa,2,0
+97RF,97RF-24-01,25,Pancang,Mara,2,0
+97RF,97RF-24-01,25,Pancang,Salak,4,0
+97RF,97RF-24-01,25,Pancang,Dacumpit,1,0
+97RF,97RF-24-01,100,Tiang,Saryawan,1,56
+97RF,97RF-24-01,100,Tiang,Cangcaratan,1,55
+97RF,97RF-24-01,100,Tiang,Ki calung,1,48
+97RF,97RF-24-01,400,Pohon,Cangcaratan,1,61
+97RF,97RF-24-01,400,Pohon,Benying,1,78
+97RF,97RF-24-01,400,Pohon,Bengang,1,69
+97RF,97RF-24-01,400,Pohon,Padali,1,84
+97RF,97RF-24-01,400,Pohon,Heas,1,83
+97RF,97RF-24-02,4,TB-semai,Kaman,10,0
+97RF,97RF-24-02,4,TB-semai,Rotan,3,0
+97RF,97RF-24-02,4,TB-semai,Kasongket,2,0
+97RF,97RF-24-02,4,TB-semai,Ki asahan,3,0
+97RF,97RF-24-02,4,TB-semai,Ki barela,4,0
+97RF,97RF-24-02,25,Pancang,Sauheun,3,0
+97RF,97RF-24-02,25,Pancang,Ipis kulit,4,0
+97RF,97RF-24-02,25,Pancang,Ki mokla,2,0
+97RF,97RF-24-02,25,Pancang,Hanjiat,3,0
+97RF,97RF-24-02,25,Pancang,Angrit,3,0
+97RF,97RF-24-02,100,Tiang,Ki teja,1,47
+97RF,97RF-24-02,100,Tiang,Ipis kulit,1,51
+97RF,97RF-24-02,100,Tiang,Ipis kulit,1,40
+97RF,97RF-24-02,100,Tiang,Ki teja,1,51
+97RF,97RF-24-02,400,Pohon,Ganitri,1,121
+97RF,97RF-24-02,400,Pohon,Ganitri,1,74
+97RF,97RF-24-02,400,Pohon,Ki teja,1,84
+97RF,97RF-24-02,400,Pohon,Cangcaratan,1,64
+97RF,97RF-24-02,400,Pohon,Hantap heulang,1,109
+97RF,97RF-24-02,400,Pohon,Taritih,1,203
+97RF,97RF-24-03,4,TB-semai,Cariang,4,0
+97RF,97RF-24-03,4,TB-semai,Kaman,1,0
+97RF,97RF-24-03,4,TB-semai,Bingbin,3,0
+97RF,97RF-24-03,4,TB-semai,Sayar,2,0
+97RF,97RF-24-03,4,TB-semai,Bangban,2,0
+97RF,97RF-24-03,4,TB-semai,Jirak,2,0
+97RF,97RF-24-03,4,TB-semai,Ki barela,1,0
+97RF,97RF-24-03,25,Pancang,Ceuri,4,0
+97RF,97RF-24-03,25,Pancang,Sauheun,1,0
+97RF,97RF-24-03,25,Pancang,Bingbin,4,0
+97RF,97RF-24-03,25,Pancang,Mara,13,0
+97RF,97RF-24-03,25,Pancang,Cangkore,5,0
+97RF,97RF-24-03,25,Pancang,Rotan,3,0
+97RF,97RF-24-03,25,Pancang,Salak,4,0
+97RF,97RF-24-03,25,Pancang,Hantap,1,0
+97RF,97RF-24-03,25,Pancang,Ki beureum,3,0
+97RF,97RF-24-03,25,Pancang,Ganitri,2,0
+97RF,97RF-24-03,25,Pancang,Sayar,2,0
+97RF,97RF-24-03,25,Pancang,Huru,3,0
+97RF,97RF-24-03,25,Pancang,Ki tulang,4,0
+97RF,97RF-24-03,100,Tiang,Ki teja,1,30
+97RF,97RF-24-03,100,Tiang,Ki teja,1,51
+97RF,97RF-24-03,100,Tiang,Pinango,1,41
+97RF,97RF-24-03,100,Tiang,Pinango,1,60
+97RF,97RF-24-03,100,Tiang,Ki jahe,1,35
+97RF,97RF-24-03,100,Tiang,Rengas,1,40
+97RF,97RF-24-03,400,Pohon,Ki teja,1,70
+97RF,97RF-24-03,400,Pohon,Dahu,1,108
+97RF,97RF-24-03,400,Pohon,Bengang,1,98
+97RF,97RF-24-04,4,TB-semai,Rotan,6,0
+97RF,97RF-24-04,4,TB-semai,Cariang,5,0
+97RF,97RF-24-04,4,TB-semai,Hata,7,0
+97RF,97RF-24-04,4,TB-semai,Tuak kalapa,1,0
+97RF,97RF-24-04,25,Pancang,Bengang,3,0
+97RF,97RF-24-04,25,Pancang,Cangkore,6,0
+97RF,97RF-24-04,25,Pancang,Ki calung,2,0
+97RF,97RF-24-04,25,Pancang,Huru payung,1,0
+97RF,97RF-24-04,25,Pancang,Ki tulang,3,0
+97RF,97RF-24-04,25,Pancang,Ipis kulit,3,0
+97RF,97RF-24-04,100,Tiang,Ki calung,1,45
+97RF,97RF-24-04,400,Pohon,Ki calung,1,47
+97RF,97RF-24-04,400,Pohon,Ki teja,1,64
+97RF,97RF-24-04,400,Pohon,Bengang,1,67
+97RF,97RF-24-04,400,Pohon,Kuhkuran,1,66
+97RF,97RF-24-04,400,Pohon,Angrit,1,73
+97RF,97RF-24-05,4,TB-semai,Jingjing kulit,2,0
+97RF,97RF-24-05,4,TB-semai,Hata,30,0
+97RF,97RF-24-05,4,TB-semai,Katulampa,2,0
+97RF,97RF-24-05,4,TB-semai,Gadel,2,0
+97RF,97RF-24-05,4,TB-semai,Tukal takal,1,0
+97RF,97RF-24-05,4,TB-semai,Hanjuang,3,0
+97RF,97RF-24-05,25,Pancang,Bingbin,4,0
+97RF,97RF-24-05,25,Pancang,Kaung,1,0
+97RF,97RF-24-05,25,Pancang,Salak,7,0
+97RF,97RF-24-05,25,Pancang,Rotan,11,0
+97RF,97RF-24-05,25,Pancang,Papakuan,1,0
+97RF,97RF-24-05,25,Pancang,Bangban,5,0
+97RF,97RF-24-05,25,Pancang,Ki beureum,5,0
+97RF,97RF-24-05,25,Pancang,Ipis kulit,9,0
+97RF,97RF-24-05,25,Pancang,Tepus,3,0
+97RF,97RF-24-05,25,Pancang,Kaman,5,0
+97RF,97RF-24-05,100,Tiang,Ki huut,1,33
+97RF,97RF-24-05,100,Tiang,Ki pare,1,43
+97RF,97RF-24-05,100,Tiang,Jirak,1,59
+97RF,97RF-24-05,100,Tiang,Heas,1,47
+97RF,97RF-24-05,400,Pohon,Ki calung,1,108
+97RF,97RF-24-05,400,Pohon,Ki calung,1,64
+97RF,97RF-24-05,400,Pohon,Ganitri,1,90
+97RF,97RF-24-05,400,Pohon,Pinango,1,67
+97RF,97RF-24-05,400,Pohon,Ki calung,1,102
+76FB,76FB-22-01,4,TB-semai,Bingbin,17,0
+76FB,76FB-22-01,4,TB-semai,Kaman,2,0
+76FB,76FB-22-01,4,TB-semai,Rotan,3,0
+76FB,76FB-22-01,4,TB-semai,Jingjing kulit,2,0
+76FB,76FB-22-01,4,TB-semai,Bulu muka,3,0
+76FB,76FB-22-01,4,TB-semai,Ki calung,4,0
+76FB,76FB-22-01,4,TB-semai,Bangban,4,0
+76FB,76FB-22-01,25,Pancang,Bingbin,5,0
+76FB,76FB-22-01,25,Pancang,Kaman,6,0
+76FB,76FB-22-01,25,Pancang,Ki beureum,2,0
+76FB,76FB-22-01,25,Pancang,Heucit,3,0
+76FB,76FB-22-01,25,Pancang,Buluh,3,0
+76FB,76FB-22-01,25,Pancang,kinangsih,4,0
+76FB,76FB-22-01,25,Pancang,Angrit,3,0
+76FB,76FB-22-01,25,Pancang,Caril,2,0
+76FB,76FB-22-01,25,Pancang,katulampa,1,0
+76FB,76FB-22-01,25,Pancang,Ki huut,3,0
+76FB,76FB-22-01,100,Tiang,Ki kacang,1,41
+76FB,76FB-22-01,100,Tiang,Peuris,1,46
+76FB,76FB-22-01,100,Tiang,Ki bonteng,1,46
+76FB,76FB-22-01,100,Tiang,Salam,1,43
+76FB,76FB-22-01,100,Tiang,Peuris,1,46
+76FB,76FB-22-01,100,Tiang,Teureup,1,47
+76FB,76FB-22-01,400,Pohon,Ki jahe,1,149
+76FB,76FB-22-01,400,Pohon,Salam,1,91
+76FB,76FB-22-01,400,Pohon,Salam,1,101
+76FB,76FB-22-01,400,Pohon,Ki calung,1,63
+76FB,76FB-22-01,400,Pohon,Dahu,1,119
+76FB,76FB-22-01,400,Pohon,Ki sampang,1,111
+76FB,76FB-22-01,400,Pohon,Ki sampang,1,106
+76FB,76FB-22-01,400,Pohon,Ki harupat,1,93
+76FB,76FB-22-01,400,Pohon,Ki calung,1,108
+76FB,76FB-22-01,400,Pohon,Ki sampang,1,105
+76FB,76FB-22-01,400,Pohon,Ki harupat,1,103
+76FB,76FB-22-02,4,TB-semai,Parasi,3,0
+76FB,76FB-22-02,4,TB-semai,Bingbin,5,0
+76FB,76FB-22-02,4,TB-semai,Papakuan,6,0
+76FB,76FB-22-02,4,TB-semai,Ki barela,2,0
+76FB,76FB-22-02,4,TB-semai,Rotan,5,0
+76FB,76FB-22-02,4,TB-semai,Haraghag,3,0
+76FB,76FB-22-02,25,Pancang,Ki beureum,4,0
+76FB,76FB-22-02,25,Pancang,Ki jahe,2,0
+76FB,76FB-22-02,25,Pancang,Jirak,6,0
+76FB,76FB-22-02,25,Pancang,Ipis kulit,3,0
+76FB,76FB-22-02,25,Pancang,Mara,2,0
+76FB,76FB-22-02,25,Pancang,Ki sampang,2,0
+76FB,76FB-22-02,25,Pancang,Cangkore,3,0
+76FB,76FB-22-02,25,Pancang,Ki soge,1,0
+76FB,76FB-22-02,100,Tiang,Jirak,1,49
+76FB,76FB-22-02,100,Tiang,Angrit,1,55
+76FB,76FB-22-02,100,Tiang,Ki teja,1,41
+76FB,76FB-22-02,100,Tiang,Ki teja,1,38
+76FB,76FB-22-02,100,Tiang,Ki pare,1,59
+76FB,76FB-22-02,100,Tiang,Hanjiat,1,50
+76FB,76FB-22-02,400,Pohon,Jirak,1,61
+76FB,76FB-22-02,400,Pohon,Ki kacang,1,69
+76FB,76FB-22-02,400,Pohon,Ki kacang,1,71
+76FB,76FB-22-02,400,Pohon,Ki laja,1,62
+76FB,76FB-22-02,400,Pohon,Hanjiat,1,84
+76FB,76FB-22-03,4,TB-semai,Cariang,3,0
+76FB,76FB-22-03,4,TB-semai,Papakuan,5,0
+76FB,76FB-22-03,4,TB-semai,Bangban,2,0
+76FB,76FB-22-03,4,TB-semai,Bingbin,6,0
+76FB,76FB-22-03,4,TB-semai,Haraghag,11,0
+76FB,76FB-22-03,4,TB-semai,Rotan,7,0
+76FB,76FB-22-03,4,TB-semai,Huni,2,0
+76FB,76FB-22-03,4,TB-semai,Ki huut,2,0
+76FB,76FB-22-03,25,Pancang,Hanjuang,3,0
+76FB,76FB-22-03,25,Pancang,Cangkore,4,0
+76FB,76FB-22-03,25,Pancang,Hanjuang,4,0
+76FB,76FB-22-03,25,Pancang,Ipis kulit,5,0
+76FB,76FB-22-03,25,Pancang,Cangcaratan,4,0
+76FB,76FB-22-03,25,Pancang,Papakuan,3,0
+76FB,76FB-22-03,25,Pancang,Rotan,5,0
+76FB,76FB-22-03,25,Pancang,Jirak,6,0
+76FB,76FB-22-03,100,Tiang,Cangcaratan,1,47
+76FB,76FB-22-03,100,Tiang,Cangcaratan,1,47
+76FB,76FB-22-03,100,Tiang,Cangcaratan,1,45
+76FB,76FB-22-03,100,Tiang,Ki sampang,1,47
+76FB,76FB-22-03,100,Tiang,Ipis kulit,1,36
+76FB,76FB-22-03,100,Tiang,Kuhkuran,1,43
+76FB,76FB-22-03,100,Tiang,Ki sampang,1,55
+76FB,76FB-22-03,100,Tiang,Ki soge,1,47
+76FB,76FB-22-03,400,Pohon,Ki teja,1,62
+76FB,76FB-22-03,400,Pohon,Dahu,1,94
+76FB,76FB-22-03,400,Pohon,Pinango,1,80
+76FB,76FB-22-03,400,Pohon,Heas,1,82
+76FB,76FB-22-04,4,TB-semai,Ki barela,6,0
+76FB,76FB-22-04,4,TB-semai,Papakuan,8,0
+76FB,76FB-22-04,4,TB-semai,Cangkore,3,0
+76FB,76FB-22-04,4,TB-semai,Cariang,3,0
+76FB,76FB-22-04,4,TB-semai,Rotan,2,0
+76FB,76FB-22-04,4,TB-semai,Parasi,4,0
+76FB,76FB-22-04,4,TB-semai,Tuak kalapa,1,0
+76FB,76FB-22-04,4,TB-semai,Haraghag,5,0
+76FB,76FB-22-04,4,TB-semai,Heas,3,0
+76FB,76FB-22-04,4,TB-semai,Bingbin,4,0
+76FB,76FB-22-04,25,Pancang,Bisoro,3,0
+76FB,76FB-22-04,25,Pancang,Ki merak,4,0
+76FB,76FB-22-04,25,Pancang,Cangcaratan,1,0
+76FB,76FB-22-04,25,Pancang,Ganitri,1,0
+76FB,76FB-22-04,25,Pancang,Teureup,2,0
+76FB,76FB-22-04,100,Tiang,Ki teja,1,45
+76FB,76FB-22-04,100,Tiang,Ki kacang,1,59
+76FB,76FB-22-04,100,Tiang,Heas,1,43
+76FB,76FB-22-04,100,Tiang,Kiara,1,45
+76FB,76FB-22-04,400,Pohon,Ki pare,1,67
+76FB,76FB-22-04,400,Pohon,Ki pare,1,62
+76FB,76FB-22-04,400,Pohon,Ki huut,1,67
+76FB,76FB-22-04,400,Pohon,Ki kacang,1,75
+76FB,76FB-22-05,4,TB-semai,Hanam,1,0
+76FB,76FB-22-05,4,TB-semai,Rotan,1,0
+76FB,76FB-22-05,4,TB-semai,Bingbin,2,0
+76FB,76FB-22-05,25,Pancang,Cangkore,6,0
+76FB,76FB-22-05,25,Pancang,Cangcaratan,3,0
+76FB,76FB-22-05,25,Pancang,Benying,1,0
+76FB,76FB-22-05,25,Pancang,Jirak,5,0
+76FB,76FB-22-05,25,Pancang,Ki langir,3,0
+76FB,76FB-22-05,100,Tiang,Cangcaratan,1,41
+76FB,76FB-22-05,100,Tiang,Ki kacang,1,38
+76FB,76FB-22-05,100,Tiang,Ki pare,1,59
+76FB,76FB-22-05,100,Tiang,Pinango,1,34
+76FB,76FB-22-05,100,Tiang,Jirak,1,52
+76FB,76FB-22-05,400,Pohon,Ki pare,1,71
+76FB,76FB-22-05,400,Pohon,Purut,1,72
+76FB,76FB-25-01,4,TB-semai,Cariang,1,0
+76FB,76FB-25-01,4,TB-semai,Parasi,4,0
+76FB,76FB-25-01,4,TB-semai,Pandan,3,0
+76FB,76FB-25-01,4,TB-semai,Papakuan,3,0
+76FB,76FB-25-01,4,TB-semai,Hata,2,0
+76FB,76FB-25-01,4,TB-semai,Rotan,1,0
+76FB,76FB-25-01,4,TB-semai,Carulang,1,0
+76FB,76FB-25-01,4,TB-semai,Salam,1,0
+76FB,76FB-25-01,4,TB-semai,Ki huut,4,0
+76FB,76FB-25-01,4,TB-semai,Tuak kalapa,2,0
+76FB,76FB-25-01,25,Pancang,Cangkuang,7,0
+76FB,76FB-25-01,25,Pancang,Rotan,3,0
+76FB,76FB-25-01,25,Pancang,Padali,4,0
+76FB,76FB-25-01,25,Pancang,Ki huut,3,0
+76FB,76FB-25-01,25,Pancang,Salam,4,0
+76FB,76FB-25-01,25,Pancang,Bingbin,1,0
+76FB,76FB-25-01,25,Pancang,Ceuri,3,0
+76FB,76FB-25-01,25,Pancang,Purut,4,0
+76FB,76FB-25-01,100,Tiang,Heas,1,46
+76FB,76FB-25-01,100,Tiang,Parahral,1,60
+76FB,76FB-25-01,100,Tiang,Ceuri,1,31
+76FB,76FB-25-01,100,Tiang,Ki teja,1,38
+76FB,76FB-25-01,100,Tiang,Bengang,1,58
+76FB,76FB-25-01,100,Tiang,Parahral,1,89
+76FB,76FB-25-01,400,Pohon,Ki huut,1,67
+76FB,76FB-25-01,400,Pohon,Ceuri,1,74
+76FB,76FB-25-01,400,Pohon,Bengang,1,85
+76FB,76FB-25-01,400,Pohon,Kuhkuran,1,77
+76FB,76FB-25-01,400,Pohon,Heas,1,106
+76FB,76FB-25-01,400,Pohon,Ki beureum,1,100
+76FB,76FB-25-01,400,Pohon,Ki huut,1,63
+76FB,76FB-25-01,400,Pohon,Hareumeung,1,67
+76FB,76FB-25-01,400,Pohon,Padali,1,66
+76FB,76FB-25-01,400,Pohon,Ki calung,1,66
+76FB,76FB-25-02,4,TB-semai,Ki sejen,4,0
+76FB,76FB-25-02,4,TB-semai,Pandan,1,0
+76FB,76FB-25-02,4,TB-semai,Kasongket,3,0
+76FB,76FB-25-02,4,TB-semai,Lampeni ,2,0
+76FB,76FB-25-02,4,TB-semai,Gadel,1,0
+76FB,76FB-25-02,25,Pancang,Bingbin,3,0
+76FB,76FB-25-02,25,Pancang,Salam,3,0
+76FB,76FB-25-02,25,Pancang,Dahu,1,0
+76FB,76FB-25-02,25,Pancang,Ki huut,4,0
+76FB,76FB-25-02,25,Pancang,Heucit,1,0
+76FB,76FB-25-02,25,Pancang,Bengang,2,0
+76FB,76FB-25-02,25,Pancang,Rotan,1,0
+76FB,76FB-25-02,100,Tiang,Ki huut,1,53
+76FB,76FB-25-02,400,Pohon,Padali,1,75
+76FB,76FB-25-02,400,Pohon,Heucit,1,85
+76FB,76FB-25-02,400,Pohon,Lame,1,68
+76FB,76FB-25-02,400,Pohon,Ki huut,1,263
+76FB,76FB-25-02,400,Pohon,Kuhkuran,1,76
+76FB,76FB-25-02,400,Pohon,Padali,1,65
+76FB,76FB-25-02,400,Pohon,Padali,1,65
+76FB,76FB-25-02,400,Pohon,Salam,1,78
+76FB,76FB-25-02,400,Pohon,Ki kacang,1,79
+76FB,76FB-25-02,400,Pohon,Hareumeung,1,73
+76FB,76FB-25-02,400,Pohon,Salam,1,61
+76FB,76FB-25-03,4,TB-semai,Gadel,2,0
+76FB,76FB-25-03,4,TB-semai,Cariang,1,0
+76FB,76FB-25-03,4,TB-semai,Ceuri,1,0
+76FB,76FB-25-03,4,TB-semai,Rotan,1,0
+76FB,76FB-25-03,4,TB-semai,Ki teja,1,0
+76FB,76FB-25-03,25,Pancang,Bengang,1,0
+76FB,76FB-25-03,25,Pancang,Cangkore,1,0
+76FB,76FB-25-03,25,Pancang,Ki beureum,1,0
+76FB,76FB-25-03,25,Pancang,Heucit,1,0
+76FB,76FB-25-03,25,Pancang,Benying,1,0
+76FB,76FB-25-03,25,Pancang,Putat,1,0
+76FB,76FB-25-03,100,Tiang,Teureup,1,34
+76FB,76FB-25-03,100,Tiang,Putat,1,38
+76FB,76FB-25-03,100,Tiang,Jirak,1,41
+76FB,76FB-25-03,100,Tiang,Ki segel,1,40
+76FB,76FB-25-03,400,Pohon,Salam,1,52
+76FB,76FB-25-03,400,Pohon,Ceuri,1,86
+76FB,76FB-25-03,400,Pohon,Padali,1,64
+76FB,76FB-25-03,400,Pohon,Purut,1,103
+76FB,76FB-25-03,400,Pohon,Ceuri,1,67
+76FB,76FB-25-03,400,Pohon,Cangcaratan,1,63
+76FB,76FB-25-03,400,Pohon,Padali,1,73
+76FB,76FB-25-03,400,Pohon,Padali,1,99
+76FB,76FB-25-04,4,TB-semai,Rotan,10,0
+76FB,76FB-25-04,4,TB-semai,Bingbin,5,0
+76FB,76FB-25-04,4,TB-semai,Harendong bulu,4,0
+76FB,76FB-25-04,4,TB-semai,Tuak kalapa,2,0
+76FB,76FB-25-04,4,TB-semai,Hanjuang,1,0
+76FB,76FB-25-04,4,TB-semai,Parasi,4,0
+76FB,76FB-25-04,25,Pancang,Kuhkuran,1,0
+76FB,76FB-25-04,25,Pancang,Lampeni ,1,0
+76FB,76FB-25-04,25,Pancang,Burung dahu,1,0
+76FB,76FB-25-04,25,Pancang,Cangkore,3,0
+76FB,76FB-25-04,25,Pancang,Salam,4,0
+76FB,76FB-25-04,25,Pancang,Mara,1,0
+76FB,76FB-25-04,25,Pancang,Bengang,2,0
+76FB,76FB-25-04,100,Tiang,Dahu,1,30
+76FB,76FB-25-04,100,Tiang,Ki teja,1,39
+76FB,76FB-25-04,100,Tiang,Heas,1,50
+76FB,76FB-25-04,100,Tiang,Padali,1,53
+76FB,76FB-25-04,100,Tiang,Ki endog,1,45
+76FB,76FB-25-04,100,Tiang,Taritih,1,36
+76FB,76FB-25-04,100,Tiang,Cangcaratan,1,34
+76FB,76FB-25-04,100,Tiang,Cangcaratan,1,36
+76FB,76FB-25-04,100,Tiang,Ki laja,1,42
+76FB,76FB-25-04,100,Tiang,Purut,1,50
+76FB,76FB-25-04,400,Pohon,Lame,1,110
+76FB,76FB-25-04,400,Pohon,Padali,1,85
+76FB,76FB-25-04,400,Pohon,Puspa,1,66
+76FB,76FB-25-04,400,Pohon,Salam,1,65
+76FB,76FB-25-04,400,Pohon,Salam,1,78
+76FB,76FB-25-05,4,TB-semai,Rotan,5,0
+76FB,76FB-25-05,4,TB-semai,Tuak kalapa,3,0
+76FB,76FB-25-05,4,TB-semai,Saung ringgeng,2,0
+76FB,76FB-25-05,4,TB-semai,Ki huut,5,0
+76FB,76FB-25-05,4,TB-semai,Purut,3,0
+76FB,76FB-25-05,4,TB-semai,Ceuri,1,0
+76FB,76FB-25-05,25,Pancang,Hantap heulang,1,0
+76FB,76FB-25-05,25,Pancang,Salam,3,0
+76FB,76FB-25-05,25,Pancang,Rotan,4,0
+76FB,76FB-25-05,25,Pancang,Buluh,3,0
+76FB,76FB-25-05,25,Pancang,Ki huut,2,0
+76FB,76FB-25-05,25,Pancang,Canar,1,0
+76FB,76FB-25-05,25,Pancang,Padali,3,0
+76FB,76FB-25-05,25,Pancang,Hanjiat,1,0
+76FB,76FB-25-05,25,Pancang,Bingbin,3,0
+76FB,76FB-25-05,25,Pancang,Purut,2,0
+76FB,76FB-25-05,25,Pancang,Buluh,5,0
+76FB,76FB-25-05,100,Tiang,Kuhkuran,1,30
+76FB,76FB-25-05,100,Tiang,Padali,1,49
+76FB,76FB-25-05,100,Tiang,Padali,1,52
+76FB,76FB-25-05,100,Tiang,Padali,1,55
+76FB,76FB-25-05,100,Tiang,Heas,1,51
+76FB,76FB-25-05,400,Pohon,Salam,1,249
+76FB,76FB-25-05,400,Pohon,Kuhkuran,1,74
+76FB,76FB-25-05,400,Pohon,Padali,1,99
+76FB,76FB-25-05,400,Pohon,Ki lilin,1,79
+76FB,76FB-25-05,400,Pohon,Ceuri,1,101
+76FB,76FB-25-05,400,Pohon,Ki harupat,1,62
+76FB,76FB-23-01,4,TB-semai,Bingbin,3,0
+76FB,76FB-23-01,4,TB-semai,Heas,1,0
+76FB,76FB-23-01,4,TB-semai,Kakaduan,2,0
+76FB,76FB-23-01,4,TB-semai,Rotan,3,0
+76FB,76FB-23-01,4,TB-semai,Sayar,1,0
+76FB,76FB-23-01,25,Pancang,Kakaduan,1,0
+76FB,76FB-23-01,25,Pancang,Heucit,1,0
+76FB,76FB-23-01,25,Pancang,Bingbin,3,0
+76FB,76FB-23-01,25,Pancang,Cangcaratan,2,0
+76FB,76FB-23-01,25,Pancang,Bangban,4,0
+76FB,76FB-23-01,25,Pancang,Saung ringgeng,3,0
+76FB,76FB-23-01,25,Pancang,Lampeni ,5,0
+76FB,76FB-23-01,25,Pancang,Purut,3,0
+76FB,76FB-23-01,25,Pancang,Buluh,4,0
+76FB,76FB-23-01,100,Tiang,Purut,1,51
+76FB,76FB-23-01,100,Tiang,Lampeni ,1,32
+76FB,76FB-23-01,100,Tiang,Peuris,1,35
+76FB,76FB-23-01,100,Tiang,Bengang,1,55
+76FB,76FB-23-01,100,Tiang,Padali,1,59
+76FB,76FB-23-01,400,Pohon,Purut,1,91
+76FB,76FB-23-01,400,Pohon,Taritih,1,90
+76FB,76FB-23-01,400,Pohon,Ceuri,1,113
+76FB,76FB-23-01,400,Pohon,Huru medang,1,74
+76FB,76FB-23-01,400,Pohon,Heas,1,76
+76FB,76FB-23-01,400,Pohon,Purut,1,70
+76FB,76FB-23-01,400,Pohon,Jirak,1,80
+76FB,76FB-23-01,400,Pohon,Jirak,1,117
+76FB,76FB-23-01,400,Pohon,Heas,1,62
+76FB,76FB-23-02,4,TB-semai,Cangkore,3,0
+76FB,76FB-23-02,4,TB-semai,Rotan,4,0
+76FB,76FB-23-02,4,TB-semai,Papakuan,3,0
+76FB,76FB-23-02,4,TB-semai,Ki barela,1,0
+76FB,76FB-23-02,4,TB-semai,Amis mata,1,0
+76FB,76FB-23-02,25,Pancang,Hantap,3,0
+76FB,76FB-23-02,25,Pancang,Heas,4,0
+76FB,76FB-23-02,25,Pancang,Heucit,3,0
+76FB,76FB-23-02,25,Pancang,Burung dahu,1,0
+76FB,76FB-23-02,25,Pancang,Lame,1,0
+76FB,76FB-23-02,25,Pancang,Buluh,6,0
+76FB,76FB-23-02,25,Pancang,Ipis kulit,5,0
+76FB,76FB-23-02,25,Pancang,Purut,5,0
+76FB,76FB-23-02,25,Pancang,Rotan,4,0
+76FB,76FB-23-02,25,Pancang,Jirak,3,0
+76FB,76FB-23-02,100,Tiang,Heas,1,41
+76FB,76FB-23-02,100,Tiang,Jirak,1,51
+76FB,76FB-23-02,100,Tiang,Heas,1,51
+76FB,76FB-23-02,100,Tiang,Cangcaratan,1,54
+76FB,76FB-23-02,100,Tiang,Bengang,1,53
+76FB,76FB-23-02,400,Pohon,Purut,1,103
+76FB,76FB-23-02,400,Pohon,Jirak,1,65
+76FB,76FB-23-02,400,Pohon,Kuhkuran,1,79
+76FB,76FB-23-02,400,Pohon,Salam,1,69
+76FB,76FB-23-02,400,Pohon,Ceuri,1,92
+76FB,76FB-23-02,400,Pohon,Padali,1,69
+76FB,76FB-23-02,400,Pohon,Taritih,1,104
+76FB,76FB-23-02,400,Pohon,Kuhkuran,1,64
+76FB,76FB-23-02,400,Pohon,Ceuri,1,150
+76FB,76FB-23-03,4,TB-semai,Papakuan,3,0
+76FB,76FB-23-03,4,TB-semai,Rotan,5,0
+76FB,76FB-23-03,4,TB-semai,Purut,2,0
+76FB,76FB-23-03,4,TB-semai,Cariang,1,0
+76FB,76FB-23-03,4,TB-semai,Tuak kalapa,1,0
+76FB,76FB-23-03,4,TB-semai,Hata,1,0
+76FB,76FB-23-03,25,Pancang,Buluh,5,0
+76FB,76FB-23-03,25,Pancang,Jirak,6,0
+76FB,76FB-23-03,25,Pancang,Ki kacang,3,0
+76FB,76FB-23-03,25,Pancang,Purut,4,0
+76FB,76FB-23-03,25,Pancang,Ipis kulit,3,0
+76FB,76FB-23-03,25,Pancang,Ceuri,4,0
+76FB,76FB-23-03,25,Pancang,Ki huut,3,0
+76FB,76FB-23-03,25,Pancang,Ki mokla,1,0
+76FB,76FB-23-03,100,Tiang,Jirak,1,45
+76FB,76FB-23-03,100,Tiang,Lampeni ,1,49
+76FB,76FB-23-03,400,Pohon,Kuhkuran,1,74
+76FB,76FB-23-03,400,Pohon,Purut,1,87
+76FB,76FB-23-03,400,Pohon,Jirak,1,79
+76FB,76FB-23-03,400,Pohon,Bengang,1,88
+76FB,76FB-23-03,400,Pohon,Ceuri,1,85
+76FB,76FB-23-03,400,Pohon,Bengang,1,104
+76FB,76FB-23-03,400,Pohon,Ceuri,1,85
+76FB,76FB-23-03,400,Pohon,Heas,1,141
+76FB,76FB-23-03,400,Pohon,Teureup,1,83
+76FB,76FB-23-03,400,Pohon,Purut,1,16
+76FB,76FB-23-04,4,TB-semai,Papakuan,2,0
+76FB,76FB-23-04,4,TB-semai,Bingbin,4,0
+76FB,76FB-23-04,4,TB-semai,Rotan,2,0
+76FB,76FB-23-04,4,TB-semai,Sayar,2,0
+76FB,76FB-23-04,4,TB-semai,Patat,3,0
+76FB,76FB-23-04,25,Pancang,Purut,3,0
+76FB,76FB-23-04,25,Pancang,Buluh,6,0
+76FB,76FB-23-04,25,Pancang,Heucit,1,0
+76FB,76FB-23-04,25,Pancang,Bengang,1,0
+76FB,76FB-23-04,25,Pancang,Bingbin,2,0
+76FB,76FB-23-04,25,Pancang,Hanjiat,1,0
+76FB,76FB-23-04,25,Pancang,Burung dahu,3,0
+76FB,76FB-23-04,100,Tiang,Bungur,1,39
+76FB,76FB-23-04,100,Tiang,Ceuri,1,54
+76FB,76FB-23-04,100,Tiang,Ki ganik,1,50
+76FB,76FB-23-04,400,Pohon,Padali,1,74
+76FB,76FB-23-04,400,Pohon,Taritih,1,74
+76FB,76FB-23-04,400,Pohon,Ceuri,1,84
+76FB,76FB-23-04,400,Pohon,Salam,1,213
+76FB,76FB-23-04,400,Pohon,Ki mokla,1,115
+76FB,76FB-23-04,400,Pohon,Jirak,1,73
+76FB,76FB-23-04,400,Pohon,Ceuri,1,65
+76FB,76FB-23-04,400,Pohon,Padali,1,175
+76FB,76FB-23-04,400,Pohon,Ceuri,1,81
+76FB,76FB-23-04,400,Pohon,Jirak,1,82
+76FB,76FB-23-04,400,Pohon,Taritih,1,67
+76FB,76FB-23-05,4,TB-semai,Haraghag,8,0
+76FB,76FB-23-05,4,TB-semai,Papakuan,2,0
+76FB,76FB-23-05,4,TB-semai,Bingbin,2,0
+76FB,76FB-23-05,4,TB-semai,Hata,3,0
+76FB,76FB-23-05,4,TB-semai,Rotan,1,0
+76FB,76FB-23-05,4,TB-semai,Carulang,3,0
+76FB,76FB-23-05,25,Pancang,Jirak,10,0
+76FB,76FB-23-05,25,Pancang,Ceuri,2,0
+76FB,76FB-23-05,25,Pancang,Buluh,6,0
+76FB,76FB-23-05,25,Pancang,Bingbin,3,0
+76FB,76FB-23-05,25,Pancang,Ki huut,3,0
+76FB,76FB-23-05,25,Pancang,Cau kole,4,0
+76FB,76FB-23-05,25,Pancang,Sulangkar,2,0
+76FB,76FB-23-05,25,Pancang,Hanjiat,3,0
+76FB,76FB-23-05,25,Pancang,Kuhkuran,1,0
+76FB,76FB-23-05,100,Tiang,Jirak,1,57
+76FB,76FB-23-05,100,Tiang,Jirak,1,43
+76FB,76FB-23-05,100,Tiang,Putat,1,55
+76FB,76FB-23-05,100,Tiang,Ki segel,1,41
+76FB,76FB-23-05,100,Tiang,Purut,1,59
+76FB,76FB-23-05,400,Pohon,Ki bonteng,1,70
+76FB,76FB-23-05,400,Pohon,Hanjiat,1,88
+76FB,76FB-23-05,400,Pohon,Ki mokla,1,103
+76FB,76FB-23-05,400,Pohon,Ki kacang,1,69
+76FB,76FB-23-05,400,Pohon,Purut,1,62
+76FB,76FB-27-01,4,TB-semai,Hata,2,0
+76FB,76FB-27-01,4,TB-semai,Sulangkar,1,0
+76FB,76FB-27-01,4,TB-semai,Cecentongan,3,0
+76FB,76FB-27-01,4,TB-semai,Kapol,2,0
+76FB,76FB-27-01,4,TB-semai,Kopi,17,0
+76FB,76FB-27-01,4,TB-semai,Mahoni,47,0
+76FB,76FB-27-01,4,TB-semai,Ki laja,2,0
+76FB,76FB-27-01,25,Pancang,Bayur,1,0
+76FB,76FB-27-01,25,Pancang,Mahoni,36,0
+76FB,76FB-27-01,25,Pancang,Ki langir,1,0
+76FB,76FB-27-01,25,Pancang,Mahoni,1,0
+76FB,76FB-27-01,25,Pancang,Daruak,1,0
+76FB,76FB-27-01,25,Pancang,Lampeni ,4,0
+76FB,76FB-27-01,25,Pancang,Ki lalayu,3,0
+76FB,76FB-27-01,25,Pancang,Sayar,1,0
+76FB,76FB-27-01,25,Pancang,Sulangkar,4,0
+76FB,76FB-27-01,25,Pancang,Peuris,2,0
+76FB,76FB-27-01,25,Pancang,Gompong,1,0
+76FB,76FB-27-01,25,Pancang,Kopi,11,0
+76FB,76FB-27-01,100,Tiang,Dadap,1,35
+76FB,76FB-27-01,100,Tiang,Laban,1,50
+76FB,76FB-27-01,100,Tiang,Kelor,1,34
+76FB,76FB-27-01,100,Tiang,Dahu,1,49
+76FB,76FB-27-01,100,Tiang,Mahoni,1,44
+76FB,76FB-27-01,100,Tiang,Mahoni,1,38
+76FB,76FB-27-01,400,Pohon,Mahoni,1,117
+76FB,76FB-27-01,400,Pohon,Ki hiang,1,112
+76FB,76FB-27-01,400,Pohon,Ki hiang,1,145
+76FB,76FB-27-01,400,Pohon,Mahoni,1,287
+76FB,76FB-27-02,4,TB-semai,Parasi,4,0
+76FB,76FB-27-02,4,TB-semai,Ki laja,6,0
+76FB,76FB-27-02,4,TB-semai,Kanyere,3,0
+76FB,76FB-27-02,4,TB-semai,Cecentongan,10,0
+76FB,76FB-27-02,4,TB-semai,Mahoni,54,0
+76FB,76FB-27-02,4,TB-semai,Sulangkar,4,0
+76FB,76FB-27-02,4,TB-semai,Jampang piit,4,0
+76FB,76FB-27-02,4,TB-semai,Kopi,39,0
+76FB,76FB-27-02,4,TB-semai,Ki pare,3,0
+76FB,76FB-27-02,4,TB-semai,Ki lalayu,5,0
+76FB,76FB-27-02,4,TB-semai,Lada,1,0
+76FB,76FB-27-02,4,TB-semai,Ki barela,4,0
+76FB,76FB-27-02,4,TB-semai,Bihbul,3,0
+76FB,76FB-27-02,25,Pancang,Kopi,7,0
+76FB,76FB-27-02,25,Pancang,Tangkil,3,0
+76FB,76FB-27-02,25,Pancang,Gompong,5,0
+76FB,76FB-27-02,100,Tiang,Gompong,1,39
+76FB,76FB-27-02,100,Tiang,Gompong,1,32
+76FB,76FB-27-02,100,Tiang,Mahoni,1,40
+76FB,76FB-27-02,100,Tiang,Mahoni,1,56
+76FB,76FB-27-02,100,Tiang,Mahoni,1,36
+76FB,76FB-27-02,100,Tiang,Cebreng,1,47
+76FB,76FB-27-02,400,Pohon,Ki hiang,1,113
+76FB,76FB-27-02,400,Pohon,Ki hiang,1,167
+76FB,76FB-27-02,400,Pohon,Gompong,1,68
+76FB,76FB-27-02,400,Pohon,Gompong,1,61
+76FB,76FB-27-02,400,Pohon,Ki hiang,1,112
+76FB,76FB-27-02,400,Pohon,Gompong,1,63
+76FB,76FB-27-02,400,Pohon,Gompong,1,75
+76FB,76FB-27-02,400,Pohon,Ki hiang,1,106
+76FB,76FB-27-02,400,Pohon,Ki hiang,1,156
+76FB,76FB-27-02,400,Pohon,Pete,1,111
+76FB,76FB-27-03,4,TB-semai,Kopi,6,0
+76FB,76FB-27-03,4,TB-semai,Gompong,3,0
+76FB,76FB-27-03,4,TB-semai,Buntirih,17,0
+76FB,76FB-27-03,4,TB-semai,Simperem,5,0
+76FB,76FB-27-03,4,TB-semai,Hata,2,0
+76FB,76FB-27-03,4,TB-semai,Pacipasi,6,0
+76FB,76FB-27-03,4,TB-semai,Papakuan,6,0
+76FB,76FB-27-03,4,TB-semai,Jampang beureum,1,0
+76FB,76FB-27-03,4,TB-semai,Panglay,3,0
+76FB,76FB-27-03,4,TB-semai,Icat,5,0
+76FB,76FB-27-03,4,TB-semai,Careme,9,0
+76FB,76FB-27-03,25,Pancang,Kopi,15,0
+76FB,76FB-27-03,25,Pancang,Tangkil,9,0
+76FB,76FB-27-03,25,Pancang,Gompong,4,0
+76FB,76FB-27-03,25,Pancang,Mahoni,6,0
+76FB,76FB-27-03,25,Pancang,Cebreng,3,0
+76FB,76FB-27-03,25,Pancang,Peuris,5,0
+76FB,76FB-27-03,25,Pancang,Ki lalayu,2,0
+76FB,76FB-27-03,100,Tiang,Tangkil,1,45
+76FB,76FB-27-03,100,Tiang,Tangkil,1,42
+76FB,76FB-27-03,400,Pohon,Dadap,1,67
+76FB,76FB-27-03,400,Pohon,Ki hiang,1,150
+76FB,76FB-27-03,400,Pohon,Ki hiang,1,129
+76FB,76FB-27-03,400,Pohon,Gompong,1,62
+76FB,76FB-27-03,400,Pohon,Dadap,1,84
+76FB,76FB-27-03,400,Pohon,Tangkil,1,63
+76FB,76FB-27-03,400,Pohon,Randu,1,112
+76FB,76FB-27-03,400,Pohon,Gompong,1,65
+76FB,76FB-27-03,400,Pohon,Ki hiang,1,113
+76FB,76FB-27-04,4,TB-semai,Papakuan,5,0
+76FB,76FB-27-04,4,TB-semai,Kopi,13,0
+76FB,76FB-27-04,4,TB-semai,Mahoni,10,0
+76FB,76FB-27-04,4,TB-semai,Jampang piit,6,0
+76FB,76FB-27-04,4,TB-semai,Gompong,5,0
+76FB,76FB-27-04,4,TB-semai,Hata,1,0
+76FB,76FB-27-04,4,TB-semai,Pangsor,3,0
+76FB,76FB-27-04,4,TB-semai,Ki lalayu,3,0
+76FB,76FB-27-04,4,TB-semai,Simperem,4,0
+76FB,76FB-27-04,4,TB-semai,Lada,2,0
+76FB,76FB-27-04,4,TB-semai,Pacipasi,5,0
+76FB,76FB-27-04,25,Pancang,Tangkil,5,0
+76FB,76FB-27-04,25,Pancang,Ki laja,3,0
+76FB,76FB-27-04,25,Pancang,Kopi,11,0
+76FB,76FB-27-04,25,Pancang,Gompong,2,0
+76FB,76FB-27-04,25,Pancang,Simperem,4,0
+76FB,76FB-27-04,25,Pancang,Cecentongan,9,0
+76FB,76FB-27-04,25,Pancang,Bisoro,3,0
+76FB,76FB-27-04,25,Pancang,Mahoni,6,0
+76FB,76FB-27-04,25,Pancang,Barunay,2,0
+76FB,76FB-27-04,100,Tiang,Pangsor,1,33
+76FB,76FB-27-04,100,Tiang,Gompong,1,56
+76FB,76FB-27-04,400,Pohon,Pangsor,1,120
+76FB,76FB-27-04,400,Pohon,Gompong,1,70
+76FB,76FB-27-04,400,Pohon,Nangka,1,88
+76FB,76FB-27-04,400,Pohon,Ki beureum,1,98
+76FB,76FB-27-04,400,Pohon,Dadap,1,91
+76FB,76FB-27-04,400,Pohon,Ki beureum,1,120
+76FB,76FB-27-04,400,Pohon,Ki hiang,1,125
+76FB,76FB-27-05,4,TB-semai,Kopi,36,0
+76FB,76FB-27-05,4,TB-semai,Hata,1,0
+76FB,76FB-27-05,4,TB-semai,Papakuan,9,0
+76FB,76FB-27-05,4,TB-semai,Babanyaran,2,0
+76FB,76FB-27-05,4,TB-semai,Kacapi,1,0
+76FB,76FB-27-05,25,Pancang,Bisoro,2,0
+76FB,76FB-27-05,25,Pancang,Harendong,4,0
+76FB,76FB-27-05,25,Pancang,Kopi,26,0
+76FB,76FB-27-05,25,Pancang,Simperem,3,0
+76FB,76FB-27-05,25,Pancang,Laban,1,0
+76FB,76FB-27-05,100,Tiang,Gompong,1,57
+76FB,76FB-27-05,100,Tiang,Tangkil,1,50
+76FB,76FB-27-05,100,Tiang,Pangsor,1,49
+76FB,76FB-27-05,400,Pohon,Pangsor,1,134
+76FB,76FB-27-05,400,Pohon,Ki hiang,1,142
+76FB,76FB-27-05,400,Pohon,Ki hiang,1,151
+76FB,76FB-27-05,400,Pohon,Ki hiang,1,128
+76FB,76FB-27-05,400,Pohon,Gompong,1,62
+76FB,76FB-27-05,400,Pohon,Nangka,1,81
+76FB,76FB-27-05,400,Pohon,Nangka,1,101
+76FB,76FB-27-05,400,Pohon,Tangkil,1,62
+76FB,76FB-29-01,4,TB-semai,Ki asahan,15,0
+76FB,76FB-29-01,4,TB-semai,Mahoni,17,0
+76FB,76FB-29-01,4,TB-semai,Peuris,19,0
+76FB,76FB-29-01,4,TB-semai,Ki laja,5,0
+76FB,76FB-29-01,4,TB-semai,Kawao,1,0
+76FB,76FB-29-01,4,TB-semai,Hanjuang,4,0
+76FB,76FB-29-01,4,TB-semai,Ki lalayu,4,0
+76FB,76FB-29-01,4,TB-semai,Huni,6,0
+76FB,76FB-29-01,4,TB-semai,Ki puak,7,0
+76FB,76FB-29-01,25,Pancang,Songgom,13,0
+76FB,76FB-29-01,25,Pancang,Ki pare,4,0
+76FB,76FB-29-01,25,Pancang,Peuris,5,0
+76FB,76FB-29-01,25,Pancang,Kawao,1,0
+76FB,76FB-29-01,25,Pancang,Burung dahu,2,0
+76FB,76FB-29-01,25,Pancang,Daruak,1,0
+76FB,76FB-29-01,25,Pancang,Parahulu,6,0
+76FB,76FB-29-01,25,Pancang,Laban,1,0
+76FB,76FB-29-01,25,Pancang,Huni,1,0
+76FB,76FB-29-01,25,Pancang,Ki lalayu,2,0
+76FB,76FB-29-01,100,Tiang,Mahoni,1,37
+76FB,76FB-29-01,400,Pohon,Mahoni,1,125
+76FB,76FB-29-01,400,Pohon,Mahoni,1,88
+76FB,76FB-29-01,400,Pohon,Mahoni,1,150
+76FB,76FB-29-01,400,Pohon,Mahoni,1,122
+76FB,76FB-29-01,400,Pohon,Mahoni,1,140
+76FB,76FB-29-01,400,Pohon,Mahoni,1,107
+76FB,76FB-29-01,400,Pohon,Daruak,1,76
+76FB,76FB-29-01,400,Pohon,Lame,1,87
+76FB,76FB-29-01,400,Pohon,Mahoni,1,160
+76FB,76FB-29-01,400,Pohon,Mahoni,1,162
+76FB,76FB-29-01,400,Pohon,Mahoni,1,125
+76FB,76FB-29-01,400,Pohon,Mahoni,1,106
+76FB,76FB-29-01,400,Pohon,Mahoni,1,90
+76FB,76FB-29-01,400,Pohon,Mahoni,1,101
+76FB,76FB-29-02,4,TB-semai,Kawao,4,0
+76FB,76FB-29-02,4,TB-semai,Ki puak,5,0
+76FB,76FB-29-02,4,TB-semai,Ki endog,2,0
+76FB,76FB-29-02,4,TB-semai,Oar,2,0
+76FB,76FB-29-02,4,TB-semai,Daruak,3,0
+76FB,76FB-29-02,4,TB-semai,Mahoni,9,0
+76FB,76FB-29-02,4,TB-semai,Ki lalayu,2,0
+76FB,76FB-29-02,25,Pancang,Sempur,4,0
+76FB,76FB-29-02,25,Pancang,Peuris,46,0
+76FB,76FB-29-02,25,Pancang,Kawao,3,0
+76FB,76FB-29-02,25,Pancang,Mahoni,2,0
+76FB,76FB-29-02,25,Pancang,Wareng,5,0
+76FB,76FB-29-02,25,Pancang,Daruak,3,0
+76FB,76FB-29-02,25,Pancang,Huru,2,0
+76FB,76FB-29-02,25,Pancang,Ki pare,3,0
+76FB,76FB-29-02,25,Pancang,Ki sereh,1,0
+76FB,76FB-29-02,25,Pancang,Ki lalayu,4,0
+76FB,76FB-29-02,100,Tiang,Daruak,1,44
+76FB,76FB-29-02,100,Tiang,Daruak,1,58
+76FB,76FB-29-02,400,Pohon,Daruak,1,74
+76FB,76FB-29-02,400,Pohon,Mahoni,1,104
+76FB,76FB-29-02,400,Pohon,Mahoni,1,110
+76FB,76FB-29-02,400,Pohon,Mahoni,1,102
+76FB,76FB-29-02,400,Pohon,Mahoni,1,100
+76FB,76FB-29-02,400,Pohon,Mahoni,1,104
+76FB,76FB-29-02,400,Pohon,Mahoni,1,103
+76FB,76FB-29-02,400,Pohon,Bungur,1,102
+76FB,76FB-29-02,400,Pohon,Mahoni,1,132
+76FB,76FB-29-02,400,Pohon,Mahoni,1,123
+76FB,76FB-29-03,4,TB-semai,Barebey,5,0
+76FB,76FB-29-03,4,TB-semai,Daruak,6,0
+76FB,76FB-29-03,4,TB-semai,Ki asahan,10,0
+76FB,76FB-29-03,4,TB-semai,Sulangkar,7,0
+76FB,76FB-29-03,4,TB-semai,Rotan,3,0
+76FB,76FB-29-03,4,TB-semai,Peuris,14,0
+76FB,76FB-29-03,4,TB-semai,Ki calung,4,0
+76FB,76FB-29-03,4,TB-semai,Ki puak,5,0
+76FB,76FB-29-03,25,Pancang,Benying,2,0
+76FB,76FB-29-03,25,Pancang,Sempur,3,0
+76FB,76FB-29-03,25,Pancang,Laban,6,0
+76FB,76FB-29-03,25,Pancang,Daruak,5,0
+76FB,76FB-29-03,25,Pancang,Mahoni,3,0
+76FB,76FB-29-03,25,Pancang,Pacing,4,0
+76FB,76FB-29-03,25,Pancang,Ki endog,4,0
+76FB,76FB-29-03,25,Pancang,Burung dahu,5,0
+76FB,76FB-29-03,25,Pancang,Ceuri,3,0
+76FB,76FB-29-03,25,Pancang,Songgom,2,0
+76FB,76FB-29-03,25,Pancang,Sempur,3,0
+76FB,76FB-29-03,25,Pancang,Ki calung,4,0
+76FB,76FB-29-03,25,Pancang,Jengkol,2,0
+76FB,76FB-29-03,25,Pancang,Ki pare,3,0
+76FB,76FB-29-03,25,Pancang,Huni,2,0
+76FB,76FB-29-03,25,Pancang,Peuris,33,0
+76FB,76FB-29-03,100,Tiang,Laban,1,50
+76FB,76FB-29-03,400,Pohon,Mahoni,1,150
+76FB,76FB-29-03,400,Pohon,Mahoni,1,115
+76FB,76FB-29-03,400,Pohon,Mahoni,1,150
+76FB,76FB-29-03,400,Pohon,Mahoni,1,135
+76FB,76FB-29-04,4,TB-semai,Leungsir,3,0
+76FB,76FB-29-04,4,TB-semai,Ki asahan,4,0
+76FB,76FB-29-04,4,TB-semai,Sempur,3,0
+76FB,76FB-29-04,4,TB-semai,Mahoni,9,0
+76FB,76FB-29-04,4,TB-semai,Tapo,1,0
+76FB,76FB-29-04,4,TB-semai,Pacipasi,3,0
+76FB,76FB-29-04,4,TB-semai,Icat,4,0
+76FB,76FB-29-04,4,TB-semai,Ki puak,10,0
+76FB,76FB-29-04,4,TB-semai,Wareng,6,0
+76FB,76FB-29-04,25,Pancang,Ki merak,3,0
+76FB,76FB-29-04,25,Pancang,Padali,2,0
+76FB,76FB-29-04,25,Pancang,Daruak,6,0
+76FB,76FB-29-04,25,Pancang,Ki langir,4,0
+76FB,76FB-29-04,25,Pancang,ki suit,7,0
+76FB,76FB-29-04,25,Pancang,Peuris,19,0
+76FB,76FB-29-04,25,Pancang,Jengkol,3,0
+76FB,76FB-29-04,25,Pancang,Mahoni,5,0
+76FB,76FB-29-04,25,Pancang,Burung dahu,6,0
+76FB,76FB-29-04,25,Pancang,Ceuri,3,0
+76FB,76FB-29-04,25,Pancang,Ki lalayu,4,0
+76FB,76FB-29-04,25,Pancang,Tuak kalapa,2,0
+76FB,76FB-29-04,25,Pancang,Padali,1,0
+76FB,76FB-29-04,25,Pancang,Ki laja,3,0
+76FB,76FB-29-04,100,Tiang,Laban,1,50
+76FB,76FB-29-04,100,Tiang,Laban,1,51
+76FB,76FB-29-04,100,Tiang,Daruak,1,60
+76FB,76FB-29-04,400,Pohon,Mahoni,1,118
+76FB,76FB-29-04,400,Pohon,Ki hiang,1,69
+76FB,76FB-29-04,400,Pohon,Mahoni,1,83
+76FB,76FB-29-04,400,Pohon,Sempur,1,102
+76FB,76FB-29-04,400,Pohon,Laban,1,63
+76FB,76FB-29-04,400,Pohon,Laban,1,94
+76FB,76FB-29-04,400,Pohon,Laban,1,70
+76FB,76FB-29-04,400,Pohon,Mahoni,1,164
+76FB,76FB-29-04,400,Pohon,Laban,1,74
+76FB,76FB-29-04,400,Pohon,Laban,1,65
+76FB,76FB-29-04,400,Pohon,Mahoni,1,120
+76FB,76FB-29-04,400,Pohon,Laban,1,63
+76FB,76FB-29-04,400,Pohon,Sempur,1,77
+76FB,76FB-29-04,400,Pohon,Laban,1,105
+76FB,76FB-29-04,400,Pohon,Laban,1,73
+76FB,76FB-29-04,400,Pohon,Laban,1,95
+76FB,76FB-29-05,4,TB-semai,Wareng,4,0
+76FB,76FB-29-05,4,TB-semai,Tapo,2,0
+76FB,76FB-29-05,4,TB-semai,Mahoni,6,0
+76FB,76FB-29-05,4,TB-semai,Barebey,1,0
+76FB,76FB-29-05,4,TB-semai,Ki laja,7,0
+76FB,76FB-29-05,25,Pancang,Songgom,15,0
+76FB,76FB-29-05,25,Pancang,Peuris,31,0
+76FB,76FB-29-05,25,Pancang,Sempur,4,0
+76FB,76FB-29-05,25,Pancang,Lampeni ,5,0
+76FB,76FB-29-05,25,Pancang,Ki merak,4,0
+76FB,76FB-29-05,25,Pancang,Ki pare,5,0
+76FB,76FB-29-05,25,Pancang,Daruak,6,0
+76FB,76FB-29-05,25,Pancang,Mahoni,7,0
+76FB,76FB-29-05,25,Pancang,ki suit,3,0
+76FB,76FB-29-05,25,Pancang,Laban,4,0
+76FB,76FB-29-05,100,Tiang,Mahoni,1,32
+76FB,76FB-29-05,100,Tiang,Mahoni,1,30
+76FB,76FB-29-05,100,Tiang,Laban,1,58
+76FB,76FB-29-05,400,Pohon,Daruak,1,84
+76FB,76FB-29-05,400,Pohon,Laban,1,100
+76FB,76FB-29-05,400,Pohon,Mahoni,1,86
+76FB,76FB-29-05,400,Pohon,Daruak,1,71
+76FB,76FB-29-05,400,Pohon,Sempur,1,114
+76FB,76FB-29-05,400,Pohon,Ki hiang,1,93
+76FB,76FB-29-05,400,Pohon,Mahoni,1,150
+76FB,76FB-29-05,400,Pohon,Teureup,1,64
+76FB,76FB-29-05,400,Pohon,Mahoni,1,210
+76FB,76FB-29-05,400,Pohon,Mahoni,1,135
+76FB,76FB-29-05,400,Pohon,Mahoni,1,157
